@@ -1,98 +1,100 @@
-[
-  {
-    "id": 736,
-    "title": "Parse Lisp Expression",
-    "acceptance": "47.5%",
-    "difficulty": "Hard",
-    "frequency": 1.0065947176467498,
-    "link": "https://leetcode.com/problems/parse-lisp-expression"
-  },
-  {
-    "id": 381,
-    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
-    "acceptance": "34.1%",
-    "difficulty": "Hard",
-    "frequency": 0.6946505634539769,
-    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
-  },
-  {
-    "id": 695,
-    "title": "Max Area of Island",
-    "acceptance": "62.7%",
-    "difficulty": "Medium",
-    "frequency": 0.5227168031344483,
-    "link": "https://leetcode.com/problems/max-area-of-island"
-  },
-  {
-    "id": 380,
-    "title": "Insert Delete GetRandom O(1)",
-    "acceptance": "47.5%",
-    "difficulty": "Medium",
-    "frequency": 0.2107726489416756,
-    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
-  },
-  {
-    "id": 362,
-    "title": "Design Hit Counter",
-    "acceptance": "63.7%",
-    "difficulty": "Medium",
-    "frequency": 0.14310084364067333,
-    "link": "https://leetcode.com/problems/design-hit-counter"
-  },
-  {
-    "id": 49,
-    "title": "Group Anagrams",
-    "acceptance": "56.9%",
-    "difficulty": "Medium",
-    "frequency": 0.08712516204977415,
-    "link": "https://leetcode.com/problems/group-anagrams"
-  },
-  {
-    "id": 42,
-    "title": "Trapping Rain Water",
-    "acceptance": "48.9%",
-    "difficulty": "Hard",
-    "frequency": 0.08028083126080282,
-    "link": "https://leetcode.com/problems/trapping-rain-water"
-  },
-  {
-    "id": 127,
-    "title": "Word Ladder",
-    "acceptance": "29.6%",
-    "difficulty": "Medium",
-    "frequency": 0.06804400933142625,
-    "link": "https://leetcode.com/problems/word-ladder"
-  },
-  {
-    "id": 200,
-    "title": "Number of Islands",
-    "acceptance": "46.8%",
-    "difficulty": "Medium",
-    "frequency": 0.05455898425043439,
-    "link": "https://leetcode.com/problems/number-of-islands"
-  },
-  {
-    "id": 1,
-    "title": "Two Sum",
-    "acceptance": "45.6%",
-    "difficulty": "Easy",
-    "frequency": 0.04327015683483566,
-    "link": "https://leetcode.com/problems/two-sum"
-  },
-  {
-    "id": 322,
-    "title": "Coin Change",
-    "acceptance": "35.5%",
-    "difficulty": "Medium",
-    "frequency": 0.023903996947661692,
-    "link": "https://leetcode.com/problems/coin-change"
-  },
-  {
-    "id": 230,
-    "title": "Kth Smallest Element in a BST",
-    "acceptance": "60.2%",
-    "difficulty": "Medium",
-    "frequency": 0.006085520073802784,
-    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst"
-  }
-]
+{
+  "questions": [
+    {
+      "id": 736,
+      "title": "Parse Lisp Expression",
+      "acceptance": "47.5%",
+      "difficulty": "Hard",
+      "frequency": 1.0065947176467498,
+      "link": "https://leetcode.com/problems/parse-lisp-expression"
+    },
+    {
+      "id": 381,
+      "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+      "acceptance": "34.1%",
+      "difficulty": "Hard",
+      "frequency": 0.6946505634539769,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+    },
+    {
+      "id": 695,
+      "title": "Max Area of Island",
+      "acceptance": "62.7%",
+      "difficulty": "Medium",
+      "frequency": 0.5227168031344483,
+      "link": "https://leetcode.com/problems/max-area-of-island"
+    },
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "acceptance": "47.5%",
+      "difficulty": "Medium",
+      "frequency": 0.2107726489416756,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 362,
+      "title": "Design Hit Counter",
+      "acceptance": "63.7%",
+      "difficulty": "Medium",
+      "frequency": 0.14310084364067333,
+      "link": "https://leetcode.com/problems/design-hit-counter"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "acceptance": "56.9%",
+      "difficulty": "Medium",
+      "frequency": 0.08712516204977415,
+      "link": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "acceptance": "48.9%",
+      "difficulty": "Hard",
+      "frequency": 0.08028083126080282,
+      "link": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 127,
+      "title": "Word Ladder",
+      "acceptance": "29.6%",
+      "difficulty": "Medium",
+      "frequency": 0.06804400933142625,
+      "link": "https://leetcode.com/problems/word-ladder"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "acceptance": "46.8%",
+      "difficulty": "Medium",
+      "frequency": 0.05455898425043439,
+      "link": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "acceptance": "45.6%",
+      "difficulty": "Easy",
+      "frequency": 0.04327015683483566,
+      "link": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 322,
+      "title": "Coin Change",
+      "acceptance": "35.5%",
+      "difficulty": "Medium",
+      "frequency": 0.023903996947661692,
+      "link": "https://leetcode.com/problems/coin-change"
+    },
+    {
+      "id": 230,
+      "title": "Kth Smallest Element in a BST",
+      "acceptance": "60.2%",
+      "difficulty": "Medium",
+      "frequency": 0.006085520073802784,
+      "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst"
+    }
+  ]
+}
