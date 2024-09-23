@@ -1,0 +1,122 @@
+[
+  {
+    "id": 920,
+    "title": "Number of Music Playlists",
+    "acceptance": "46.5%",
+    "difficulty": "Hard",
+    "frequency": 2.1617959520941517,
+    "link": "https://leetcode.com/problems/number-of-music-playlists"
+  },
+  {
+    "id": 453,
+    "title": "Minimum Moves to Equal Array Elements",
+    "acceptance": "50.2%",
+    "difficulty": "Easy",
+    "frequency": 1.6379595379336402,
+    "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements"
+  },
+  {
+    "id": 68,
+    "title": "Text Justification",
+    "acceptance": "27.7%",
+    "difficulty": "Hard",
+    "frequency": 1.5875791186216013,
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": 761,
+    "title": "Special Binary String",
+    "acceptance": "54.7%",
+    "difficulty": "Hard",
+    "frequency": 1.38007672450902,
+    "link": "https://leetcode.com/problems/special-binary-string"
+  },
+  {
+    "id": 10,
+    "title": "Regular Expression Matching",
+    "acceptance": "26.8%",
+    "difficulty": "Hard",
+    "frequency": 0.8562403103485083,
+    "link": "https://leetcode.com/problems/regular-expression-matching"
+  },
+  {
+    "id": 713,
+    "title": "Subarray Product Less Than K",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "frequency": 0.621799099762479,
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k"
+  },
+  {
+    "id": 780,
+    "title": "Reaching Points",
+    "acceptance": "29.4%",
+    "difficulty": "Hard",
+    "frequency": 0.3635937067449341,
+    "link": "https://leetcode.com/problems/reaching-points"
+  },
+  {
+    "id": 239,
+    "title": "Sliding Window Maximum",
+    "acceptance": "43.0%",
+    "difficulty": "Hard",
+    "frequency": 0.14289853479023557,
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "id": 44,
+    "title": "Wildcard Matching",
+    "acceptance": "24.7%",
+    "difficulty": "Hard",
+    "frequency": 0.11223226506783546,
+    "link": "https://leetcode.com/problems/wildcard-matching"
+  },
+  {
+    "id": 1112,
+    "title": "Highest Grade For Each Student",
+    "acceptance": "69.5%",
+    "difficulty": "Medium",
+    "frequency": 0.06453852113757116,
+    "link": "https://leetcode.com/problems/highest-grade-for-each-student"
+  },
+  {
+    "id": 647,
+    "title": "Palindromic Substrings",
+    "acceptance": "60.6%",
+    "difficulty": "Medium",
+    "frequency": 0.039530838756635246,
+    "link": "https://leetcode.com/problems/palindromic-substrings"
+  },
+  {
+    "id": 15,
+    "title": "3Sum",
+    "acceptance": "26.8%",
+    "difficulty": "Medium",
+    "frequency": 0.012936791030719435,
+    "link": "https://leetcode.com/problems/3sum"
+  },
+  {
+    "id": 392,
+    "title": "Is Subsequence",
+    "acceptance": "49.2%",
+    "difficulty": "Easy",
+    "frequency": 0.008688151957637906,
+    "link": "https://leetcode.com/problems/is-subsequence"
+  },
+  {
+    "id": 945,
+    "title": "Minimum Increment to Make Array Unique",
+    "acceptance": "46.3%",
+    "difficulty": "Medium",
+    "frequency": 0,
+    "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique"
+  },
+  {
+    "id": 1137,
+    "title": "N-th Tribonacci Number",
+    "acceptance": "55.9%",
+    "difficulty": "Easy",
+    "frequency": 0,
+    "link": "https://leetcode.com/problems/n-th-tribonacci-number"
+  }
+]

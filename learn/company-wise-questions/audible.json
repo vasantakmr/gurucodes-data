@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1228,
+    "title": "Missing Number In Arithmetic Progression",
+    "acceptance": "52.6%",
+    "difficulty": "Easy",
+    "frequency": 0.13219868307194554,
+    "link": "https://leetcode.com/problems/missing-number-in-arithmetic-progression"
+  },
+  {
+    "id": 545,
+    "title": "Boundary of Binary Tree",
+    "acceptance": "38.9%",
+    "difficulty": "Medium",
+    "frequency": 0.0877756108823857,
+    "link": "https://leetcode.com/problems/boundary-of-binary-tree"
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "acceptance": "46.8%",
+    "difficulty": "Medium",
+    "frequency": 0.04335253869282585,
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": 472,
+    "title": "Concatenated Words",
+    "acceptance": "43.7%",
+    "difficulty": "Hard",
+    "frequency": 0.026615010757229714,
+    "link": "https://leetcode.com/problems/concatenated-words"
+  },
+  {
+    "id": 140,
+    "title": "Word Break II",
+    "acceptance": "32.6%",
+    "difficulty": "Hard",
+    "frequency": 0.023829562832983903,
+    "link": "https://leetcode.com/problems/word-break-ii"
+  },
+  {
+    "id": 937,
+    "title": "Reorder Data in Log Files",
+    "acceptance": "54.3%",
+    "difficulty": "Easy",
+    "frequency": 0.017971729704467775,
+    "link": "https://leetcode.com/problems/reorder-data-in-log-files"
+  },
+  {
+    "id": 23,
+    "title": "Merge k Sorted Lists",
+    "acceptance": "40.2%",
+    "difficulty": "Hard",
+    "frequency": 0.015414563401186755,
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+  },
+  {
+    "id": 73,
+    "title": "Set Matrix Zeroes",
+    "acceptance": "43.1%",
+    "difficulty": "Medium",
+    "frequency": 0.015010288493889185,
+    "link": "https://leetcode.com/problems/set-matrix-zeroes"
+  },
+  {
+    "id": 139,
+    "title": "Word Break",
+    "acceptance": "40.1%",
+    "difficulty": "Medium",
+    "frequency": 0.014936797494510552,
+    "link": "https://leetcode.com/problems/word-break"
+  },
+  {
+    "id": 101,
+    "title": "Symmetric Tree",
+    "acceptance": "46.8%",
+    "difficulty": "Easy",
+    "frequency": 0.013003027580387157,
+    "link": "https://leetcode.com/problems/symmetric-tree"
+  },
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "acceptance": "45.6%",
+    "difficulty": "Easy",
+    "frequency": 0.009584050515388142,
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "acceptance": "48.9%",
+    "difficulty": "Hard",
+    "frequency": 0.009245058144051103,
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "50.5%",
+    "difficulty": "Easy",
+    "frequency": 0.008128473936202515,
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": 127,
+    "title": "Word Ladder",
+    "acceptance": "29.6%",
+    "difficulty": "Medium",
+    "frequency": 0.005731495844689608,
+    "link": "https://leetcode.com/problems/word-ladder"
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "acceptance": "39.0%",
+    "difficulty": "Easy",
+    "frequency": 0.002197682330605871,
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": 1200,
+    "title": "Minimum Absolute Difference",
+    "acceptance": "66.6%",
+    "difficulty": "Easy",
+    "frequency": 0,
+    "link": "https://leetcode.com/problems/minimum-absolute-difference"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 394,
+    "title": "Decode String",
+    "acceptance": "50.0%",
+    "difficulty": "Medium",
+    "frequency": 0.06713782998723788,
+    "link": "https://leetcode.com/problems/decode-string"
+  },
+  {
+    "id": 346,
+    "title": "Moving Average from Data Stream",
+    "acceptance": "70.9%",
+    "difficulty": "Easy",
+    "frequency": 0.03932354620391436,
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream"
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "acceptance": "46.8%",
+    "difficulty": "Medium",
+    "frequency": 0.011509262420590827,
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": 221,
+    "title": "Maximal Square",
+    "acceptance": "37.7%",
+    "difficulty": "Medium",
+    "frequency": 0.00988638798855515,
+    "link": "https://leetcode.com/problems/maximal-square"
+  },
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "acceptance": "47.5%",
+    "difficulty": "Medium",
+    "frequency": 0.009820849864094454,
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+  },
+  {
+    "id": 124,
+    "title": "Binary Tree Maximum Path Sum",
+    "acceptance": "34.3%",
+    "difficulty": "Hard",
+    "frequency": 0.005531752454833179,
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum"
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "acceptance": "29.5%",
+    "difficulty": "Medium",
+    "frequency": 0.002279333142507479,
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": 340,
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "acceptance": "44.1%",
+    "difficulty": "Hard",
+    "frequency": 0,
+    "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters"
+  }
+]
