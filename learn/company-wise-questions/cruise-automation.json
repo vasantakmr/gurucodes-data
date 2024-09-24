@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1258,
+      "title": "Synonymous Sentences",
+      "acceptance": "64.4%",
+      "difficulty": "Medium",
+      "frequency": 0.6677654778785802,
+      "link": "https://leetcode.com/problems/synonymous-sentences"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "acceptance": "33.2%",
+      "difficulty": "Medium",
+      "frequency": 0.6161320189263424,
+      "link": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 529,
+      "title": "Minesweeper",
+      "acceptance": "59.1%",
+      "difficulty": "Medium",
+      "frequency": 0.42248679567759495,
+      "link": "https://leetcode.com/problems/minesweeper"
+    },
+    {
+      "id": 281,
+      "title": "Zigzag Iterator",
+      "acceptance": "58.4%",
+      "difficulty": "Medium",
+      "frequency": 0.22884157242884745,
+      "link": "https://leetcode.com/problems/zigzag-iterator"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "acceptance": "46.8%",
+      "difficulty": "Medium",
+      "frequency": 0.20236848873924537,
+      "link": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 304,
+      "title": "Range Sum Query 2D - Immutable",
+      "acceptance": "38.6%",
+      "difficulty": "Medium",
+      "frequency": 0.053010091368830885,
+      "link": "https://leetcode.com/problems/range-sum-query-2d-immutable"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "acceptance": "39.3%",
+      "difficulty": "Medium",
+      "frequency": 0.051732885823426,
+      "link": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 394,
+      "title": "Decode String",
+      "acceptance": "50.0%",
+      "difficulty": "Medium",
+      "frequency": 0.030783500343535258,
+      "link": "https://leetcode.com/problems/decode-string"
+    },
+    {
+      "id": 44,
+      "title": "Wildcard Matching",
+      "acceptance": "24.7%",
+      "difficulty": "Hard",
+      "frequency": 0.029260865212976276,
+      "link": "https://leetcode.com/problems/wildcard-matching"
+    },
+    {
+      "id": 695,
+      "title": "Max Area of Island",
+      "acceptance": "62.7%",
+      "difficulty": "Medium",
+      "frequency": 0.02709377046225989,
+      "link": "https://leetcode.com/problems/max-area-of-island"
+    },
+    {
+      "id": 986,
+      "title": "Interval List Intersections",
+      "acceptance": "67.3%",
+      "difficulty": "Medium",
+      "frequency": 0.025555053351030123,
+      "link": "https://leetcode.com/problems/interval-list-intersections"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "acceptance": "40.2%",
+      "difficulty": "Hard",
+      "frequency": 0.023981964686485415,
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+    },
+    {
+      "id": 79,
+      "title": "Word Search",
+      "acceptance": "35.6%",
+      "difficulty": "Medium",
+      "frequency": 0.014673179500416637,
+      "link": "https://leetcode.com/problems/word-search"
+    },
+    {
+      "id": 63,
+      "title": "Unique Paths II",
+      "acceptance": "34.6%",
+      "difficulty": "Medium",
+      "frequency": 0.008375258336732413,
+      "link": "https://leetcode.com/problems/unique-paths-ii"
+    },
+    {
+      "id": 36,
+      "title": "Valid Sudoku",
+      "acceptance": "48.7%",
+      "difficulty": "Medium",
+      "frequency": 0.0069420618952821065,
+      "link": "https://leetcode.com/problems/valid-sudoku"
+    }
+  ]
+}
