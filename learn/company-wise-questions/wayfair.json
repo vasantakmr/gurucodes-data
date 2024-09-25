@@ -1,0 +1,188 @@
+{
+    "questions": [
+        {
+          "id": 1212,
+          "title": "Team Scores in Football Tournament",
+          "acceptance": "55.8%",
+          "difficulty": "Medium",
+          "frequency": 1.1574169741354225,
+          "link": "https://leetcode.com/problems/team-scores-in-football-tournament"
+        },
+        {
+          "id": 840,
+          "title": "Magic Squares In Grid",
+          "acceptance": "37.3%",
+          "difficulty": "Easy",
+          "frequency": 0.7861804130990654,
+          "link": "https://leetcode.com/problems/magic-squares-in-grid"
+        },
+        {
+          "id": 1194,
+          "title": "Tournament Winners",
+          "acceptance": "52.9%",
+          "difficulty": "Hard",
+          "frequency": 0.4149438520627081,
+          "link": "https://leetcode.com/problems/tournament-winners"
+        },
+        {
+          "id": 811,
+          "title": "Subdomain Visit Count",
+          "acceptance": "69.9%",
+          "difficulty": "Easy",
+          "frequency": 0.35434665417914124,
+          "link": "https://leetcode.com/problems/subdomain-visit-count"
+        },
+        {
+          "id": 1204,
+          "title": "Last Person to Fit in the Elevator",
+          "acceptance": "69.8%",
+          "difficulty": "Medium",
+          "frequency": 0.3042113744029915,
+          "link": "https://leetcode.com/problems/last-person-to-fit-in-the-elevator"
+        },
+        {
+          "id": 1189,
+          "title": "Maximum Number of Balloons",
+          "acceptance": "61.2%",
+          "difficulty": "Easy",
+          "frequency": 0.11874571021547974,
+          "link": "https://leetcode.com/problems/maximum-number-of-balloons"
+        },
+        {
+          "id": 759,
+          "title": "Employee Free Time",
+          "acceptance": "66.3%",
+          "difficulty": "Hard",
+          "frequency": 0.10143824284548837,
+          "link": "https://leetcode.com/problems/employee-free-time"
+        },
+        {
+          "id": 1014,
+          "title": "Best Sightseeing Pair",
+          "acceptance": "52.5%",
+          "difficulty": "Medium",
+          "frequency": 0.0903548750399561,
+          "link": "https://leetcode.com/problems/best-sightseeing-pair"
+        },
+        {
+          "id": 443,
+          "title": "String Compression",
+          "acceptance": "41.3%",
+          "difficulty": "Easy",
+          "frequency": 0.052333720049023605,
+          "link": "https://leetcode.com/problems/string-compression"
+        },
+        {
+          "id": 85,
+          "title": "Maximal Rectangle",
+          "acceptance": "37.7%",
+          "difficulty": "Hard",
+          "frequency": 0.050135812424355455,
+          "link": "https://leetcode.com/problems/maximal-rectangle"
+        },
+        {
+          "id": 5,
+          "title": "Longest Palindromic Substring",
+          "acceptance": "29.5%",
+          "difficulty": "Medium",
+          "frequency": 0.034277441353764176,
+          "link": "https://leetcode.com/problems/longest-palindromic-substring"
+        },
+        {
+          "id": 412,
+          "title": "Fizz Buzz",
+          "acceptance": "62.3%",
+          "difficulty": "Easy",
+          "frequency": 0.027152525030955416,
+          "link": "https://leetcode.com/problems/fizz-buzz"
+        },
+        {
+          "id": 718,
+          "title": "Maximum Length of Repeated Subarray",
+          "acceptance": "49.4%",
+          "difficulty": "Medium",
+          "frequency": 0.02699219201435624,
+          "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+        },
+        {
+          "id": 125,
+          "title": "Valid Palindrome",
+          "acceptance": "36.7%",
+          "difficulty": "Easy",
+          "frequency": 0.023503949324973204,
+          "link": "https://leetcode.com/problems/valid-palindrome"
+        },
+        {
+          "id": 184,
+          "title": "Department Highest Salary",
+          "acceptance": "36.7%",
+          "difficulty": "Medium",
+          "frequency": 0.018018505502678313,
+          "link": "https://leetcode.com/problems/department-highest-salary"
+        },
+        {
+          "id": 56,
+          "title": "Merge Intervals",
+          "acceptance": "39.3%",
+          "difficulty": "Medium",
+          "frequency": 0.013186279740090647,
+          "link": "https://leetcode.com/problems/merge-intervals"
+        },
+        {
+          "id": 69,
+          "title": "Sqrt(x)",
+          "acceptance": "33.9%",
+          "difficulty": "Easy",
+          "frequency": 0.010949014489670414,
+          "link": "https://leetcode.com/problems/sqrtx"
+        },
+        {
+          "id": 53,
+          "title": "Maximum Subarray",
+          "acceptance": "46.5%",
+          "difficulty": "Easy",
+          "frequency": 0.008272628741228982,
+          "link": "https://leetcode.com/problems/maximum-subarray"
+        },
+        {
+          "id": 41,
+          "title": "First Missing Positive",
+          "acceptance": "32.0%",
+          "difficulty": "Hard",
+          "frequency": 0.006163347707668678,
+          "link": "https://leetcode.com/problems/first-missing-positive"
+        },
+        {
+          "id": 210,
+          "title": "Course Schedule II",
+          "acceptance": "40.7%",
+          "difficulty": "Medium",
+          "frequency": 0.0018850146957713153,
+          "link": "https://leetcode.com/problems/course-schedule-ii"
+        },
+        {
+          "id": 1244,
+          "title": "Design A Leaderboard",
+          "acceptance": "60.7%",
+          "difficulty": "Medium",
+          "frequency": 0,
+          "link": "https://leetcode.com/problems/design-a-leaderboard"
+        },
+        {
+          "id": 1405,
+          "title": "Longest Happy String",
+          "acceptance": "49.0%",
+          "difficulty": "Medium",
+          "frequency": 0,
+          "link": "https://leetcode.com/problems/longest-happy-string"
+        },
+        {
+          "id": 1193,
+          "title": "Monthly Transactions I",
+          "acceptance": "68.3%",
+          "difficulty": "Medium",
+          "frequency": 0,
+          "link": "https://leetcode.com/problems/monthly-transactions-i"
+        }
+      ]
+}

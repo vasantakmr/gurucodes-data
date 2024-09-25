@@ -1,0 +1,36 @@
+{
+    "questions": [
+        {
+          "id": 1243,
+          "title": "Array Transformation",
+          "acceptance": "51.1%",
+          "difficulty": "Easy",
+          "frequency": 0.9978075895461441,
+          "link": "https://leetcode.com/problems/array-transformation"
+        },
+        {
+          "id": 1271,
+          "title": "Hexspeak",
+          "acceptance": "54.2%",
+          "difficulty": "Easy",
+          "frequency": 0.7407752295491999,
+          "link": "https://leetcode.com/problems/hexspeak"
+        },
+        {
+          "id": 1180,
+          "title": "Count Substrings with Only One Distinct Letter",
+          "acceptance": "77.0%",
+          "difficulty": "Easy",
+          "frequency": 0.7095409903356217,
+          "link": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter"
+        },
+        {
+          "id": 1196,
+          "title": "How Many Apples Can You Put into the Basket",
+          "acceptance": "67.9%",
+          "difficulty": "Easy",
+          "frequency": 0.668121812993005,
+          "link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket"
+        }
+      ]
+}

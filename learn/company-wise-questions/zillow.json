@@ -1,0 +1,300 @@
+{
+    "questions": [
+        {
+          "id": 273,
+          "title": "Integer to English Words",
+          "acceptance": "27.1%",
+          "difficulty": "Hard",
+          "frequency": 0.37861967367115135,
+          "link": "https://leetcode.com/problems/integer-to-english-words"
+        },
+        {
+          "id": 146,
+          "title": "LRU Cache",
+          "acceptance": "33.2%",
+          "difficulty": "Medium",
+          "frequency": 0.3225459261278396,
+          "link": "https://leetcode.com/problems/lru-cache"
+        },
+        {
+          "id": 387,
+          "title": "First Unique Character in a String",
+          "acceptance": "53.4%",
+          "difficulty": "Easy",
+          "frequency": 0.29387200474932007,
+          "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+        },
+        {
+          "id": 236,
+          "title": "Lowest Common Ancestor of a Binary Tree",
+          "acceptance": "45.7%",
+          "difficulty": "Medium",
+          "frequency": 0.27050984255037824,
+          "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+        },
+        {
+          "id": 353,
+          "title": "Design Snake Game",
+          "acceptance": "34.2%",
+          "difficulty": "Medium",
+          "frequency": 0.2144360950070665,
+          "link": "https://leetcode.com/problems/design-snake-game"
+        },
+        {
+          "id": 449,
+          "title": "Serialize and Deserialize BST",
+          "acceptance": "52.0%",
+          "difficulty": "Medium",
+          "frequency": 0.17895898716948455,
+          "link": "https://leetcode.com/problems/serialize-and-deserialize-bst"
+        },
+        {
+          "id": 981,
+          "title": "Time Based Key-Value Store",
+          "acceptance": "53.1%",
+          "difficulty": "Medium",
+          "frequency": 0.17728013452102853,
+          "link": "https://leetcode.com/problems/time-based-key-value-store"
+        },
+        {
+          "id": 127,
+          "title": "Word Ladder",
+          "acceptance": "29.6%",
+          "difficulty": "Medium",
+          "frequency": 0.16031071649701922,
+          "link": "https://leetcode.com/problems/word-ladder"
+        },
+        {
+          "id": 739,
+          "title": "Daily Temperatures",
+          "acceptance": "63.3%",
+          "difficulty": "Medium",
+          "frequency": 0.14268538871155678,
+          "link": "https://leetcode.com/problems/daily-temperatures"
+        },
+        {
+          "id": 43,
+          "title": "Multiply Strings",
+          "acceptance": "33.9%",
+          "difficulty": "Medium",
+          "frequency": 0.13149814559900883,
+          "link": "https://leetcode.com/problems/multiply-strings"
+        },
+        {
+          "id": 113,
+          "title": "Path Sum II",
+          "acceptance": "46.7%",
+          "difficulty": "Medium",
+          "frequency": 0.10919117261048063,
+          "link": "https://leetcode.com/problems/path-sum-ii"
+        },
+        {
+          "id": 362,
+          "title": "Design Hit Counter",
+          "acceptance": "63.7%",
+          "difficulty": "Medium",
+          "frequency": 0.09391059944990159,
+          "link": "https://leetcode.com/problems/design-hit-counter"
+        },
+        {
+          "id": 139,
+          "title": "Word Break",
+          "acceptance": "40.1%",
+          "difficulty": "Medium",
+          "frequency": 0.07342247443539282,
+          "link": "https://leetcode.com/problems/word-break"
+        },
+        {
+          "id": 437,
+          "title": "Path Sum III",
+          "acceptance": "47.2%",
+          "difficulty": "Medium",
+          "frequency": 0.07021412138431063,
+          "link": "https://leetcode.com/problems/path-sum-iii"
+        },
+        {
+          "id": 112,
+          "title": "Path Sum",
+          "acceptance": "41.2%",
+          "difficulty": "Easy",
+          "frequency": 0.062250218772217134,
+          "link": "https://leetcode.com/problems/path-sum"
+        },
+        {
+          "id": 443,
+          "title": "String Compression",
+          "acceptance": "41.3%",
+          "difficulty": "Easy",
+          "frequency": 0.052333720049023605,
+          "link": "https://leetcode.com/problems/string-compression"
+        },
+        {
+          "id": 20,
+          "title": "Valid Parentheses",
+          "acceptance": "39.0%",
+          "difficulty": "Easy",
+          "frequency": 0.034596174971291214,
+          "link": "https://leetcode.com/problems/valid-parentheses"
+        },
+        {
+          "id": 4,
+          "title": "Median of Two Sorted Arrays",
+          "acceptance": "29.6%",
+          "difficulty": "Hard",
+          "frequency": 0.032966999734600134,
+          "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+        },
+        {
+          "id": 1,
+          "title": "Two Sum",
+          "acceptance": "45.6%",
+          "difficulty": "Easy",
+          "frequency": 0.03267443218434049,
+          "link": "https://leetcode.com/problems/two-sum"
+        },
+        {
+          "id": 53,
+          "title": "Maximum Subarray",
+          "acceptance": "46.5%",
+          "difficulty": "Easy",
+          "frequency": 0.02512179687463535,
+          "link": "https://leetcode.com/problems/maximum-subarray"
+        },
+        {
+          "id": 121,
+          "title": "Best Time to Buy and Sell Stock",
+          "acceptance": "50.5%",
+          "difficulty": "Easy",
+          "frequency": 0.02468763599282147,
+          "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+        },
+        {
+          "id": 23,
+          "title": "Merge k Sorted Lists",
+          "acceptance": "40.2%",
+          "difficulty": "Hard",
+          "frequency": 0.023981964686485415,
+          "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+        },
+        {
+          "id": 285,
+          "title": "Inorder Successor in BST",
+          "acceptance": "40.4%",
+          "difficulty": "Medium",
+          "frequency": 0.021266085846178402,
+          "link": "https://leetcode.com/problems/inorder-successor-in-bst"
+        },
+        {
+          "id": 212,
+          "title": "Word Search II",
+          "acceptance": "34.9%",
+          "difficulty": "Hard",
+          "frequency": 0.021038644146708085,
+          "link": "https://leetcode.com/problems/word-search-ii"
+        },
+        {
+          "id": 33,
+          "title": "Search in Rotated Sorted Array",
+          "acceptance": "34.5%",
+          "difficulty": "Medium",
+          "frequency": 0.019219533793635182,
+          "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+        },
+        {
+          "id": 268,
+          "title": "Missing Number",
+          "acceptance": "51.7%",
+          "difficulty": "Easy",
+          "frequency": 0.01854480591539982,
+          "link": "https://leetcode.com/problems/missing-number"
+        },
+        {
+          "id": 151,
+          "title": "Reverse Words in a String",
+          "acceptance": "21.9%",
+          "difficulty": "Medium",
+          "frequency": 0.018535861301292162,
+          "link": "https://leetcode.com/problems/reverse-words-in-a-string"
+        },
+        {
+          "id": 289,
+          "title": "Game of Life",
+          "acceptance": "54.5%",
+          "difficulty": "Medium",
+          "frequency": 0.01662548684613402,
+          "link": "https://leetcode.com/problems/game-of-life"
+        },
+        {
+          "id": 299,
+          "title": "Bulls and Cows",
+          "acceptance": "42.4%",
+          "difficulty": "Easy",
+          "frequency": 0.015504186535965254,
+          "link": "https://leetcode.com/problems/bulls-and-cows"
+        },
+        {
+          "id": 79,
+          "title": "Word Search",
+          "acceptance": "35.6%",
+          "difficulty": "Medium",
+          "frequency": 0.014673179500416637,
+          "link": "https://leetcode.com/problems/word-search"
+        },
+        {
+          "id": 150,
+          "title": "Evaluate Reverse Polish Notation",
+          "acceptance": "36.3%",
+          "difficulty": "Medium",
+          "frequency": 0.01355493475171521,
+          "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation"
+        },
+        {
+          "id": 3,
+          "title": "Longest Substring Without Repeating Characters",
+          "acceptance": "30.4%",
+          "difficulty": "Medium",
+          "frequency": 0.013288251045064422,
+          "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+        },
+        {
+          "id": 13,
+          "title": "Roman to Integer",
+          "acceptance": "55.7%",
+          "difficulty": "Easy",
+          "frequency": 0.01303586978808304,
+          "link": "https://leetcode.com/problems/roman-to-integer"
+        },
+        {
+          "id": 695,
+          "title": "Max Area of Island",
+          "acceptance": "62.7%",
+          "difficulty": "Medium",
+          "frequency": 0.012132390248237822,
+          "link": "https://leetcode.com/problems/max-area-of-island"
+        },
+        {
+          "id": 140,
+          "title": "Word Break II",
+          "acceptance": "32.6%",
+          "difficulty": "Hard",
+          "frequency": 0.010661081786113668,
+          "link": "https://leetcode.com/problems/word-break-ii"
+        },
+        {
+          "id": 8,
+          "title": "String to Integer (atoi)",
+          "acceptance": "15.4%",
+          "difficulty": "Medium",
+          "frequency": 0.008133799926770198,
+          "link": "https://leetcode.com/problems/string-to-integer-atoi"
+        },
+        {
+          "id": 283,
+          "title": "Move Zeroes",
+          "acceptance": "57.8%",
+          "difficulty": "Easy",
+          "frequency": 0.002758622439079723,
+          "link": "https://leetcode.com/problems/move-zeroes"
+        }
+      ]
+}

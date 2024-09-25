@@ -1,0 +1,84 @@
+{
+    "questions": [
+        {
+          "id": 56,
+          "title": "Merge Intervals",
+          "acceptance": "39.3%",
+          "difficulty": "Medium",
+          "frequency": 0.10703248793941993,
+          "link": "https://leetcode.com/problems/merge-intervals"
+        },
+        {
+          "id": 1138,
+          "title": "Alphabet Board Path",
+          "acceptance": "48.4%",
+          "difficulty": "Medium",
+          "frequency": 0.06635853611859671,
+          "link": "https://leetcode.com/problems/alphabet-board-path"
+        },
+        {
+          "id": 242,
+          "title": "Valid Anagram",
+          "acceptance": "56.9%",
+          "difficulty": "Easy",
+          "frequency": 0.025684584297773504,
+          "link": "https://leetcode.com/problems/valid-anagram"
+        },
+        {
+          "id": 10,
+          "title": "Regular Expression Matching",
+          "acceptance": "26.8%",
+          "difficulty": "Hard",
+          "frequency": 0.01609764684284749,
+          "link": "https://leetcode.com/problems/regular-expression-matching"
+        },
+        {
+          "id": 200,
+          "title": "Number of Islands",
+          "acceptance": "46.8%",
+          "difficulty": "Medium",
+          "frequency": 0.011509262420590827,
+          "link": "https://leetcode.com/problems/number-of-islands"
+        },
+        {
+          "id": 387,
+          "title": "First Unique Character in a String",
+          "acceptance": "53.4%",
+          "difficulty": "Easy",
+          "frequency": 0.009392680199054166,
+          "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+        },
+        {
+          "id": 4,
+          "title": "Median of Two Sorted Arrays",
+          "acceptance": "29.6%",
+          "difficulty": "Hard",
+          "frequency": 0.008754068159914991,
+          "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+        },
+        {
+          "id": 49,
+          "title": "Group Anagrams",
+          "acceptance": "56.9%",
+          "difficulty": "Medium",
+          "frequency": 0.008538951314232168,
+          "link": "https://leetcode.com/problems/group-anagrams"
+        },
+        {
+          "id": 33,
+          "title": "Search in Rotated Sorted Array",
+          "acceptance": "34.5%",
+          "difficulty": "Medium",
+          "frequency": 0.007252832180390353,
+          "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+        },
+        {
+          "id": 70,
+          "title": "Climbing Stairs",
+          "acceptance": "47.8%",
+          "difficulty": "Easy",
+          "frequency": 0.006020261250215664,
+          "link": "https://leetcode.com/problems/climbing-stairs"
+        }
+      ]
+}
