@@ -1,6 +1,14 @@
 {
     "questions": [
         {
+            "id": "ID",
+            "title": "Title",
+            "acceptance": "Acceptance",
+            "difficulty": "Difficulty",
+            "frequency": "Frequency",
+            "link": "Leetcode Question Link"
+        },
+        {
             "id": 146,
             "title": "LRU Cache",
             "acceptance": "33.2%",
