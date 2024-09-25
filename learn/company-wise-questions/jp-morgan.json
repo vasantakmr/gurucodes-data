@@ -1,0 +1,180 @@
+{
+    "questions": [
+        {
+            "id": 202,
+            "title": "Happy Number",
+            "acceptance": "50.4%",
+            "difficulty": "Easy",
+            "frequency": 3.472501931831341,
+            "link": "https://leetcode.com/problems/happy-number"
+        },
+        {
+            "id": 20,
+            "title": "Valid Parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy",
+            "frequency": 2.091183527592892,
+            "link": "https://leetcode.com/problems/valid-parentheses"
+        },
+        {
+            "id": 322,
+            "title": "Coin Change",
+            "acceptance": "35.5%",
+            "difficulty": "Medium",
+            "frequency": 0.7098651233544434,
+            "link": "https://leetcode.com/problems/coin-change"
+        },
+        {
+            "id": 121,
+            "title": "Best Time to Buy and Sell Stock",
+            "acceptance": "50.5%",
+            "difficulty": "Easy",
+            "frequency": 0.24778819384825912,
+            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+        },
+        {
+            "id": 1328,
+            "title": "Break a Palindrome",
+            "acceptance": "43.3%",
+            "difficulty": "Medium",
+            "frequency": 0.21795507637539235,
+            "link": "https://leetcode.com/problems/break-a-palindrome"
+        },
+        {
+            "id": 31,
+            "title": "Next Permutation",
+            "acceptance": "32.6%",
+            "difficulty": "Medium",
+            "frequency": 0.11480808652664298,
+            "link": "https://leetcode.com/problems/next-permutation"
+        },
+        {
+            "id": 273,
+            "title": "Integer to English Words",
+            "acceptance": "27.1%",
+            "difficulty": "Hard",
+            "frequency": 0.10380963271229693,
+            "link": "https://leetcode.com/problems/integer-to-english-words"
+        },
+        {
+            "id": 9,
+            "title": "Palindrome Number",
+            "acceptance": "48.4%",
+            "difficulty": "Easy",
+            "frequency": 0.08804403243108966,
+            "link": "https://leetcode.com/problems/palindrome-number"
+        },
+        {
+            "id": 1,
+            "title": "Two Sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy",
+            "frequency": 0.07889903801250679,
+            "link": "https://leetcode.com/problems/two-sum"
+        },
+        {
+            "id": 7,
+            "title": "Reverse Integer",
+            "acceptance": "25.8%",
+            "difficulty": "Easy",
+            "frequency": 0.054824382173728654,
+            "link": "https://leetcode.com/problems/reverse-integer"
+        },
+        {
+            "id": 17,
+            "title": "Letter Combinations of a Phone Number",
+            "acceptance": "46.8%",
+            "difficulty": "Medium",
+            "frequency": 0.052632421620123555,
+            "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+        },
+        {
+            "id": 200,
+            "title": "Number of Islands",
+            "acceptance": "46.8%",
+            "difficulty": "Medium",
+            "frequency": 0.04526299408355752,
+            "link": "https://leetcode.com/problems/number-of-islands"
+        },
+        {
+            "id": 53,
+            "title": "Maximum Subarray",
+            "acceptance": "46.5%",
+            "difficulty": "Easy",
+            "frequency": 0.04299340685592046,
+            "link": "https://leetcode.com/problems/maximum-subarray"
+        },
+        {
+            "id": 5,
+            "title": "Longest Palindromic Substring",
+            "acceptance": "29.5%",
+            "difficulty": "Medium",
+            "frequency": 0.035860192879893796,
+            "link": "https://leetcode.com/problems/longest-palindromic-substring"
+        },
+        {
+            "id": 4,
+            "title": "Median of Two Sorted Arrays",
+            "acceptance": "29.6%",
+            "difficulty": "Hard",
+            "frequency": 0.034565653112280895,
+            "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+        },
+        {
+            "id": 33,
+            "title": "Search in Rotated Sorted Array",
+            "acceptance": "34.5%",
+            "difficulty": "Medium",
+            "frequency": 0.0287009496170278,
+            "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+        },
+        {
+            "id": 146,
+            "title": "LRU Cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium",
+            "frequency": 0.028411001832779885,
+            "link": "https://leetcode.com/problems/lru-cache"
+        },
+        {
+            "id": 349,
+            "title": "Intersection of Two Arrays",
+            "acceptance": "62.5%",
+            "difficulty": "Easy",
+            "frequency": 0.016239981598488416,
+            "link": "https://leetcode.com/problems/intersection-of-two-arrays"
+        },
+        {
+            "id": 79,
+            "title": "Word Search",
+            "acceptance": "35.6%",
+            "difficulty": "Medium",
+            "frequency": 0.014883688014740005,
+            "link": "https://leetcode.com/problems/word-search"
+        },
+        {
+            "id": 215,
+            "title": "Kth Largest Element in an Array",
+            "acceptance": "55.4%",
+            "difficulty": "Medium",
+            "frequency": 0.008759180089881562,
+            "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+        },
+        {
+            "id": 39,
+            "title": "Combination Sum",
+            "acceptance": "56.1%",
+            "difficulty": "Medium",
+            "frequency": 0.005715934396440999,
+            "link": "https://leetcode.com/problems/combination-sum"
+        },
+        {
+            "id": 387,
+            "title": "First Unique Character in a String",
+            "acceptance": "53.4%",
+            "difficulty": "Easy",
+            "frequency": 0.00418541994270691,
+            "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+        }
+    ]
+}

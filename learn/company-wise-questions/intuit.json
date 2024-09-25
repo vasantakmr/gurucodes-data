@@ -1,0 +1,196 @@
+{
+    "questions": [
+        {
+            "id": 811,
+            "title": "Subdomain Visit Count",
+            "acceptance": "69.9%",
+            "difficulty": "Easy",
+            "frequency": 3.0230924503622614,
+            "link": "https://leetcode.com/problems/subdomain-visit-count"
+        },
+        {
+            "id": 770,
+            "title": "Basic Calculator IV",
+            "acceptance": "48.1%",
+            "difficulty": "Hard",
+            "frequency": 2.277267285009756,
+            "link": "https://leetcode.com/problems/basic-calculator-iv"
+        },
+        {
+            "id": 68,
+            "title": "Text Justification",
+            "acceptance": "27.7%",
+            "difficulty": "Hard",
+            "frequency": 1.8708853641098548,
+            "link": "https://leetcode.com/problems/text-justification"
+        },
+        {
+            "id": 224,
+            "title": "Basic Calculator",
+            "acceptance": "36.8%",
+            "difficulty": "Hard",
+            "frequency": 1.204714054955524,
+            "link": "https://leetcode.com/problems/basic-calculator"
+        },
+        {
+            "id": 718,
+            "title": "Maximum Length of Repeated Subarray",
+            "acceptance": "49.4%",
+            "difficulty": "Medium",
+            "frequency": 0.45888888960301877,
+            "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+        },
+        {
+            "id": 729,
+            "title": "My Calendar I",
+            "acceptance": "51.8%",
+            "difficulty": "Medium",
+            "frequency": 0.3746934494414107,
+            "link": "https://leetcode.com/problems/my-calendar-i"
+        },
+        {
+            "id": 146,
+            "title": "LRU Cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium",
+            "frequency": 0.3479336801402196,
+            "link": "https://leetcode.com/problems/lru-cache"
+        },
+        {
+            "id": 207,
+            "title": "Course Schedule",
+            "acceptance": "43.1%",
+            "difficulty": "Medium",
+            "frequency": 0.27648500804356096,
+            "link": "https://leetcode.com/problems/course-schedule"
+        },
+        {
+            "id": 227,
+            "title": "Basic Calculator II",
+            "acceptance": "36.9%",
+            "difficulty": "Medium",
+            "frequency": 0.18200959297922678,
+            "link": "https://leetcode.com/problems/basic-calculator-ii"
+        },
+        {
+            "id": 759,
+            "title": "Employee Free Time",
+            "acceptance": "66.3%",
+            "difficulty": "Hard",
+            "frequency": 0.1816986978513639,
+            "link": "https://leetcode.com/problems/employee-free-time"
+        },
+        {
+            "id": 79,
+            "title": "Word Search",
+            "acceptance": "35.6%",
+            "difficulty": "Medium",
+            "frequency": 0.16863563907781756,
+            "link": "https://leetcode.com/problems/word-search"
+        },
+        {
+            "id": 409,
+            "title": "Longest Palindrome",
+            "acceptance": "50.3%",
+            "difficulty": "Easy",
+            "frequency": 0.1461170580676051,
+            "link": "https://leetcode.com/problems/longest-palindrome"
+        },
+        {
+            "id": 1,
+            "title": "Two Sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy",
+            "frequency": 0.10307155038394701,
+            "link": "https://leetcode.com/problems/two-sum"
+        },
+        {
+            "id": 56,
+            "title": "Merge Intervals",
+            "acceptance": "39.3%",
+            "difficulty": "Medium",
+            "frequency": 0.08339552430579078,
+            "link": "https://leetcode.com/problems/merge-intervals"
+        },
+        {
+            "id": 210,
+            "title": "Course Schedule II",
+            "acceptance": "40.7%",
+            "difficulty": "Medium",
+            "frequency": 0.07762595476606639,
+            "link": "https://leetcode.com/problems/course-schedule-ii"
+        },
+        {
+            "id": 124,
+            "title": "Binary Tree Maximum Path Sum",
+            "acceptance": "34.3%",
+            "difficulty": "Hard",
+            "frequency": 0.06574255262249057,
+            "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum"
+        },
+        {
+            "id": 695,
+            "title": "Max Area of Island",
+            "acceptance": "62.7%",
+            "difficulty": "Medium",
+            "frequency": 0.04980799142417255,
+            "link": "https://leetcode.com/problems/max-area-of-island"
+        },
+        {
+            "id": 20,
+            "title": "Valid Parentheses",
+            "acceptance": "39.0%",
+            "difficulty": "Easy",
+            "frequency": 0.02782373445001039,
+            "link": "https://leetcode.com/problems/valid-parentheses"
+        },
+        {
+            "id": 236,
+            "title": "Lowest Common Ancestor of a Binary Tree",
+            "acceptance": "45.7%",
+            "difficulty": "Medium",
+            "frequency": 0.018724947332324816,
+            "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+        },
+        {
+            "id": 155,
+            "title": "Min Stack",
+            "acceptance": "44.5%",
+            "difficulty": "Easy",
+            "frequency": 0.010653509851791077,
+            "link": "https://leetcode.com/problems/min-stack"
+        },
+        {
+            "id": 72,
+            "title": "Edit Distance",
+            "acceptance": "44.8%",
+            "difficulty": "Hard",
+            "frequency": 0.010017614452317782,
+            "link": "https://leetcode.com/problems/edit-distance"
+        },
+        {
+            "id": 287,
+            "title": "Find the Duplicate Number",
+            "acceptance": "55.5%",
+            "difficulty": "Medium",
+            "frequency": 0.005501320434837602,
+            "link": "https://leetcode.com/problems/find-the-duplicate-number"
+        },
+        {
+            "id": 49,
+            "title": "Group Anagrams",
+            "acceptance": "56.9%",
+            "difficulty": "Medium",
+            "frequency": 0.0038040939835560453,
+            "link": "https://leetcode.com/problems/group-anagrams"
+        },
+        {
+            "id": 628,
+            "title": "Maximum Product of Three Numbers",
+            "acceptance": "47.1%",
+            "difficulty": "Easy",
+            "frequency": 0,
+            "link": "https://leetcode.com/problems/maximum-product-of-three-numbers"
+        }
+    ]
+}
