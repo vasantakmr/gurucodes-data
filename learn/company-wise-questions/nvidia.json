@@ -1,0 +1,196 @@
+{
+    "questions": [
+        {
+            "id": 206,
+            "title": "Reverse Linked List",
+            "acceptance": "62.5%",
+            "difficulty": "Easy",
+            "frequency": 0.13873591368953625,
+            "Link": "https://leetcode.com/problems/reverse-linked-list"
+        },
+        {
+            "id": 33,
+            "title": "Search in Rotated Sorted Array",
+            "acceptance": "34.5%",
+            "difficulty": "Medium",
+            "frequency": 0.1101693809658871,
+            "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+        },
+        {
+            "id": 223,
+            "title": "Rectangle Area",
+            "acceptance": "37.8%",
+            "difficulty": "Medium",
+            "frequency": 0.10064352577968744,
+            "Link": "https://leetcode.com/problems/rectangle-area"
+        },
+        {
+            "id": 146,
+            "title": "LRU Cache",
+            "acceptance": "33.2%",
+            "difficulty": "Medium",
+            "frequency": 0.08926627755405464,
+            "Link": "https://leetcode.com/problems/lru-cache"
+        },
+        {
+            "id": 48,
+            "title": "Rotate Image",
+            "acceptance": "56.7%",
+            "difficulty": "Medium",
+            "frequency": 0.06069974483040549,
+            "Link": "https://leetcode.com/problems/rotate-image"
+        },
+        {
+            "id": 231,
+            "title": "Power of Two",
+            "acceptance": "43.7%",
+            "difficulty": "Easy",
+            "frequency": 0.059357559503279325,
+            "Link": "https://leetcode.com/problems/power-of-two"
+        },
+        {
+            "id": 200,
+            "title": "Number of Islands",
+            "acceptance": "46.8%",
+            "difficulty": "Medium",
+            "frequency": 0.05694938541936198,
+            "Link": "https://leetcode.com/problems/number-of-islands"
+        },
+        {
+            "id": 706,
+            "title": "Design HashMap",
+            "acceptance": "61.3%",
+            "difficulty": "Easy",
+            "frequency": 0.039016652342451774,
+            "Link": "https://leetcode.com/problems/design-hashmap"
+        },
+        {
+            "id": 939,
+            "title": "Minimum Area Rectangle",
+            "acceptance": "51.8%",
+            "difficulty": "Medium",
+            "frequency": 0.03802739558923925,
+            "Link": "https://leetcode.com/problems/minimum-area-rectangle"
+        },
+        {
+            "id": 199,
+            "title": "Binary Tree Right Side View",
+            "acceptance": "54.1%",
+            "difficulty": "Medium",
+            "frequency": 0.034997972754213943,
+            "Link": "https://leetcode.com/problems/binary-tree-right-side-view"
+        },
+        {
+            "id": 1,
+            "title": "Two Sum",
+            "acceptance": "45.6%",
+            "difficulty": "Easy",
+            "frequency": 0.03409719244428431,
+            "Link": "https://leetcode.com/problems/two-sum"
+        },
+        {
+            "id": 70,
+            "title": "Climbing Stairs",
+            "acceptance": "47.8%",
+            "difficulty": "Easy",
+            "frequency": 0.03011156054328408,
+            "Link": "https://leetcode.com/problems/climbing-stairs"
+        },
+        {
+            "id": 64,
+            "title": "Minimum Path Sum",
+            "acceptance": "54.5%",
+            "difficulty": "Medium",
+            "frequency": 0.024287775531756203,
+            "Link": "https://leetcode.com/problems/minimum-path-sum"
+        },
+        {
+            "id": 2,
+            "title": "Add Two Numbers",
+            "acceptance": "33.9%",
+            "difficulty": "Medium",
+            "frequency": 0.020491663368639005,
+            "Link": "https://leetcode.com/problems/add-two-numbers"
+        },
+        {
+            "id": 97,
+            "title": "Interleaving String",
+            "acceptance": "31.5%",
+            "difficulty": "Hard",
+            "frequency": 0.020471543980187256,
+            "Link": "https://leetcode.com/problems/interleaving-string"
+        },
+        {
+            "id": 53,
+            "title": "Maximum Subarray",
+            "acceptance": "46.5%",
+            "difficulty": "Easy",
+            "frequency": 0.019336728821707075,
+            "Link": "https://leetcode.com/problems/maximum-subarray"
+        },
+        {
+            "id": 22,
+            "title": "Generate Parentheses",
+            "acceptance": "62.7%",
+            "difficulty": "Medium",
+            "frequency": 0.017331456351639924,
+            "Link": "https://leetcode.com/problems/generate-parentheses"
+        },
+        {
+            "id": 23,
+            "title": "Merge k Sorted Lists",
+            "acceptance": "40.2%",
+            "difficulty": "Hard",
+            "frequency": 0.016108271385328228,
+            "Link": "https://leetcode.com/problems/merge-k-sorted-lists"
+        },
+        {
+            "id": 114,
+            "title": "Flatten Binary Tree to Linked List",
+            "acceptance": "49.3%",
+            "difficulty": "Medium",
+            "frequency": 0.015450951155718977,
+            "Link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list"
+        },
+        {
+            "id": 8,
+            "title": "String to Integer (atoi)",
+            "acceptance": "15.4%",
+            "difficulty": "Medium",
+            "frequency": 0.015084664273571906,
+            "Link": "https://leetcode.com/problems/string-to-integer-atoi"
+        },
+        {
+            "id": 151,
+            "title": "Reverse Words in a String",
+            "acceptance": "21.9%",
+            "difficulty": "Medium",
+            "frequency": 0.013753273019471011,
+            "Link": "https://leetcode.com/problems/reverse-words-in-a-string"
+        },
+        {
+            "id": 739,
+            "title": "Daily Temperatures",
+            "acceptance": "63.3%",
+            "difficulty": "Medium",
+            "frequency": 0.010032690121814417,
+            "Link": "https://leetcode.com/problems/daily-temperatures"
+        },
+        {
+            "id": 415,
+            "title": "Add Strings",
+            "acceptance": "47.5%",
+            "difficulty": "Easy",
+            "frequency": 0.007587289812159497,
+            "Link": "https://leetcode.com/problems/add-strings"
+        },
+        {
+            "id": 42,
+            "title": "Trapping Rain Water",
+            "acceptance": "48.9%",
+            "difficulty": "Hard",
+            "frequency": 0.004350670338744988,
+            "Link": "https://leetcode.com/problems/trapping-rain-water"
+        }
+    ]
+}
