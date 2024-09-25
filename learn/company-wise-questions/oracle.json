@@ -6,7 +6,7 @@
             "acceptance": "47.7%",
             "difficulty": "Hard",
             "frequency": 1.3737846439355526,
-            "Link": "https://leetcode.com/problems/word-squares"
+            "link": "https://leetcode.com/problems/word-squares"
         },
         {
             "id": 146,
@@ -14,7 +14,7 @@
             "acceptance": "33.2%",
             "difficulty": "Medium",
             "frequency": 1.2233383443716415,
-            "Link": "https://leetcode.com/problems/lru-cache"
+            "link": "https://leetcode.com/problems/lru-cache"
         },
         {
             "id": 352,
@@ -22,7 +22,7 @@
             "acceptance": "47.3%",
             "difficulty": "Hard",
             "frequency": 1.0728920448077304,
-            "Link": "https://leetcode.com/problems/data-stream-as-disjoint-intervals"
+            "link": "https://leetcode.com/problems/data-stream-as-disjoint-intervals"
         },
         {
             "id": 450,
@@ -30,7 +30,7 @@
             "acceptance": "43.1%",
             "difficulty": "Medium",
             "frequency": 0.9224457452438195,
-            "Link": "https://leetcode.com/problems/delete-node-in-a-bst"
+            "link": "https://leetcode.com/problems/delete-node-in-a-bst"
         },
         {
             "id": 362,
@@ -38,7 +38,7 @@
             "acceptance": "63.7%",
             "difficulty": "Medium",
             "frequency": 0.8944603431177579,
-            "Link": "https://leetcode.com/problems/design-hit-counter"
+            "link": "https://leetcode.com/problems/design-hit-counter"
         },
         {
             "id": 1,
@@ -46,7 +46,7 @@
             "acceptance": "45.6%",
             "difficulty": "Easy",
             "frequency": 0.8671080762741441,
-            "Link": "https://leetcode.com/problems/two-sum"
+            "link": "https://leetcode.com/problems/two-sum"
         },
         {
             "id": 554,
@@ -54,7 +54,7 @@
             "acceptance": "50.0%",
             "difficulty": "Medium",
             "frequency": 0.8487112881843506,
-            "Link": "https://leetcode.com/problems/brick-wall"
+            "link": "https://leetcode.com/problems/brick-wall"
         },
         {
             "id": 23,
