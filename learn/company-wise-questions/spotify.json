@@ -1,148 +1,148 @@
 {
-    "questions" : [
-        {
-          "id": 128,
-          "title": "Longest Consecutive Sequence",
-          "acceptance": "45.1%",
-          "difficulty": "Hard",
-          "frequency": 0.12090519978650899,
-          "link": "https://leetcode.com/problems/longest-consecutive-sequence"
-        },
-        {
-          "id": 383,
-          "title": "Ransom Note",
-          "acceptance": "53.1%",
-          "difficulty": "Easy",
-          "frequency": 0.1053605156578263,
-          "link": "https://leetcode.com/problems/ransom-note"
-        },
-        {
-          "id": 286,
-          "title": "Walls and Gates",
-          "acceptance": "54.5%",
-          "difficulty": "Medium",
-          "frequency": 0.089897664246389,
-          "link": "https://leetcode.com/problems/walls-and-gates"
-        },
-        {
-          "id": 480,
-          "title": "Sliding Window Median",
-          "acceptance": "37.2%",
-          "difficulty": "Hard",
-          "frequency": 0.0743529801177063,
-          "link": "https://leetcode.com/problems/sliding-window-median"
-        },
-        {
-          "id": 20,
-          "title": "Valid Parentheses",
-          "acceptance": "39.0%",
-          "difficulty": "Easy",
-          "frequency": 0.06735240264428982,
-          "link": "https://leetcode.com/problems/valid-parentheses"
-        },
-        {
-          "id": 22,
-          "title": "Generate Parentheses",
-          "acceptance": "62.7%",
-          "difficulty": "Medium",
-          "frequency": 0.05215612134598845,
-          "link": "https://leetcode.com/problems/generate-parentheses"
-        },
-        {
-          "id": 146,
-          "title": "LRU Cache",
-          "acceptance": "33.2%",
-          "difficulty": "Medium",
-          "frequency": 0.040660598211268925,
-          "link": "https://leetcode.com/problems/lru-cache"
-        },
-        {
-          "id": 215,
-          "title": "Kth Largest Element in an Array",
-          "acceptance": "55.4%",
-          "difficulty": "Medium",
-          "frequency": 0.03458557964977998,
-          "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
-        },
-        {
-          "id": 443,
-          "title": "String Compression",
-          "acceptance": "41.3%",
-          "difficulty": "Easy",
-          "frequency": 0.031026273563100573,
-          "link": "https://leetcode.com/problems/string-compression"
-        },
-        {
-          "id": 66,
-          "title": "Plus One",
-          "acceptance": "43.0%",
-          "difficulty": "Easy",
-          "frequency": 0.028982869090985654,
-          "link": "https://leetcode.com/problems/plus-one"
-        },
-        {
-          "id": 200,
-          "title": "Number of Islands",
-          "acceptance": "46.8%",
-          "difficulty": "Medium",
-          "frequency": 0.025712029212602353,
-          "link": "https://leetcode.com/problems/number-of-islands"
-        },
-        {
-          "id": 784,
-          "title": "Letter Case Permutation",
-          "acceptance": "64.6%",
-          "difficulty": "Medium",
-          "frequency": 0.02026411791905559,
-          "link": "https://leetcode.com/problems/letter-case-permutation"
-        },
-        {
-          "id": 127,
-          "title": "Word Ladder",
-          "acceptance": "29.6%",
-          "difficulty": "Medium",
-          "frequency": 0.013403030127340374,
-          "link": "https://leetcode.com/problems/word-ladder"
-        },
-        {
-          "id": 3,
-          "title": "Longest Substring Without Repeating Characters",
-          "acceptance": "30.4%",
-          "difficulty": "Medium",
-          "frequency": 0.009683242444739549,
-          "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
-        },
-        {
-          "id": 206,
-          "title": "Reverse Linked List",
-          "acceptance": "62.5%",
-          "difficulty": "Easy",
-          "frequency": 0.009326794511974934,
-          "link": "https://leetcode.com/problems/reverse-linked-list"
-        },
-        {
-          "id": 1,
-          "title": "Two Sum",
-          "acceptance": "45.6%",
-          "difficulty": "Easy",
-          "frequency": 0.0073613942765888805,
-          "link": "https://leetcode.com/problems/two-sum"
-        },
-        {
-          "id": 412,
-          "title": "Fizz Buzz",
-          "acceptance": "62.3%",
-          "difficulty": "Easy",
-          "frequency": 0.007165921026143679,
-          "link": "https://leetcode.com/problems/fizz-buzz"
-        },
-        {
-          "id": 347,
-          "title": "Top K Frequent Elements",
-          "acceptance": "61.2%",
-          "difficulty": "Medium",
-          "frequency": 0.0033396446491217604,
-          "link": "https://leetcode.com/problems/top-k-frequent-elements"
-        }
-      ]
+  "questions": [
+    {
+      "id": 128,
+      "title": "Longest Consecutive Sequence",
+      "acceptance": "45.1%",
+      "difficulty": "Hard",
+      "frequency": 0.12090519978650899,
+      "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+    },
+    {
+      "id": 383,
+      "title": "Ransom Note",
+      "acceptance": "53.1%",
+      "difficulty": "Easy",
+      "frequency": 0.1053605156578263,
+      "link": "https://leetcode.com/problems/ransom-note"
+    },
+    {
+      "id": 286,
+      "title": "Walls and Gates",
+      "acceptance": "54.5%",
+      "difficulty": "Medium",
+      "frequency": 0.089897664246389,
+      "link": "https://leetcode.com/problems/walls-and-gates"
+    },
+    {
+      "id": 480,
+      "title": "Sliding Window Median",
+      "acceptance": "37.2%",
+      "difficulty": "Hard",
+      "frequency": 0.0743529801177063,
+      "link": "https://leetcode.com/problems/sliding-window-median"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "acceptance": "39.0%",
+      "difficulty": "Easy",
+      "frequency": 0.06735240264428982,
+      "link": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 22,
+      "title": "Generate Parentheses",
+      "acceptance": "62.7%",
+      "difficulty": "Medium",
+      "frequency": 0.05215612134598845,
+      "link": "https://leetcode.com/problems/generate-parentheses"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "acceptance": "33.2%",
+      "difficulty": "Medium",
+      "frequency": 0.040660598211268925,
+      "link": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 215,
+      "title": "Kth Largest Element in an Array",
+      "acceptance": "55.4%",
+      "difficulty": "Medium",
+      "frequency": 0.03458557964977998,
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+    },
+    {
+      "id": 443,
+      "title": "String Compression",
+      "acceptance": "41.3%",
+      "difficulty": "Easy",
+      "frequency": 0.031026273563100573,
+      "link": "https://leetcode.com/problems/string-compression"
+    },
+    {
+      "id": 66,
+      "title": "Plus One",
+      "acceptance": "43.0%",
+      "difficulty": "Easy",
+      "frequency": 0.028982869090985654,
+      "link": "https://leetcode.com/problems/plus-one"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "acceptance": "46.8%",
+      "difficulty": "Medium",
+      "frequency": 0.025712029212602353,
+      "link": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 784,
+      "title": "Letter Case Permutation",
+      "acceptance": "64.6%",
+      "difficulty": "Medium",
+      "frequency": 0.02026411791905559,
+      "link": "https://leetcode.com/problems/letter-case-permutation"
+    },
+    {
+      "id": 127,
+      "title": "Word Ladder",
+      "acceptance": "29.6%",
+      "difficulty": "Medium",
+      "frequency": 0.013403030127340374,
+      "link": "https://leetcode.com/problems/word-ladder"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "acceptance": "30.4%",
+      "difficulty": "Medium",
+      "frequency": 0.009683242444739549,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 206,
+      "title": "Reverse Linked List",
+      "acceptance": "62.5%",
+      "difficulty": "Easy",
+      "frequency": 0.009326794511974934,
+      "link": "https://leetcode.com/problems/reverse-linked-list"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "acceptance": "45.6%",
+      "difficulty": "Easy",
+      "frequency": 0.0073613942765888805,
+      "link": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 412,
+      "title": "Fizz Buzz",
+      "acceptance": "62.3%",
+      "difficulty": "Easy",
+      "frequency": 0.007165921026143679,
+      "link": "https://leetcode.com/problems/fizz-buzz"
+    },
+    {
+      "id": 347,
+      "title": "Top K Frequent Elements",
+      "acceptance": "61.2%",
+      "difficulty": "Medium",
+      "frequency": 0.0033396446491217604,
+      "link": "https://leetcode.com/problems/top-k-frequent-elements"
+    }
+  ]
 }

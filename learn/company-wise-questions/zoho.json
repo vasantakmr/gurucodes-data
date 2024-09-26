@@ -1,44 +1,44 @@
 {
-    "questions": [
-        {
-          "id": 1,
-          "title": "Two Sum",
-          "acceptance": "45.6%",
-          "difficulty": "Easy",
-          "frequency": 0.014983541429464405,
-          "link": "https://leetcode.com/problems/two-sum"
-        },
-        {
-          "id": 2,
-          "title": "Add Two Numbers",
-          "acceptance": "33.9%",
-          "difficulty": "Medium",
-          "frequency": 0.009003349524164856,
-          "link": "https://leetcode.com/problems/add-two-numbers"
-        },
-        {
-          "id": 3,
-          "title": "Longest Substring Without Repeating Characters",
-          "acceptance": "30.4%",
-          "difficulty": "Medium",
-          "frequency": 0.008179203236736318,
-          "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
-        },
-        {
-          "id": 15,
-          "title": "3Sum",
-          "acceptance": "26.8%",
-          "difficulty": "Medium",
-          "frequency": 0.0021990113314367685,
-          "link": "https://leetcode.com/problems/3sum"
-        },
-        {
-          "id": 1275,
-          "title": "Find Winner on a Tic Tac Toe Game",
-          "acceptance": "52.8%",
-          "difficulty": "Easy",
-          "frequency": 0,
-          "link": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game"
-        }
-      ]
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "acceptance": "45.6%",
+      "difficulty": "Easy",
+      "frequency": 0.014983541429464405,
+      "link": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 2,
+      "title": "Add Two Numbers",
+      "acceptance": "33.9%",
+      "difficulty": "Medium",
+      "frequency": 0.009003349524164856,
+      "link": "https://leetcode.com/problems/add-two-numbers"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "acceptance": "30.4%",
+      "difficulty": "Medium",
+      "frequency": 0.008179203236736318,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "acceptance": "26.8%",
+      "difficulty": "Medium",
+      "frequency": 0.0021990113314367685,
+      "link": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 1275,
+      "title": "Find Winner on a Tic Tac Toe Game",
+      "acceptance": "52.8%",
+      "difficulty": "Easy",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game"
+    }
+  ]
 }

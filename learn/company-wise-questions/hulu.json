@@ -1,140 +1,140 @@
 {
-    "questions": [
-        {
-            "id": 909,
-            "title": "Snakes and Ladders",
-            "acceptance": "38.4%",
-            "difficulty": "Medium",
-            "frequency": 0.168705777104921,
-            "link": "https://leetcode.com/problems/snakes-and-ladders"
-        },
-        {
-            "id": 326,
-            "title": "Power of Three",
-            "acceptance": "42.1%",
-            "difficulty": "Easy",
-            "frequency": 0.11585923430189346,
-            "link": "https://leetcode.com/problems/power-of-three"
-        },
-        {
-            "id": 54,
-            "title": "Spiral Matrix",
-            "acceptance": "34.1%",
-            "difficulty": "Medium",
-            "frequency": 0.09619908149585338,
-            "link": "https://leetcode.com/problems/spiral-matrix"
-        },
-        {
-            "id": 200,
-            "title": "Number of Islands",
-            "acceptance": "46.8%",
-            "difficulty": "Medium",
-            "frequency": 0.04335253869282585,
-            "link": "https://leetcode.com/problems/number-of-islands"
-        },
-        {
-            "id": 907,
-            "title": "Sum of Subarray Minimums",
-            "acceptance": "32.3%",
-            "difficulty": "Medium",
-            "frequency": 0.03902934390573525,
-            "link": "https://leetcode.com/problems/sum-of-subarray-minimums"
-        },
-        {
-            "id": 394,
-            "title": "Decode String",
-            "acceptance": "50.0%",
-            "difficulty": "Medium",
-            "frequency": 0.01743216716867105,
-            "link": "https://leetcode.com/problems/decode-string"
-        },
-        {
-            "id": 863,
-            "title": "All Nodes Distance K in Binary Tree",
-            "acceptance": "55.4%",
-            "difficulty": "Medium",
-            "frequency": 0.0161554402222852,
-            "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree"
-        },
-        {
-            "id": 49,
-            "title": "Group Anagrams",
-            "acceptance": "56.9%",
-            "difficulty": "Medium",
-            "frequency": 0.014460261001258648,
-            "link": "https://leetcode.com/problems/group-anagrams"
-        },
-        {
-            "id": 371,
-            "title": "Sum of Two Integers",
-            "acceptance": "50.7%",
-            "difficulty": "Medium",
-            "frequency": 0.013364716132203554,
-            "link": "https://leetcode.com/problems/sum-of-two-integers"
-        },
-        {
-            "id": 139,
-            "title": "Word Break",
-            "acceptance": "40.1%",
-            "difficulty": "Medium",
-            "frequency": 0.008429383994401785,
-            "link": "https://leetcode.com/problems/word-break"
-        },
-        {
-            "id": 230,
-            "title": "Kth Smallest Element in a BST",
-            "acceptance": "60.2%",
-            "difficulty": "Medium",
-            "frequency": 0.006085520073802784,
-            "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst"
-        },
-        {
-            "id": 347,
-            "title": "Top K Frequent Elements",
-            "acceptance": "61.2%",
-            "difficulty": "Medium",
-            "frequency": 0.003299486074331776,
-            "link": "https://leetcode.com/problems/top-k-frequent-elements"
-        },
-        {
-            "id": 26,
-            "title": "Remove Duplicates from Sorted Array",
-            "acceptance": "45.1%",
-            "difficulty": "Easy",
-            "frequency": 0.0018681118827202508,
-            "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
-        },
-        {
-            "id": 440,
-            "title": "K-th Smallest in Lexicographical Order",
-            "acceptance": "29.1%",
-            "difficulty": "Hard",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order"
-        },
-        {
-            "id": 772,
-            "title": "Basic Calculator III",
-            "acceptance": "41.3%",
-            "difficulty": "Hard",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/basic-calculator-iii"
-        },
-        {
-            "id": 814,
-            "title": "Binary Tree Pruning",
-            "acceptance": "74.5%",
-            "difficulty": "Medium",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/binary-tree-pruning"
-        },
-        {
-            "id": 1063,
-            "title": "Number of Valid Subarrays",
-            "acceptance": "71.1%",
-            "difficulty": "Hard",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/number-of-valid-subarrays"
-        }
-    ]
+  "questions": [
+    {
+      "id": 909,
+      "title": "Snakes and Ladders",
+      "acceptance": "38.4%",
+      "difficulty": "Medium",
+      "frequency": 0.168705777104921,
+      "link": "https://leetcode.com/problems/snakes-and-ladders"
+    },
+    {
+      "id": 326,
+      "title": "Power of Three",
+      "acceptance": "42.1%",
+      "difficulty": "Easy",
+      "frequency": 0.11585923430189346,
+      "link": "https://leetcode.com/problems/power-of-three"
+    },
+    {
+      "id": 54,
+      "title": "Spiral Matrix",
+      "acceptance": "34.1%",
+      "difficulty": "Medium",
+      "frequency": 0.09619908149585338,
+      "link": "https://leetcode.com/problems/spiral-matrix"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "acceptance": "46.8%",
+      "difficulty": "Medium",
+      "frequency": 0.04335253869282585,
+      "link": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 907,
+      "title": "Sum of Subarray Minimums",
+      "acceptance": "32.3%",
+      "difficulty": "Medium",
+      "frequency": 0.03902934390573525,
+      "link": "https://leetcode.com/problems/sum-of-subarray-minimums"
+    },
+    {
+      "id": 394,
+      "title": "Decode String",
+      "acceptance": "50.0%",
+      "difficulty": "Medium",
+      "frequency": 0.01743216716867105,
+      "link": "https://leetcode.com/problems/decode-string"
+    },
+    {
+      "id": 863,
+      "title": "All Nodes Distance K in Binary Tree",
+      "acceptance": "55.4%",
+      "difficulty": "Medium",
+      "frequency": 0.0161554402222852,
+      "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "acceptance": "56.9%",
+      "difficulty": "Medium",
+      "frequency": 0.014460261001258648,
+      "link": "https://leetcode.com/problems/group-anagrams"
+    },
+    {
+      "id": 371,
+      "title": "Sum of Two Integers",
+      "acceptance": "50.7%",
+      "difficulty": "Medium",
+      "frequency": 0.013364716132203554,
+      "link": "https://leetcode.com/problems/sum-of-two-integers"
+    },
+    {
+      "id": 139,
+      "title": "Word Break",
+      "acceptance": "40.1%",
+      "difficulty": "Medium",
+      "frequency": 0.008429383994401785,
+      "link": "https://leetcode.com/problems/word-break"
+    },
+    {
+      "id": 230,
+      "title": "Kth Smallest Element in a BST",
+      "acceptance": "60.2%",
+      "difficulty": "Medium",
+      "frequency": 0.006085520073802784,
+      "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst"
+    },
+    {
+      "id": 347,
+      "title": "Top K Frequent Elements",
+      "acceptance": "61.2%",
+      "difficulty": "Medium",
+      "frequency": 0.003299486074331776,
+      "link": "https://leetcode.com/problems/top-k-frequent-elements"
+    },
+    {
+      "id": 26,
+      "title": "Remove Duplicates from Sorted Array",
+      "acceptance": "45.1%",
+      "difficulty": "Easy",
+      "frequency": 0.0018681118827202508,
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+    },
+    {
+      "id": 440,
+      "title": "K-th Smallest in Lexicographical Order",
+      "acceptance": "29.1%",
+      "difficulty": "Hard",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order"
+    },
+    {
+      "id": 772,
+      "title": "Basic Calculator III",
+      "acceptance": "41.3%",
+      "difficulty": "Hard",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/basic-calculator-iii"
+    },
+    {
+      "id": 814,
+      "title": "Binary Tree Pruning",
+      "acceptance": "74.5%",
+      "difficulty": "Medium",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/binary-tree-pruning"
+    },
+    {
+      "id": 1063,
+      "title": "Number of Valid Subarrays",
+      "acceptance": "71.1%",
+      "difficulty": "Hard",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/number-of-valid-subarrays"
+    }
+  ]
 }

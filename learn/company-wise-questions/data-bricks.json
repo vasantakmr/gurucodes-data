@@ -1,148 +1,148 @@
 {
-    "questions": [
-        {
-            "id": 742,
-            "title": "Closest Leaf in a Binary Tree",
-            "acceptance": "43.6%",
-            "difficulty": "Medium",
-            "frequency": 1.1768018409410708,
-            "link": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree"
-        },
-        {
-            "id": 380,
-            "title": "Insert Delete GetRandom O(1)",
-            "acceptance": "47.5%",
-            "difficulty": "Medium",
-            "frequency": 0.9812917663172286,
-            "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
-        },
-        {
-            "id": 41,
-            "title": "First Missing Positive",
-            "acceptance": "32.0%",
-            "difficulty": "Hard",
-            "frequency": 0.9732633179401787,
-            "link": "https://leetcode.com/problems/first-missing-positive"
-        },
-        {
-            "id": 314,
-            "title": "Binary Tree Vertical Order Traversal",
-            "acceptance": "45.3%",
-            "difficulty": "Medium",
-            "frequency": 0.9050510649594637,
-            "link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal"
-        },
-        {
-            "id": 722,
-            "title": "Remove Comments",
-            "acceptance": "34.6%",
-            "difficulty": "Medium",
-            "frequency": 0.7095409903356217,
-            "link": "https://leetcode.com/problems/remove-comments"
-        },
-        {
-            "id": 1242,
-            "title": "Web Crawler Multithreaded",
-            "acceptance": "45.9%",
-            "difficulty": "Medium",
-            "frequency": 0.6971713308596708,
-            "link": "https://leetcode.com/problems/web-crawler-multithreaded"
-        },
-        {
-            "id": 91,
-            "title": "Decode Ways",
-            "acceptance": "24.7%",
-            "difficulty": "Medium",
-            "frequency": 0.5448409073756266,
-            "link": "https://leetcode.com/problems/decode-ways"
-        },
-        {
-            "id": 218,
-            "title": "The Skyline Problem",
-            "acceptance": "34.6%",
-            "difficulty": "Hard",
-            "frequency": 0.42040668810636345,
-            "link": "https://leetcode.com/problems/the-skyline-problem"
-        },
-        {
-            "id": 614,
-            "title": "Second Degree Follower",
-            "acceptance": "30.3%",
-            "difficulty": "Medium",
-            "frequency": 0.3030501026800949,
-            "link": "https://leetcode.com/problems/second-degree-follower"
-        },
-        {
-            "id": 239,
-            "title": "Sliding Window Maximum",
-            "acceptance": "43.0%",
-            "difficulty": "Hard",
-            "frequency": 0.18086662630782,
-            "link": "https://leetcode.com/problems/sliding-window-maximum"
-        },
-        {
-            "id": 426,
-            "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
-            "acceptance": "59.1%",
-            "difficulty": "Medium",
-            "frequency": 0.09352605801082346,
-            "link": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list"
-        },
-        {
-            "id": 381,
-            "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
-            "acceptance": "34.1%",
-            "difficulty": "Hard",
-            "frequency": 0.09106388892287375,
-            "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
-        },
-        {
-            "id": 987,
-            "title": "Vertical Order Traversal of a Binary Tree",
-            "acceptance": "36.6%",
-            "difficulty": "Medium",
-            "frequency": 0.070392125446596,
-            "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree"
-        },
-        {
-            "id": 42,
-            "title": "Trapping Rain Water",
-            "acceptance": "48.9%",
-            "difficulty": "Hard",
-            "frequency": 0.0674365414927314,
-            "link": "https://leetcode.com/problems/trapping-rain-water"
-        },
-        {
-            "id": 350,
-            "title": "Intersection of Two Arrays II",
-            "acceptance": "51.4%",
-            "difficulty": "Easy",
-            "frequency": 0.01168540951877908,
-            "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii"
-        },
-        {
-            "id": 10,
-            "title": "Regular Expression Matching",
-            "acceptance": "26.8%",
-            "difficulty": "Hard",
-            "frequency": 0.0071865203293987245,
-            "link": "https://leetcode.com/problems/regular-expression-matching"
-        },
-        {
-            "id": 114,
-            "title": "Flatten Binary Tree to Linked List",
-            "acceptance": "49.3%",
-            "difficulty": "Medium",
-            "frequency": 0.006896579059060353,
-            "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list"
-        },
-        {
-            "id": 981,
-            "title": "Time Based Key-Value Store",
-            "acceptance": "53.1%",
-            "difficulty": "Medium",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/time-based-key-value-store"
-        }
-    ]
+  "questions": [
+    {
+      "id": 742,
+      "title": "Closest Leaf in a Binary Tree",
+      "acceptance": "43.6%",
+      "difficulty": "Medium",
+      "frequency": 1.1768018409410708,
+      "link": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree"
+    },
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "acceptance": "47.5%",
+      "difficulty": "Medium",
+      "frequency": 0.9812917663172286,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 41,
+      "title": "First Missing Positive",
+      "acceptance": "32.0%",
+      "difficulty": "Hard",
+      "frequency": 0.9732633179401787,
+      "link": "https://leetcode.com/problems/first-missing-positive"
+    },
+    {
+      "id": 314,
+      "title": "Binary Tree Vertical Order Traversal",
+      "acceptance": "45.3%",
+      "difficulty": "Medium",
+      "frequency": 0.9050510649594637,
+      "link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal"
+    },
+    {
+      "id": 722,
+      "title": "Remove Comments",
+      "acceptance": "34.6%",
+      "difficulty": "Medium",
+      "frequency": 0.7095409903356217,
+      "link": "https://leetcode.com/problems/remove-comments"
+    },
+    {
+      "id": 1242,
+      "title": "Web Crawler Multithreaded",
+      "acceptance": "45.9%",
+      "difficulty": "Medium",
+      "frequency": 0.6971713308596708,
+      "link": "https://leetcode.com/problems/web-crawler-multithreaded"
+    },
+    {
+      "id": 91,
+      "title": "Decode Ways",
+      "acceptance": "24.7%",
+      "difficulty": "Medium",
+      "frequency": 0.5448409073756266,
+      "link": "https://leetcode.com/problems/decode-ways"
+    },
+    {
+      "id": 218,
+      "title": "The Skyline Problem",
+      "acceptance": "34.6%",
+      "difficulty": "Hard",
+      "frequency": 0.42040668810636345,
+      "link": "https://leetcode.com/problems/the-skyline-problem"
+    },
+    {
+      "id": 614,
+      "title": "Second Degree Follower",
+      "acceptance": "30.3%",
+      "difficulty": "Medium",
+      "frequency": 0.3030501026800949,
+      "link": "https://leetcode.com/problems/second-degree-follower"
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum",
+      "acceptance": "43.0%",
+      "difficulty": "Hard",
+      "frequency": 0.18086662630782,
+      "link": "https://leetcode.com/problems/sliding-window-maximum"
+    },
+    {
+      "id": 426,
+      "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+      "acceptance": "59.1%",
+      "difficulty": "Medium",
+      "frequency": 0.09352605801082346,
+      "link": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list"
+    },
+    {
+      "id": 381,
+      "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+      "acceptance": "34.1%",
+      "difficulty": "Hard",
+      "frequency": 0.09106388892287375,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+    },
+    {
+      "id": 987,
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "acceptance": "36.6%",
+      "difficulty": "Medium",
+      "frequency": 0.070392125446596,
+      "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "acceptance": "48.9%",
+      "difficulty": "Hard",
+      "frequency": 0.0674365414927314,
+      "link": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 350,
+      "title": "Intersection of Two Arrays II",
+      "acceptance": "51.4%",
+      "difficulty": "Easy",
+      "frequency": 0.01168540951877908,
+      "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii"
+    },
+    {
+      "id": 10,
+      "title": "Regular Expression Matching",
+      "acceptance": "26.8%",
+      "difficulty": "Hard",
+      "frequency": 0.0071865203293987245,
+      "link": "https://leetcode.com/problems/regular-expression-matching"
+    },
+    {
+      "id": 114,
+      "title": "Flatten Binary Tree to Linked List",
+      "acceptance": "49.3%",
+      "difficulty": "Medium",
+      "frequency": 0.006896579059060353,
+      "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list"
+    },
+    {
+      "id": 981,
+      "title": "Time Based Key-Value Store",
+      "acceptance": "53.1%",
+      "difficulty": "Medium",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/time-based-key-value-store"
+    }
+  ]
 }

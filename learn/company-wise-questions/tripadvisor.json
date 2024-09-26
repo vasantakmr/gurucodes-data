@@ -1,132 +1,132 @@
 {
-    "questions" : [
-        {
-          "id": 274,
-          "title": "H-Index",
-          "acceptance": "36.1%",
-          "difficulty": "Medium",
-          "frequency": 0.18810197835269699,
-          "link": "https://leetcode.com/problems/h-index"
-        },
-        {
-          "id": 146,
-          "title": "LRU Cache",
-          "acceptance": "33.2%",
-          "difficulty": "Medium",
-          "frequency": 0.14642426807449366,
-          "link": "https://leetcode.com/problems/lru-cache"
-        },
-        {
-          "id": 149,
-          "title": "Max Points on a Line",
-          "acceptance": "16.9%",
-          "difficulty": "Hard",
-          "frequency": 0.13811211729480913,
-          "link": "https://leetcode.com/problems/max-points-on-a-line"
-        },
-        {
-          "id": 1213,
-          "title": "Intersection of Three Sorted Arrays",
-          "acceptance": "78.9%",
-          "difficulty": "Easy",
-          "frequency": 0.09643440701660581,
-          "link": "https://leetcode.com/problems/intersection-of-three-sorted-arrays"
-        },
-        {
-          "id": 73,
-          "title": "Set Matrix Zeroes",
-          "acceptance": "43.1%",
-          "difficulty": "Medium",
-          "frequency": 0.07912453490203865,
-          "link": "https://leetcode.com/problems/set-matrix-zeroes"
-        },
-        {
-          "id": 692,
-          "title": "Top K Frequent Words",
-          "acceptance": "51.8%",
-          "difficulty": "Medium",
-          "frequency": 0.06262915907044142,
-          "link": "https://leetcode.com/problems/top-k-frequent-words"
-        },
-        {
-          "id": 528,
-          "title": "Random Pick with Weight",
-          "acceptance": "43.9%",
-          "difficulty": "Medium",
-          "frequency": 0.056333090457586533,
-          "link": "https://leetcode.com/problems/random-pick-with-weight"
-        },
-        {
-          "id": 65,
-          "title": "Valid Number",
-          "acceptance": "15.3%",
-          "difficulty": "Hard",
-          "frequency": 0.04813763559815448,
-          "link": "https://leetcode.com/problems/valid-number"
-        },
-        {
-          "id": 206,
-          "title": "Reverse Linked List",
-          "acceptance": "62.5%",
-          "difficulty": "Easy",
-          "frequency": 0.03512406277610997,
-          "link": "https://leetcode.com/problems/reverse-linked-list"
-        },
-        {
-          "id": 98,
-          "title": "Validate Binary Search Tree",
-          "acceptance": "27.8%",
-          "difficulty": "Medium",
-          "frequency": 0.033861720512945864,
-          "link": "https://leetcode.com/problems/validate-binary-search-tree"
-        },
-        {
-          "id": 1002,
-          "title": "Find Common Characters",
-          "acceptance": "67.7%",
-          "difficulty": "Easy",
-          "frequency": 0.033176651317732786,
-          "link": "https://leetcode.com/problems/find-common-characters"
-        },
-        {
-          "id": 33,
-          "title": "Search in Rotated Sorted Array",
-          "acceptance": "34.5%",
-          "difficulty": "Medium",
-          "frequency": 0.019219533793635182,
-          "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
-        },
-        {
-          "id": 384,
-          "title": "Shuffle an Array",
-          "acceptance": "52.8%",
-          "difficulty": "Medium",
-          "frequency": 0.014706147389695468,
-          "link": "https://leetcode.com/problems/shuffle-an-array"
-        },
-        {
-          "id": 101,
-          "title": "Symmetric Tree",
-          "acceptance": "46.8%",
-          "difficulty": "Easy",
-          "frequency": 0.013003027580387157,
-          "link": "https://leetcode.com/problems/symmetric-tree"
-        },
-        {
-          "id": 70,
-          "title": "Climbing Stairs",
-          "acceptance": "47.8%",
-          "difficulty": "Easy",
-          "frequency": 0.005888214855949732,
-          "link": "https://leetcode.com/problems/climbing-stairs"
-        },
-        {
-          "id": 139,
-          "title": "Word Break",
-          "acceptance": "40.1%",
-          "difficulty": "Medium",
-          "frequency": 0.003755167762323698,
-          "link": "https://leetcode.com/problems/word-break"
-        }
-      ]
+  "questions": [
+    {
+      "id": 274,
+      "title": "H-Index",
+      "acceptance": "36.1%",
+      "difficulty": "Medium",
+      "frequency": 0.18810197835269699,
+      "link": "https://leetcode.com/problems/h-index"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "acceptance": "33.2%",
+      "difficulty": "Medium",
+      "frequency": 0.14642426807449366,
+      "link": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 149,
+      "title": "Max Points on a Line",
+      "acceptance": "16.9%",
+      "difficulty": "Hard",
+      "frequency": 0.13811211729480913,
+      "link": "https://leetcode.com/problems/max-points-on-a-line"
+    },
+    {
+      "id": 1213,
+      "title": "Intersection of Three Sorted Arrays",
+      "acceptance": "78.9%",
+      "difficulty": "Easy",
+      "frequency": 0.09643440701660581,
+      "link": "https://leetcode.com/problems/intersection-of-three-sorted-arrays"
+    },
+    {
+      "id": 73,
+      "title": "Set Matrix Zeroes",
+      "acceptance": "43.1%",
+      "difficulty": "Medium",
+      "frequency": 0.07912453490203865,
+      "link": "https://leetcode.com/problems/set-matrix-zeroes"
+    },
+    {
+      "id": 692,
+      "title": "Top K Frequent Words",
+      "acceptance": "51.8%",
+      "difficulty": "Medium",
+      "frequency": 0.06262915907044142,
+      "link": "https://leetcode.com/problems/top-k-frequent-words"
+    },
+    {
+      "id": 528,
+      "title": "Random Pick with Weight",
+      "acceptance": "43.9%",
+      "difficulty": "Medium",
+      "frequency": 0.056333090457586533,
+      "link": "https://leetcode.com/problems/random-pick-with-weight"
+    },
+    {
+      "id": 65,
+      "title": "Valid Number",
+      "acceptance": "15.3%",
+      "difficulty": "Hard",
+      "frequency": 0.04813763559815448,
+      "link": "https://leetcode.com/problems/valid-number"
+    },
+    {
+      "id": 206,
+      "title": "Reverse Linked List",
+      "acceptance": "62.5%",
+      "difficulty": "Easy",
+      "frequency": 0.03512406277610997,
+      "link": "https://leetcode.com/problems/reverse-linked-list"
+    },
+    {
+      "id": 98,
+      "title": "Validate Binary Search Tree",
+      "acceptance": "27.8%",
+      "difficulty": "Medium",
+      "frequency": 0.033861720512945864,
+      "link": "https://leetcode.com/problems/validate-binary-search-tree"
+    },
+    {
+      "id": 1002,
+      "title": "Find Common Characters",
+      "acceptance": "67.7%",
+      "difficulty": "Easy",
+      "frequency": 0.033176651317732786,
+      "link": "https://leetcode.com/problems/find-common-characters"
+    },
+    {
+      "id": 33,
+      "title": "Search in Rotated Sorted Array",
+      "acceptance": "34.5%",
+      "difficulty": "Medium",
+      "frequency": 0.019219533793635182,
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+    },
+    {
+      "id": 384,
+      "title": "Shuffle an Array",
+      "acceptance": "52.8%",
+      "difficulty": "Medium",
+      "frequency": 0.014706147389695468,
+      "link": "https://leetcode.com/problems/shuffle-an-array"
+    },
+    {
+      "id": 101,
+      "title": "Symmetric Tree",
+      "acceptance": "46.8%",
+      "difficulty": "Easy",
+      "frequency": 0.013003027580387157,
+      "link": "https://leetcode.com/problems/symmetric-tree"
+    },
+    {
+      "id": 70,
+      "title": "Climbing Stairs",
+      "acceptance": "47.8%",
+      "difficulty": "Easy",
+      "frequency": 0.005888214855949732,
+      "link": "https://leetcode.com/problems/climbing-stairs"
+    },
+    {
+      "id": 139,
+      "title": "Word Break",
+      "acceptance": "40.1%",
+      "difficulty": "Medium",
+      "frequency": 0.003755167762323698,
+      "link": "https://leetcode.com/problems/word-break"
+    }
+  ]
 }

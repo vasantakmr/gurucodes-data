@@ -1,148 +1,148 @@
 {
-    "questions" : [
-        {
-          "id": 130,
-          "title": "Surrounded Regions",
-          "acceptance": "28.1%",
-          "difficulty": "Medium",
-          "frequency": 0.2265787147939701,
-          "link": "https://leetcode.com/problems/surrounded-regions"
-        },
-        {
-          "id": 498,
-          "title": "Diagonal Traverse",
-          "acceptance": "48.2%",
-          "difficulty": "Medium",
-          "frequency": 0.15320415822322747,
-          "link": "https://leetcode.com/problems/diagonal-traverse"
-        },
-        {
-          "id": 317,
-          "title": "Shortest Distance from All Buildings",
-          "acceptance": "41.4%",
-          "difficulty": "Hard",
-          "frequency": 0.07982960165248484,
-          "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings"
-        },
-        {
-          "id": 341,
-          "title": "Flatten Nested List Iterator",
-          "acceptance": "52.9%",
-          "difficulty": "Medium",
-          "frequency": 0.04243918327515666,
-          "link": "https://leetcode.com/problems/flatten-nested-list-iterator"
-        },
-        {
-          "id": 273,
-          "title": "Integer to English Words",
-          "acceptance": "27.1%",
-          "difficulty": "Hard",
-          "frequency": 0.025767242936146868,
-          "link": "https://leetcode.com/problems/integer-to-english-words"
-        },
-        {
-          "id": 143,
-          "title": "Reorder List",
-          "acceptance": "37.1%",
-          "difficulty": "Medium",
-          "frequency": 0.0245444554627325,
-          "link": "https://leetcode.com/problems/reorder-list"
-        },
-        {
-          "id": 622,
-          "title": "Design Circular Queue",
-          "acceptance": "43.8%",
-          "difficulty": "Medium",
-          "frequency": 0.02134552762022309,
-          "link": "https://leetcode.com/problems/design-circular-queue"
-        },
-        {
-          "id": 133,
-          "title": "Clone Graph",
-          "acceptance": "34.8%",
-          "difficulty": "Medium",
-          "frequency": 0.017381665875995565,
-          "link": "https://leetcode.com/problems/clone-graph"
-        },
-        {
-          "id": 146,
-          "title": "LRU Cache",
-          "acceptance": "33.2%",
-          "difficulty": "Medium",
-          "frequency": 0.017369086240613615,
-          "link": "https://leetcode.com/problems/lru-cache"
-        },
-        {
-          "id": 200,
-          "title": "Number of Islands",
-          "acceptance": "46.8%",
-          "difficulty": "Medium",
-          "frequency": 0.01715896595268211,
-          "link": "https://leetcode.com/problems/number-of-islands"
-        },
-        {
-          "id": 977,
-          "title": "Squares of a Sorted Array",
-          "acceptance": "72.1%",
-          "difficulty": "Easy",
-          "frequency": 0.014849460795886216,
-          "link": "https://leetcode.com/problems/squares-of-a-sorted-array"
-        },
-        {
-          "id": 236,
-          "title": "Lowest Common Ancestor of a Binary Tree",
-          "acceptance": "45.7%",
-          "difficulty": "Medium",
-          "frequency": 0.010113582102794063,
-          "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
-        },
-        {
-          "id": 1,
-          "title": "Two Sum",
-          "acceptance": "45.6%",
-          "difficulty": "Easy",
-          "frequency": 0.009584050515388142,
-          "link": "https://leetcode.com/problems/two-sum"
-        },
-        {
-          "id": 238,
-          "title": "Product of Array Except Self",
-          "acceptance": "60.1%",
-          "difficulty": "Medium",
-          "frequency": 0.008434123653610816,
-          "link": "https://leetcode.com/problems/product-of-array-except-self"
-        },
-        {
-          "id": 173,
-          "title": "Binary Search Tree Iterator",
-          "acceptance": "56.6%",
-          "difficulty": "Medium",
-          "frequency": 0.008121872057349032,
-          "link": "https://leetcode.com/problems/binary-search-tree-iterator"
-        },
-        {
-          "id": 15,
-          "title": "3Sum",
-          "acceptance": "26.8%",
-          "difficulty": "Medium",
-          "frequency": 0.004676547883901846,
-          "link": "https://leetcode.com/problems/3sum"
-        },
-        {
-          "id": 14,
-          "title": "Longest Common Prefix",
-          "acceptance": "35.4%",
-          "difficulty": "Easy",
-          "frequency": 0.0031776321622032783,
-          "link": "https://leetcode.com/problems/longest-common-prefix"
-        },
-        {
-          "id": 20,
-          "title": "Valid Parentheses",
-          "acceptance": "39.0%",
-          "difficulty": "Easy",
-          "frequency": 0.002197682330605871,
-          "link": "https://leetcode.com/problems/valid-parentheses"
-        }
-      ]
+  "questions": [
+    {
+      "id": 130,
+      "title": "Surrounded Regions",
+      "acceptance": "28.1%",
+      "difficulty": "Medium",
+      "frequency": 0.2265787147939701,
+      "link": "https://leetcode.com/problems/surrounded-regions"
+    },
+    {
+      "id": 498,
+      "title": "Diagonal Traverse",
+      "acceptance": "48.2%",
+      "difficulty": "Medium",
+      "frequency": 0.15320415822322747,
+      "link": "https://leetcode.com/problems/diagonal-traverse"
+    },
+    {
+      "id": 317,
+      "title": "Shortest Distance from All Buildings",
+      "acceptance": "41.4%",
+      "difficulty": "Hard",
+      "frequency": 0.07982960165248484,
+      "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings"
+    },
+    {
+      "id": 341,
+      "title": "Flatten Nested List Iterator",
+      "acceptance": "52.9%",
+      "difficulty": "Medium",
+      "frequency": 0.04243918327515666,
+      "link": "https://leetcode.com/problems/flatten-nested-list-iterator"
+    },
+    {
+      "id": 273,
+      "title": "Integer to English Words",
+      "acceptance": "27.1%",
+      "difficulty": "Hard",
+      "frequency": 0.025767242936146868,
+      "link": "https://leetcode.com/problems/integer-to-english-words"
+    },
+    {
+      "id": 143,
+      "title": "Reorder List",
+      "acceptance": "37.1%",
+      "difficulty": "Medium",
+      "frequency": 0.0245444554627325,
+      "link": "https://leetcode.com/problems/reorder-list"
+    },
+    {
+      "id": 622,
+      "title": "Design Circular Queue",
+      "acceptance": "43.8%",
+      "difficulty": "Medium",
+      "frequency": 0.02134552762022309,
+      "link": "https://leetcode.com/problems/design-circular-queue"
+    },
+    {
+      "id": 133,
+      "title": "Clone Graph",
+      "acceptance": "34.8%",
+      "difficulty": "Medium",
+      "frequency": 0.017381665875995565,
+      "link": "https://leetcode.com/problems/clone-graph"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "acceptance": "33.2%",
+      "difficulty": "Medium",
+      "frequency": 0.017369086240613615,
+      "link": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "acceptance": "46.8%",
+      "difficulty": "Medium",
+      "frequency": 0.01715896595268211,
+      "link": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 977,
+      "title": "Squares of a Sorted Array",
+      "acceptance": "72.1%",
+      "difficulty": "Easy",
+      "frequency": 0.014849460795886216,
+      "link": "https://leetcode.com/problems/squares-of-a-sorted-array"
+    },
+    {
+      "id": 236,
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "acceptance": "45.7%",
+      "difficulty": "Medium",
+      "frequency": 0.010113582102794063,
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "acceptance": "45.6%",
+      "difficulty": "Easy",
+      "frequency": 0.009584050515388142,
+      "link": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 238,
+      "title": "Product of Array Except Self",
+      "acceptance": "60.1%",
+      "difficulty": "Medium",
+      "frequency": 0.008434123653610816,
+      "link": "https://leetcode.com/problems/product-of-array-except-self"
+    },
+    {
+      "id": 173,
+      "title": "Binary Search Tree Iterator",
+      "acceptance": "56.6%",
+      "difficulty": "Medium",
+      "frequency": 0.008121872057349032,
+      "link": "https://leetcode.com/problems/binary-search-tree-iterator"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "acceptance": "26.8%",
+      "difficulty": "Medium",
+      "frequency": 0.004676547883901846,
+      "link": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 14,
+      "title": "Longest Common Prefix",
+      "acceptance": "35.4%",
+      "difficulty": "Easy",
+      "frequency": 0.0031776321622032783,
+      "link": "https://leetcode.com/problems/longest-common-prefix"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "acceptance": "39.0%",
+      "difficulty": "Easy",
+      "frequency": 0.002197682330605871,
+      "link": "https://leetcode.com/problems/valid-parentheses"
+    }
+  ]
 }

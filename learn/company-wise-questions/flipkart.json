@@ -1,108 +1,108 @@
 {
-    "questions": [
-        {
-            "id": 741,
-            "title": "Cherry Pickup",
-            "acceptance": "33.9%",
-            "difficulty": "Hard",
-            "frequency": 0.14706899424089495,
-            "link": "https://leetcode.com/problems/cherry-pickup"
-        },
-        {
-            "id": 42,
-            "title": "Trapping Rain Water",
-            "acceptance": "48.9%",
-            "difficulty": "Hard",
-            "frequency": 0.10346205022559302,
-            "link": "https://leetcode.com/problems/trapping-rain-water"
-        },
-        {
-            "id": 380,
-            "title": "Insert Delete GetRandom O(1)",
-            "acceptance": "47.5%",
-            "difficulty": "Medium",
-            "frequency": 0.05985510621029109,
-            "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
-        },
-        {
-            "id": 269,
-            "title": "Alien Dictionary",
-            "acceptance": "33.3%",
-            "difficulty": "Hard",
-            "frequency": 0.04997917057465883,
-            "link": "https://leetcode.com/problems/alien-dictionary"
-        },
-        {
-            "id": 10,
-            "title": "Regular Expression Matching",
-            "acceptance": "26.8%",
-            "difficulty": "Hard",
-            "frequency": 0.02844130559772196,
-            "link": "https://leetcode.com/problems/regular-expression-matching"
-        },
-        {
-            "id": 2,
-            "title": "Add Two Numbers",
-            "acceptance": "33.9%",
-            "difficulty": "Medium",
-            "frequency": 0.02668158945866115,
-            "link": "https://leetcode.com/problems/add-two-numbers"
-        },
-        {
-            "id": 84,
-            "title": "Largest Rectangle in Histogram",
-            "acceptance": "35.2%",
-            "difficulty": "Hard",
-            "frequency": 0.01866112622166295,
-            "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
-        },
-        {
-            "id": 123,
-            "title": "Best Time to Buy and Sell Stock III",
-            "acceptance": "37.5%",
-            "difficulty": "Hard",
-            "frequency": 0.011261380272539033,
-            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii"
-        },
-        {
-            "id": 994,
-            "title": "Rotting Oranges",
-            "acceptance": "49.2%",
-            "difficulty": "Medium",
-            "frequency": 0.007630712341163886,
-            "link": "https://leetcode.com/problems/rotting-oranges"
-        },
-        {
-            "id": 155,
-            "title": "Min Stack",
-            "acceptance": "44.5%",
-            "difficulty": "Easy",
-            "frequency": 0.00474891074128171,
-            "link": "https://leetcode.com/problems/min-stack"
-        },
-        {
-            "id": 967,
-            "title": "Numbers With Same Consecutive Differences",
-            "acceptance": "39.4%",
-            "difficulty": "Medium",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/numbers-with-same-consecutive-differences"
-        },
-        {
-            "id": 982,
-            "title": "Triples with Bitwise AND Equal To Zero",
-            "acceptance": "55.6%",
-            "difficulty": "Hard",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero"
-        },
-        {
-            "id": 1423,
-            "title": "Maximum Points You Can Obtain from Cards",
-            "acceptance": "42.6%",
-            "difficulty": "Medium",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards"
-        }
-    ]
+  "questions": [
+    {
+      "id": 741,
+      "title": "Cherry Pickup",
+      "acceptance": "33.9%",
+      "difficulty": "Hard",
+      "frequency": 0.14706899424089495,
+      "link": "https://leetcode.com/problems/cherry-pickup"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "acceptance": "48.9%",
+      "difficulty": "Hard",
+      "frequency": 0.10346205022559302,
+      "link": "https://leetcode.com/problems/trapping-rain-water"
+    },
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "acceptance": "47.5%",
+      "difficulty": "Medium",
+      "frequency": 0.05985510621029109,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 269,
+      "title": "Alien Dictionary",
+      "acceptance": "33.3%",
+      "difficulty": "Hard",
+      "frequency": 0.04997917057465883,
+      "link": "https://leetcode.com/problems/alien-dictionary"
+    },
+    {
+      "id": 10,
+      "title": "Regular Expression Matching",
+      "acceptance": "26.8%",
+      "difficulty": "Hard",
+      "frequency": 0.02844130559772196,
+      "link": "https://leetcode.com/problems/regular-expression-matching"
+    },
+    {
+      "id": 2,
+      "title": "Add Two Numbers",
+      "acceptance": "33.9%",
+      "difficulty": "Medium",
+      "frequency": 0.02668158945866115,
+      "link": "https://leetcode.com/problems/add-two-numbers"
+    },
+    {
+      "id": 84,
+      "title": "Largest Rectangle in Histogram",
+      "acceptance": "35.2%",
+      "difficulty": "Hard",
+      "frequency": 0.01866112622166295,
+      "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+    },
+    {
+      "id": 123,
+      "title": "Best Time to Buy and Sell Stock III",
+      "acceptance": "37.5%",
+      "difficulty": "Hard",
+      "frequency": 0.011261380272539033,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii"
+    },
+    {
+      "id": 994,
+      "title": "Rotting Oranges",
+      "acceptance": "49.2%",
+      "difficulty": "Medium",
+      "frequency": 0.007630712341163886,
+      "link": "https://leetcode.com/problems/rotting-oranges"
+    },
+    {
+      "id": 155,
+      "title": "Min Stack",
+      "acceptance": "44.5%",
+      "difficulty": "Easy",
+      "frequency": 0.00474891074128171,
+      "link": "https://leetcode.com/problems/min-stack"
+    },
+    {
+      "id": 967,
+      "title": "Numbers With Same Consecutive Differences",
+      "acceptance": "39.4%",
+      "difficulty": "Medium",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/numbers-with-same-consecutive-differences"
+    },
+    {
+      "id": 982,
+      "title": "Triples with Bitwise AND Equal To Zero",
+      "acceptance": "55.6%",
+      "difficulty": "Hard",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero"
+    },
+    {
+      "id": 1423,
+      "title": "Maximum Points You Can Obtain from Cards",
+      "acceptance": "42.6%",
+      "difficulty": "Medium",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards"
+    }
+  ]
 }

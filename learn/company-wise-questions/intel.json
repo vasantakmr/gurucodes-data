@@ -1,92 +1,92 @@
 {
-    "questions": [
-        {
-            "id": 1,
-            "title": "Two Sum",
-            "acceptance": "45.6%",
-            "difficulty": "Easy",
-            "frequency": 0.19062641457662657,
-            "link": "https://leetcode.com/problems/two-sum"
-        },
-        {
-            "id": 206,
-            "title": "Reverse Linked List",
-            "acceptance": "62.5%",
-            "difficulty": "Easy",
-            "frequency": 0.12455596351019865,
-            "link": "https://leetcode.com/problems/reverse-linked-list"
-        },
-        {
-            "id": 238,
-            "title": "Product of Array Except Self",
-            "acceptance": "60.1%",
-            "difficulty": "Medium",
-            "frequency": 0.05848551244377074,
-            "link": "https://leetcode.com/problems/product-of-array-except-self"
-        },
-        {
-            "id": 2,
-            "title": "Add Two Numbers",
-            "acceptance": "33.9%",
-            "difficulty": "Medium",
-            "frequency": 0.05671480756138734,
-            "link": "https://leetcode.com/problems/add-two-numbers"
-        },
-        {
-            "id": 204,
-            "title": "Count Primes",
-            "acceptance": "31.5%",
-            "difficulty": "Easy",
-            "frequency": 0.041527308821257436,
-            "link": "https://leetcode.com/problems/count-primes"
-        },
-        {
-            "id": 53,
-            "title": "Maximum Subarray",
-            "acceptance": "46.5%",
-            "difficulty": "Easy",
-            "frequency": 0.041193661075270664,
-            "link": "https://leetcode.com/problems/maximum-subarray"
-        },
-        {
-            "id": 121,
-            "title": "Best Time to Buy and Sell Stock",
-            "acceptance": "50.5%",
-            "difficulty": "Easy",
-            "frequency": 0.018197024560061743,
-            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
-        },
-        {
-            "id": 234,
-            "title": "Palindrome Linked List",
-            "acceptance": "39.3%",
-            "difficulty": "Easy",
-            "frequency": 0.009716151141728767,
-            "link": "https://leetcode.com/problems/palindrome-linked-list"
-        },
-        {
-            "id": 20,
-            "title": "Valid Parentheses",
-            "acceptance": "39.0%",
-            "difficulty": "Easy",
-            "frequency": 0.008761898231759775,
-            "link": "https://leetcode.com/problems/valid-parentheses"
-        },
-        {
-            "id": 21,
-            "title": "Merge Two Sorted Lists",
-            "acceptance": "53.5%",
-            "difficulty": "Easy",
-            "frequency": 0.008604516653304993,
-            "link": "https://leetcode.com/problems/merge-two-sorted-lists"
-        },
-        {
-            "id": 543,
-            "title": "Diameter of Binary Tree",
-            "acceptance": "48.4%",
-            "difficulty": "Easy",
-            "frequency": 0.005047966297304777,
-            "link": "https://leetcode.com/problems/diameter-of-binary-tree"
-        }
-    ]
+  "questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "acceptance": "45.6%",
+      "difficulty": "Easy",
+      "frequency": 0.19062641457662657,
+      "link": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 206,
+      "title": "Reverse Linked List",
+      "acceptance": "62.5%",
+      "difficulty": "Easy",
+      "frequency": 0.12455596351019865,
+      "link": "https://leetcode.com/problems/reverse-linked-list"
+    },
+    {
+      "id": 238,
+      "title": "Product of Array Except Self",
+      "acceptance": "60.1%",
+      "difficulty": "Medium",
+      "frequency": 0.05848551244377074,
+      "link": "https://leetcode.com/problems/product-of-array-except-self"
+    },
+    {
+      "id": 2,
+      "title": "Add Two Numbers",
+      "acceptance": "33.9%",
+      "difficulty": "Medium",
+      "frequency": 0.05671480756138734,
+      "link": "https://leetcode.com/problems/add-two-numbers"
+    },
+    {
+      "id": 204,
+      "title": "Count Primes",
+      "acceptance": "31.5%",
+      "difficulty": "Easy",
+      "frequency": 0.041527308821257436,
+      "link": "https://leetcode.com/problems/count-primes"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "acceptance": "46.5%",
+      "difficulty": "Easy",
+      "frequency": 0.041193661075270664,
+      "link": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 121,
+      "title": "Best Time to Buy and Sell Stock",
+      "acceptance": "50.5%",
+      "difficulty": "Easy",
+      "frequency": 0.018197024560061743,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+    },
+    {
+      "id": 234,
+      "title": "Palindrome Linked List",
+      "acceptance": "39.3%",
+      "difficulty": "Easy",
+      "frequency": 0.009716151141728767,
+      "link": "https://leetcode.com/problems/palindrome-linked-list"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "acceptance": "39.0%",
+      "difficulty": "Easy",
+      "frequency": 0.008761898231759775,
+      "link": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 21,
+      "title": "Merge Two Sorted Lists",
+      "acceptance": "53.5%",
+      "difficulty": "Easy",
+      "frequency": 0.008604516653304993,
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+    },
+    {
+      "id": 543,
+      "title": "Diameter of Binary Tree",
+      "acceptance": "48.4%",
+      "difficulty": "Easy",
+      "frequency": 0.005047966297304777,
+      "link": "https://leetcode.com/problems/diameter-of-binary-tree"
+    }
+  ]
 }

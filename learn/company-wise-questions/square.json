@@ -1,196 +1,196 @@
 {
-    "questions": [
-        {
-          "id": 72,
-          "title": "Edit Distance",
-          "acceptance": "44.8%",
-          "difficulty": "Hard",
-          "frequency": 0.8278420197119241,
-          "link": "https://leetcode.com/problems/edit-distance"
-        },
-        {
-          "id": 271,
-          "title": "Encode and Decode Strings",
-          "acceptance": "31.5%",
-          "difficulty": "Medium",
-          "frequency": 0.6492888646599129,
-          "link": "https://leetcode.com/problems/encode-and-decode-strings"
-        },
-        {
-          "id": 969,
-          "title": "Pancake Sorting",
-          "acceptance": "67.5%",
-          "difficulty": "Medium",
-          "frequency": 0.5905780135393897,
-          "link": "https://leetcode.com/problems/pancake-sorting"
-        },
-        {
-          "id": 336,
-          "title": "Palindrome Pairs",
-          "acceptance": "33.7%",
-          "difficulty": "Hard",
-          "frequency": 0.5700227742957876,
-          "link": "https://leetcode.com/problems/palindrome-pairs"
-        },
-        {
-          "id": 999,
-          "title": "Available Captures for Rook",
-          "acceptance": "66.7%",
-          "difficulty": "Easy",
-          "frequency": 0.4868470419092762,
-          "link": "https://leetcode.com/problems/available-captures-for-rook"
-        },
-        {
-          "id": 91,
-          "title": "Decode Ways",
-          "acceptance": "24.7%",
-          "difficulty": "Medium",
-          "frequency": 0.32434096851350985,
-          "link": "https://leetcode.com/problems/decode-ways"
-        },
-        {
-          "id": 269,
-          "title": "Alien Dictionary",
-          "acceptance": "33.3%",
-          "difficulty": "Hard",
-          "frequency": 0.14578781346149866,
-          "link": "https://leetcode.com/problems/alien-dictionary"
-        },
-        {
-          "id": 273,
-          "title": "Integer to English Words",
-          "acceptance": "27.1%",
-          "difficulty": "Hard",
-          "frequency": 0.10380963271229693,
-          "link": "https://leetcode.com/problems/integer-to-english-words"
-        },
-        {
-          "id": 165,
-          "title": "Compare Version Numbers",
-          "acceptance": "27.4%",
-          "difficulty": "Medium",
-          "frequency": 0.09483978737982436,
-          "link": "https://leetcode.com/problems/compare-version-numbers"
-        },
-        {
-          "id": 415,
-          "title": "Add Strings",
-          "acceptance": "47.5%",
-          "difficulty": "Easy",
-          "frequency": 0.08919862525832246,
-          "link": "https://leetcode.com/problems/add-strings"
-        },
-        {
-          "id": 17,
-          "title": "Letter Combinations of a Phone Number",
-          "acceptance": "46.8%",
-          "difficulty": "Medium",
-          "frequency": 0.0855673732620712,
-          "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
-        },
-        {
-          "id": 277,
-          "title": "Find the Celebrity",
-          "acceptance": "41.8%",
-          "difficulty": "Medium",
-          "frequency": 0.06562120535847293,
-          "link": "https://leetcode.com/problems/find-the-celebrity"
-        },
-        {
-          "id": 208,
-          "title": "Implement Trie (Prefix Tree)",
-          "acceptance": "49.4%",
-          "difficulty": "Medium",
-          "frequency": 0.05559457257530485,
-          "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
-        },
-        {
-          "id": 127,
-          "title": "Word Ladder",
-          "acceptance": "29.6%",
-          "difficulty": "Medium",
-          "frequency": 0.05256684589504119,
-          "link": "https://leetcode.com/problems/word-ladder"
-        },
-        {
-          "id": 105,
-          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
-          "acceptance": "48.8%",
-          "difficulty": "Medium",
-          "frequency": 0.049549146900389536,
-          "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal"
-        },
-        {
-          "id": 824,
-          "title": "Goat Latin",
-          "acceptance": "63.4%",
-          "difficulty": "Easy",
-          "frequency": 0.0317991816929387,
-          "link": "https://leetcode.com/problems/goat-latin"
-        },
-        {
-          "id": 332,
-          "title": "Reconstruct Itinerary",
-          "acceptance": "36.7%",
-          "difficulty": "Medium",
-          "frequency": 0.030687713231237448,
-          "link": "https://leetcode.com/problems/reconstruct-itinerary"
-        },
-        {
-          "id": 981,
-          "title": "Time Based Key-Value Store",
-          "acceptance": "53.1%",
-          "difficulty": "Medium",
-          "frequency": 0.02226024024151985,
-          "link": "https://leetcode.com/problems/time-based-key-value-store"
-        },
-        {
-          "id": 15,
-          "title": "3Sum",
-          "acceptance": "26.8%",
-          "difficulty": "Medium",
-          "frequency": 0.013665148419080968,
-          "link": "https://leetcode.com/problems/3sum"
-        },
-        {
-          "id": 200,
-          "title": "Number of Islands",
-          "acceptance": "46.8%",
-          "difficulty": "Medium",
-          "frequency": 0.011509262420590827,
-          "link": "https://leetcode.com/problems/number-of-islands"
-        },
-        {
-          "id": 139,
-          "title": "Word Break",
-          "acceptance": "40.1%",
-          "difficulty": "Medium",
-          "frequency": 0.008741314401573542,
-          "link": "https://leetcode.com/problems/word-break"
-        },
-        {
-          "id": 39,
-          "title": "Combination Sum",
-          "acceptance": "56.1%",
-          "difficulty": "Medium",
-          "frequency": 0.005715934396440999,
-          "link": "https://leetcode.com/problems/combination-sum"
-        },
-        {
-          "id": 573,
-          "title": "Squirrel Simulation",
-          "acceptance": "55.6%",
-          "difficulty": "Medium",
-          "frequency": 0,
-          "link": "https://leetcode.com/problems/squirrel-simulation"
-        },
-        {
-          "id": 699,
-          "title": "Falling Squares",
-          "acceptance": "41.8%",
-          "difficulty": "Hard",
-          "frequency": 0,
-          "link": "https://leetcode.com/problems/falling-squares"
-        }
-      ]
+  "questions": [
+    {
+      "id": 72,
+      "title": "Edit Distance",
+      "acceptance": "44.8%",
+      "difficulty": "Hard",
+      "frequency": 0.8278420197119241,
+      "link": "https://leetcode.com/problems/edit-distance"
+    },
+    {
+      "id": 271,
+      "title": "Encode and Decode Strings",
+      "acceptance": "31.5%",
+      "difficulty": "Medium",
+      "frequency": 0.6492888646599129,
+      "link": "https://leetcode.com/problems/encode-and-decode-strings"
+    },
+    {
+      "id": 969,
+      "title": "Pancake Sorting",
+      "acceptance": "67.5%",
+      "difficulty": "Medium",
+      "frequency": 0.5905780135393897,
+      "link": "https://leetcode.com/problems/pancake-sorting"
+    },
+    {
+      "id": 336,
+      "title": "Palindrome Pairs",
+      "acceptance": "33.7%",
+      "difficulty": "Hard",
+      "frequency": 0.5700227742957876,
+      "link": "https://leetcode.com/problems/palindrome-pairs"
+    },
+    {
+      "id": 999,
+      "title": "Available Captures for Rook",
+      "acceptance": "66.7%",
+      "difficulty": "Easy",
+      "frequency": 0.4868470419092762,
+      "link": "https://leetcode.com/problems/available-captures-for-rook"
+    },
+    {
+      "id": 91,
+      "title": "Decode Ways",
+      "acceptance": "24.7%",
+      "difficulty": "Medium",
+      "frequency": 0.32434096851350985,
+      "link": "https://leetcode.com/problems/decode-ways"
+    },
+    {
+      "id": 269,
+      "title": "Alien Dictionary",
+      "acceptance": "33.3%",
+      "difficulty": "Hard",
+      "frequency": 0.14578781346149866,
+      "link": "https://leetcode.com/problems/alien-dictionary"
+    },
+    {
+      "id": 273,
+      "title": "Integer to English Words",
+      "acceptance": "27.1%",
+      "difficulty": "Hard",
+      "frequency": 0.10380963271229693,
+      "link": "https://leetcode.com/problems/integer-to-english-words"
+    },
+    {
+      "id": 165,
+      "title": "Compare Version Numbers",
+      "acceptance": "27.4%",
+      "difficulty": "Medium",
+      "frequency": 0.09483978737982436,
+      "link": "https://leetcode.com/problems/compare-version-numbers"
+    },
+    {
+      "id": 415,
+      "title": "Add Strings",
+      "acceptance": "47.5%",
+      "difficulty": "Easy",
+      "frequency": 0.08919862525832246,
+      "link": "https://leetcode.com/problems/add-strings"
+    },
+    {
+      "id": 17,
+      "title": "Letter Combinations of a Phone Number",
+      "acceptance": "46.8%",
+      "difficulty": "Medium",
+      "frequency": 0.0855673732620712,
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+    },
+    {
+      "id": 277,
+      "title": "Find the Celebrity",
+      "acceptance": "41.8%",
+      "difficulty": "Medium",
+      "frequency": 0.06562120535847293,
+      "link": "https://leetcode.com/problems/find-the-celebrity"
+    },
+    {
+      "id": 208,
+      "title": "Implement Trie (Prefix Tree)",
+      "acceptance": "49.4%",
+      "difficulty": "Medium",
+      "frequency": 0.05559457257530485,
+      "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+    },
+    {
+      "id": 127,
+      "title": "Word Ladder",
+      "acceptance": "29.6%",
+      "difficulty": "Medium",
+      "frequency": 0.05256684589504119,
+      "link": "https://leetcode.com/problems/word-ladder"
+    },
+    {
+      "id": 105,
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "acceptance": "48.8%",
+      "difficulty": "Medium",
+      "frequency": 0.049549146900389536,
+      "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal"
+    },
+    {
+      "id": 824,
+      "title": "Goat Latin",
+      "acceptance": "63.4%",
+      "difficulty": "Easy",
+      "frequency": 0.0317991816929387,
+      "link": "https://leetcode.com/problems/goat-latin"
+    },
+    {
+      "id": 332,
+      "title": "Reconstruct Itinerary",
+      "acceptance": "36.7%",
+      "difficulty": "Medium",
+      "frequency": 0.030687713231237448,
+      "link": "https://leetcode.com/problems/reconstruct-itinerary"
+    },
+    {
+      "id": 981,
+      "title": "Time Based Key-Value Store",
+      "acceptance": "53.1%",
+      "difficulty": "Medium",
+      "frequency": 0.02226024024151985,
+      "link": "https://leetcode.com/problems/time-based-key-value-store"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "acceptance": "26.8%",
+      "difficulty": "Medium",
+      "frequency": 0.013665148419080968,
+      "link": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 200,
+      "title": "Number of Islands",
+      "acceptance": "46.8%",
+      "difficulty": "Medium",
+      "frequency": 0.011509262420590827,
+      "link": "https://leetcode.com/problems/number-of-islands"
+    },
+    {
+      "id": 139,
+      "title": "Word Break",
+      "acceptance": "40.1%",
+      "difficulty": "Medium",
+      "frequency": 0.008741314401573542,
+      "link": "https://leetcode.com/problems/word-break"
+    },
+    {
+      "id": 39,
+      "title": "Combination Sum",
+      "acceptance": "56.1%",
+      "difficulty": "Medium",
+      "frequency": 0.005715934396440999,
+      "link": "https://leetcode.com/problems/combination-sum"
+    },
+    {
+      "id": 573,
+      "title": "Squirrel Simulation",
+      "acceptance": "55.6%",
+      "difficulty": "Medium",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/squirrel-simulation"
+    },
+    {
+      "id": 699,
+      "title": "Falling Squares",
+      "acceptance": "41.8%",
+      "difficulty": "Hard",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/falling-squares"
+    }
+  ]
 }

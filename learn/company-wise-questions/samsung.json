@@ -1,204 +1,204 @@
 {
-    "questions": [
-        {
-            "id": 312,
-            "title": "Burst Balloons",
-            "acceptance": "51.8%",
-            "difficulty": "Hard",
-            "frequency": 0.1436030350715959,
-            "link": "https://leetcode.com/problems/burst-balloons"
-        },
-        {
-            "id": 1,
-            "title": "Two Sum",
-            "acceptance": "45.6%",
-            "difficulty": "Easy",
-            "frequency": 0.10724153306109706,
-            "link": "https://leetcode.com/problems/two-sum"
-        },
-        {
-            "id": 572,
-            "title": "Subtree of Another Tree",
-            "acceptance": "44.1%",
-            "difficulty": "Easy",
-            "frequency": 0.08694829147719678,
-            "link": "https://leetcode.com/problems/subtree-of-another-tree"
-        },
-        {
-            "id": 31,
-            "title": "Next Permutation",
-            "acceptance": "32.6%",
-            "difficulty": "Medium",
-            "frequency": 0.05058678946669793,
-            "link": "https://leetcode.com/problems/next-permutation"
-        },
-        {
-            "id": 85,
-            "title": "Maximal Rectangle",
-            "acceptance": "37.7%",
-            "difficulty": "Hard",
-            "frequency": 0.050135812424355455,
-            "link": "https://leetcode.com/problems/maximal-rectangle"
-        },
-        {
-            "id": 20,
-            "title": "Valid Parentheses",
-            "acceptance": "39.0%",
-            "difficulty": "Easy",
-            "frequency": 0.04358808999497224,
-            "link": "https://leetcode.com/problems/valid-parentheses"
-        },
-        {
-            "id": 32,
-            "title": "Longest Valid Parentheses",
-            "acceptance": "28.4%",
-            "difficulty": "Hard",
-            "frequency": 0.03477099521294092,
-            "link": "https://leetcode.com/problems/longest-valid-parentheses"
-        },
-        {
-            "id": 15,
-            "title": "3Sum",
-            "acceptance": "26.8%",
-            "difficulty": "Medium",
-            "frequency": 0.03278982282299087,
-            "link": "https://leetcode.com/problems/3sum"
-        },
-        {
-            "id": 18,
-            "title": "4Sum",
-            "acceptance": "33.7%",
-            "difficulty": "Medium",
-            "frequency": 0.02090668481931367,
-            "link": "https://leetcode.com/problems/4sum"
-        },
-        {
-            "id": 33,
-            "title": "Search in Rotated Sorted Array",
-            "acceptance": "34.5%",
-            "difficulty": "Medium",
-            "frequency": 0.019219533793635182,
-            "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
-        },
-        {
-            "id": 22,
-            "title": "Generate Parentheses",
-            "acceptance": "62.7%",
-            "difficulty": "Medium",
-            "frequency": 0.016507132273019587,
-            "link": "https://leetcode.com/problems/generate-parentheses"
-        },
-        {
-            "id": 876,
-            "title": "Middle of the Linked List",
-            "acceptance": "68.4%",
-            "difficulty": "Easy",
-            "frequency": 0.01631061893137506,
-            "link": "https://leetcode.com/problems/middle-of-the-linked-list"
-        },
-        {
-            "id": 5,
-            "title": "Longest Palindromic Substring",
-            "acceptance": "29.5%",
-            "difficulty": "Medium",
-            "frequency": 0.013529809159515602,
-            "link": "https://leetcode.com/problems/longest-palindromic-substring"
-        },
-        {
-            "id": 3,
-            "title": "Longest Substring Without Repeating Characters",
-            "acceptance": "30.4%",
-            "difficulty": "Medium",
-            "frequency": 0.013288251045064422,
-            "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
-        },
-        {
-            "id": 523,
-            "title": "Continuous Subarray Sum",
-            "acceptance": "24.6%",
-            "difficulty": "Medium",
-            "frequency": 0.011293174793455513,
-            "link": "https://leetcode.com/problems/continuous-subarray-sum"
-        },
-        {
-            "id": 103,
-            "title": "Binary Tree Zigzag Level Order Traversal",
-            "acceptance": "48.3%",
-            "difficulty": "Medium",
-            "frequency": 0.010504298266876018,
-            "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal"
-        },
-        {
-            "id": 190,
-            "title": "Reverse Bits",
-            "acceptance": "39.8%",
-            "difficulty": "Easy",
-            "frequency": 0.007245095991891571,
-            "link": "https://leetcode.com/problems/reverse-bits"
-        },
-        {
-            "id": 127,
-            "title": "Word Ladder",
-            "acceptance": "29.6%",
-            "difficulty": "Medium",
-            "frequency": 0.005731495844689608,
-            "link": "https://leetcode.com/problems/word-ladder"
-        },
-        {
-            "id": 21,
-            "title": "Merge Two Sorted Lists",
-            "acceptance": "53.5%",
-            "difficulty": "Easy",
-            "frequency": 0.004849147433009811,
-            "link": "https://leetcode.com/problems/merge-two-sorted-lists"
-        },
-        {
-            "id": 653,
-            "title": "Two Sum IV - Input is a BST",
-            "acceptance": "55.5%",
-            "difficulty": "Easy",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst"
-        },
-        {
-            "id": 987,
-            "title": "Vertical Order Traversal of a Binary Tree",
-            "acceptance": "36.6%",
-            "difficulty": "Medium",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree"
-        },
-        {
-            "id": 1301,
-            "title": "Number of Paths with Max Score",
-            "acceptance": "37.3%",
-            "difficulty": "Hard",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/number-of-paths-with-max-score"
-        },
-        {
-            "id": 1139,
-            "title": "Largest 1-Bordered Square",
-            "acceptance": "47.5%",
-            "difficulty": "Medium",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/largest-1-bordered-square"
-        },
-        {
-            "id": 1464,
-            "title": "Maximum Product of Two Elements in an Array",
-            "acceptance": "78.1%",
-            "difficulty": "Easy",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array"
-        },
-        {
-            "id": 1519,
-            "title": "Number of Nodes in the Sub-Tree With the Same Label",
-            "acceptance": "35.2%",
-            "difficulty": "Medium",
-            "frequency": 0,
-            "link": "https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label"
-        }
-    ]
+  "questions": [
+    {
+      "id": 312,
+      "title": "Burst Balloons",
+      "acceptance": "51.8%",
+      "difficulty": "Hard",
+      "frequency": 0.1436030350715959,
+      "link": "https://leetcode.com/problems/burst-balloons"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "acceptance": "45.6%",
+      "difficulty": "Easy",
+      "frequency": 0.10724153306109706,
+      "link": "https://leetcode.com/problems/two-sum"
+    },
+    {
+      "id": 572,
+      "title": "Subtree of Another Tree",
+      "acceptance": "44.1%",
+      "difficulty": "Easy",
+      "frequency": 0.08694829147719678,
+      "link": "https://leetcode.com/problems/subtree-of-another-tree"
+    },
+    {
+      "id": 31,
+      "title": "Next Permutation",
+      "acceptance": "32.6%",
+      "difficulty": "Medium",
+      "frequency": 0.05058678946669793,
+      "link": "https://leetcode.com/problems/next-permutation"
+    },
+    {
+      "id": 85,
+      "title": "Maximal Rectangle",
+      "acceptance": "37.7%",
+      "difficulty": "Hard",
+      "frequency": 0.050135812424355455,
+      "link": "https://leetcode.com/problems/maximal-rectangle"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "acceptance": "39.0%",
+      "difficulty": "Easy",
+      "frequency": 0.04358808999497224,
+      "link": "https://leetcode.com/problems/valid-parentheses"
+    },
+    {
+      "id": 32,
+      "title": "Longest Valid Parentheses",
+      "acceptance": "28.4%",
+      "difficulty": "Hard",
+      "frequency": 0.03477099521294092,
+      "link": "https://leetcode.com/problems/longest-valid-parentheses"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "acceptance": "26.8%",
+      "difficulty": "Medium",
+      "frequency": 0.03278982282299087,
+      "link": "https://leetcode.com/problems/3sum"
+    },
+    {
+      "id": 18,
+      "title": "4Sum",
+      "acceptance": "33.7%",
+      "difficulty": "Medium",
+      "frequency": 0.02090668481931367,
+      "link": "https://leetcode.com/problems/4sum"
+    },
+    {
+      "id": 33,
+      "title": "Search in Rotated Sorted Array",
+      "acceptance": "34.5%",
+      "difficulty": "Medium",
+      "frequency": 0.019219533793635182,
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+    },
+    {
+      "id": 22,
+      "title": "Generate Parentheses",
+      "acceptance": "62.7%",
+      "difficulty": "Medium",
+      "frequency": 0.016507132273019587,
+      "link": "https://leetcode.com/problems/generate-parentheses"
+    },
+    {
+      "id": 876,
+      "title": "Middle of the Linked List",
+      "acceptance": "68.4%",
+      "difficulty": "Easy",
+      "frequency": 0.01631061893137506,
+      "link": "https://leetcode.com/problems/middle-of-the-linked-list"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "acceptance": "29.5%",
+      "difficulty": "Medium",
+      "frequency": 0.013529809159515602,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "acceptance": "30.4%",
+      "difficulty": "Medium",
+      "frequency": 0.013288251045064422,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+    },
+    {
+      "id": 523,
+      "title": "Continuous Subarray Sum",
+      "acceptance": "24.6%",
+      "difficulty": "Medium",
+      "frequency": 0.011293174793455513,
+      "link": "https://leetcode.com/problems/continuous-subarray-sum"
+    },
+    {
+      "id": 103,
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "acceptance": "48.3%",
+      "difficulty": "Medium",
+      "frequency": 0.010504298266876018,
+      "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal"
+    },
+    {
+      "id": 190,
+      "title": "Reverse Bits",
+      "acceptance": "39.8%",
+      "difficulty": "Easy",
+      "frequency": 0.007245095991891571,
+      "link": "https://leetcode.com/problems/reverse-bits"
+    },
+    {
+      "id": 127,
+      "title": "Word Ladder",
+      "acceptance": "29.6%",
+      "difficulty": "Medium",
+      "frequency": 0.005731495844689608,
+      "link": "https://leetcode.com/problems/word-ladder"
+    },
+    {
+      "id": 21,
+      "title": "Merge Two Sorted Lists",
+      "acceptance": "53.5%",
+      "difficulty": "Easy",
+      "frequency": 0.004849147433009811,
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+    },
+    {
+      "id": 653,
+      "title": "Two Sum IV - Input is a BST",
+      "acceptance": "55.5%",
+      "difficulty": "Easy",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst"
+    },
+    {
+      "id": 987,
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "acceptance": "36.6%",
+      "difficulty": "Medium",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree"
+    },
+    {
+      "id": 1301,
+      "title": "Number of Paths with Max Score",
+      "acceptance": "37.3%",
+      "difficulty": "Hard",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/number-of-paths-with-max-score"
+    },
+    {
+      "id": 1139,
+      "title": "Largest 1-Bordered Square",
+      "acceptance": "47.5%",
+      "difficulty": "Medium",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/largest-1-bordered-square"
+    },
+    {
+      "id": 1464,
+      "title": "Maximum Product of Two Elements in an Array",
+      "acceptance": "78.1%",
+      "difficulty": "Easy",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array"
+    },
+    {
+      "id": 1519,
+      "title": "Number of Nodes in the Sub-Tree With the Same Label",
+      "acceptance": "35.2%",
+      "difficulty": "Medium",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label"
+    }
+  ]
 }

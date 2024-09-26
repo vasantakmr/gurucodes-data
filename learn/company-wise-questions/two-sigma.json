@@ -1,156 +1,156 @@
 {
-    "questions" : [
-        {
-          "id": 547,
-          "title": "Friend Circles",
-          "acceptance": "58.6%",
-          "difficulty": "Medium",
-          "frequency": 3.4457325845151185,
-          "link": "https://leetcode.com/problems/friend-circles"
-        },
-        {
-          "id": 1048,
-          "title": "Longest String Chain",
-          "acceptance": "54.7%",
-          "difficulty": "Medium",
-          "frequency": 2.6183158453084423,
-          "link": "https://leetcode.com/problems/longest-string-chain"
-        },
-        {
-          "id": 918,
-          "title": "Maximum Sum Circular Subarray",
-          "acceptance": "33.7%",
-          "difficulty": "Medium",
-          "frequency": 1.7908991061017663,
-          "link": "https://leetcode.com/problems/maximum-sum-circular-subarray"
-        },
-        {
-          "id": 146,
-          "title": "LRU Cache",
-          "acceptance": "33.2%",
-          "difficulty": "Medium",
-          "frequency": 1.0128053210090022,
-          "link": "https://leetcode.com/problems/lru-cache"
-        },
-        {
-          "id": 123,
-          "title": "Best Time to Buy and Sell Stock III",
-          "acceptance": "37.5%",
-          "difficulty": "Hard",
-          "frequency": 0.8103008499673461,
-          "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii"
-        },
-        {
-          "id": 44,
-          "title": "Wildcard Matching",
-          "acceptance": "24.7%",
-          "difficulty": "Hard",
-          "frequency": 0.8088199846507318,
-          "link": "https://leetcode.com/problems/wildcard-matching"
-        },
-        {
-          "id": 342,
-          "title": "Power of Four",
-          "acceptance": "41.6%",
-          "difficulty": "Easy",
-          "frequency": 0.5106053351870626,
-          "link": "https://leetcode.com/problems/power-of-four"
-        },
-        {
-          "id": 528,
-          "title": "Random Pick with Weight",
-          "acceptance": "43.9%",
-          "difficulty": "Medium",
-          "frequency": 0.37294088733187064,
-          "link": "https://leetcode.com/problems/random-pick-with-weight"
-        },
-        {
-          "id": 380,
-          "title": "Insert Delete GetRandom O(1)",
-          "acceptance": "47.5%",
-          "difficulty": "Medium",
-          "frequency": 0.348524374235988,
-          "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
-        },
-        {
-          "id": 710,
-          "title": "Random Pick with Blacklist",
-          "acceptance": "32.5%",
-          "difficulty": "Hard",
-          "frequency": 0.3161972427598021,
-          "link": "https://leetcode.com/problems/random-pick-with-blacklist"
-        },
-        {
-          "id": 289,
-          "title": "Game of Life",
-          "acceptance": "54.5%",
-          "difficulty": "Medium",
-          "frequency": 0.2465460268751668,
-          "link": "https://leetcode.com/problems/game-of-life"
-        },
-        {
-          "id": 1163,
-          "title": "Last Substring in Lexicographical Order",
-          "acceptance": "33.9%",
-          "difficulty": "Hard",
-          "frequency": 0.11205740891571739,
-          "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order"
-        },
-        {
-          "id": 4,
-          "title": "Median of Two Sorted Arrays",
-          "acceptance": "29.6%",
-          "difficulty": "Hard",
-          "frequency": 0.09321199094445486,
-          "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
-        },
-        {
-          "id": 53,
-          "title": "Maximum Subarray",
-          "acceptance": "46.5%",
-          "difficulty": "Easy",
-          "frequency": 0.04299340685592046,
-          "link": "https://leetcode.com/problems/maximum-subarray"
-        },
-        {
-          "id": 56,
-          "title": "Merge Intervals",
-          "acceptance": "39.3%",
-          "difficulty": "Medium",
-          "frequency": 0.02150990613527447,
-          "link": "https://leetcode.com/problems/merge-intervals"
-        },
-        {
-          "id": 384,
-          "title": "Shuffle an Array",
-          "acceptance": "52.8%",
-          "difficulty": "Medium",
-          "frequency": 0.015250009609723824,
-          "link": "https://leetcode.com/problems/shuffle-an-array"
-        },
-        {
-          "id": 221,
-          "title": "Maximal Square",
-          "acceptance": "37.7%",
-          "difficulty": "Medium",
-          "frequency": 0.00988638798855515,
-          "link": "https://leetcode.com/problems/maximal-square"
-        },
-        {
-          "id": 349,
-          "title": "Intersection of Two Arrays",
-          "acceptance": "62.5%",
-          "difficulty": "Easy",
-          "frequency": 0.00725034896230682,
-          "link": "https://leetcode.com/problems/intersection-of-two-arrays"
-        },
-        {
-          "id": 1186,
-          "title": "Maximum Subarray Sum with One Deletion",
-          "acceptance": "37.5%",
-          "difficulty": "Medium",
-          "frequency": 0,
-          "link": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion"
-        }
-      ]
+  "questions": [
+    {
+      "id": 547,
+      "title": "Friend Circles",
+      "acceptance": "58.6%",
+      "difficulty": "Medium",
+      "frequency": 3.4457325845151185,
+      "link": "https://leetcode.com/problems/friend-circles"
+    },
+    {
+      "id": 1048,
+      "title": "Longest String Chain",
+      "acceptance": "54.7%",
+      "difficulty": "Medium",
+      "frequency": 2.6183158453084423,
+      "link": "https://leetcode.com/problems/longest-string-chain"
+    },
+    {
+      "id": 918,
+      "title": "Maximum Sum Circular Subarray",
+      "acceptance": "33.7%",
+      "difficulty": "Medium",
+      "frequency": 1.7908991061017663,
+      "link": "https://leetcode.com/problems/maximum-sum-circular-subarray"
+    },
+    {
+      "id": 146,
+      "title": "LRU Cache",
+      "acceptance": "33.2%",
+      "difficulty": "Medium",
+      "frequency": 1.0128053210090022,
+      "link": "https://leetcode.com/problems/lru-cache"
+    },
+    {
+      "id": 123,
+      "title": "Best Time to Buy and Sell Stock III",
+      "acceptance": "37.5%",
+      "difficulty": "Hard",
+      "frequency": 0.8103008499673461,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii"
+    },
+    {
+      "id": 44,
+      "title": "Wildcard Matching",
+      "acceptance": "24.7%",
+      "difficulty": "Hard",
+      "frequency": 0.8088199846507318,
+      "link": "https://leetcode.com/problems/wildcard-matching"
+    },
+    {
+      "id": 342,
+      "title": "Power of Four",
+      "acceptance": "41.6%",
+      "difficulty": "Easy",
+      "frequency": 0.5106053351870626,
+      "link": "https://leetcode.com/problems/power-of-four"
+    },
+    {
+      "id": 528,
+      "title": "Random Pick with Weight",
+      "acceptance": "43.9%",
+      "difficulty": "Medium",
+      "frequency": 0.37294088733187064,
+      "link": "https://leetcode.com/problems/random-pick-with-weight"
+    },
+    {
+      "id": 380,
+      "title": "Insert Delete GetRandom O(1)",
+      "acceptance": "47.5%",
+      "difficulty": "Medium",
+      "frequency": 0.348524374235988,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+    },
+    {
+      "id": 710,
+      "title": "Random Pick with Blacklist",
+      "acceptance": "32.5%",
+      "difficulty": "Hard",
+      "frequency": 0.3161972427598021,
+      "link": "https://leetcode.com/problems/random-pick-with-blacklist"
+    },
+    {
+      "id": 289,
+      "title": "Game of Life",
+      "acceptance": "54.5%",
+      "difficulty": "Medium",
+      "frequency": 0.2465460268751668,
+      "link": "https://leetcode.com/problems/game-of-life"
+    },
+    {
+      "id": 1163,
+      "title": "Last Substring in Lexicographical Order",
+      "acceptance": "33.9%",
+      "difficulty": "Hard",
+      "frequency": 0.11205740891571739,
+      "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order"
+    },
+    {
+      "id": 4,
+      "title": "Median of Two Sorted Arrays",
+      "acceptance": "29.6%",
+      "difficulty": "Hard",
+      "frequency": 0.09321199094445486,
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "acceptance": "46.5%",
+      "difficulty": "Easy",
+      "frequency": 0.04299340685592046,
+      "link": "https://leetcode.com/problems/maximum-subarray"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "acceptance": "39.3%",
+      "difficulty": "Medium",
+      "frequency": 0.02150990613527447,
+      "link": "https://leetcode.com/problems/merge-intervals"
+    },
+    {
+      "id": 384,
+      "title": "Shuffle an Array",
+      "acceptance": "52.8%",
+      "difficulty": "Medium",
+      "frequency": 0.015250009609723824,
+      "link": "https://leetcode.com/problems/shuffle-an-array"
+    },
+    {
+      "id": 221,
+      "title": "Maximal Square",
+      "acceptance": "37.7%",
+      "difficulty": "Medium",
+      "frequency": 0.00988638798855515,
+      "link": "https://leetcode.com/problems/maximal-square"
+    },
+    {
+      "id": 349,
+      "title": "Intersection of Two Arrays",
+      "acceptance": "62.5%",
+      "difficulty": "Easy",
+      "frequency": 0.00725034896230682,
+      "link": "https://leetcode.com/problems/intersection-of-two-arrays"
+    },
+    {
+      "id": 1186,
+      "title": "Maximum Subarray Sum with One Deletion",
+      "acceptance": "37.5%",
+      "difficulty": "Medium",
+      "frequency": 0,
+      "link": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion"
+    }
+  ]
 }
