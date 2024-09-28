@@ -4,7 +4,10 @@ title: "Resources for Learning [Week 17 & 18]"
 
 ### YouTube Playlist:
 Start learning Excel with this comprehensive YouTube playlist:  
-[Excel for Beginners to Advanced - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5)
+
+Excel for Beginners to Advanced - YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=I4FQ2a1-oy-aJKNj&amp;list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
 ---
 
@@ -17,8 +20,14 @@ Start learning Excel with this comprehensive YouTube playlist:
 ---
 
 ### Excel Projects to Complete:
-- [Sales Dashboard in Excel - YouTube](https://www.youtube.com/watch?v=m13o5aqeCbM)  
-- [Data Analysis with Excel - YouTube](https://www.youtube.com/watch?v=opJgMj1IUrc)
+
+Sales Dashboard in Excel - YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m13o5aqeCbM?si=cw4C76zHb21_HwTS" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+
+Data Analysis with Excel - YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/opJgMj1IUrc?si=l_sRNB7sfUX5fljC" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
 ---
 

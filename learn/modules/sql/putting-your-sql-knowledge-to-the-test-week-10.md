@@ -36,10 +36,11 @@ While practicing interview questions sharpens your problem-solving skills, build
 #### Suggested SQL Project (Optional but Recommended):
 To get started, you can follow this SQL project tutorial video. This project simulates working with a large dataset and helps you apply your skills in a practical way.
 
-- **[SQL Project Tutorial - YouTube](https://www.youtube.com/watch?v=SAWiIV12sU4)**  
+- SQL Project Tutorial - YouTube
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SAWiIV12sU4?si=p0I93yujXbTyRCiZ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+
   This project walks you through building an entire SQL project, helping you learn how to create and query a database in a way that mirrors real-world scenarios.
 
----
 
 ### SQL Learning Resources
 
