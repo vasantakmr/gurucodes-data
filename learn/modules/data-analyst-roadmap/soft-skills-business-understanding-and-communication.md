@@ -1,7 +1,6 @@
 ---
 title: "Soft Skills: Business Understanding and Communication"
 ---
-
 One of the things that separate a great Data Analyst from a good one is their understanding of the **business context**. Knowing how to read the data is one thing; knowing **what to look for** in the data is another. 
 
 ### A. **Domain Knowledge**
@@ -21,3 +20,4 @@ The best insights in the world are meaningless if you can’t communicate them c
 - **Report Writing:** Document your findings clearly and concisely.
 
 **Why?** Often, non-technical stakeholders rely on your analysis to make decisions, and you need to ensure that your insights are understood and actionable.
+

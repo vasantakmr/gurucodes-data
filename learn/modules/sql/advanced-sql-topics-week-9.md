@@ -7,7 +7,7 @@ title: "Advanced SQL Topics [Week 9]"
 
 Normalization is a process in database design that organizes tables to reduce redundancy and improve data integrity. It ensures that tables are structured to minimize duplication of information and avoid anomalies during data manipulation (e.g., insertions, updates, and deletions). There are several levels of normalization, known as **Normal Forms (NFs)**.
 
----
+
 
 #### **1NF: First Normal Form**
 - Eliminate duplicate columns from the same table.
@@ -31,7 +31,6 @@ In 1NF, we would split the phone numbers into separate rows:
 | 2   | Alice  | 321-6547     |
 | 2   | Alice  | 654-7894     |
 
----
 
 #### **2NF: Second Normal Form**
 - Meet all requirements of 1NF.
@@ -70,7 +69,6 @@ Here, `CustomerName` depends only on `CustomerID`, not `OrderID`. To achieve 2NF
 | 201       | Laptop      |
 | 202       | Tablet      |
 
----
 
 #### **3NF: Third Normal Form**
 - Meet all requirements of 2NF.
@@ -94,7 +92,6 @@ Here, `ProductName` and `ProductPrice` depend on `ProductID`, not `OrderID`. To 
 | 201       | Laptop      | 1000         |
 | 202       | Tablet      | 500          |
 
----
 
 ### **Subqueries and Common Table Expressions (CTE)**
 
@@ -142,13 +139,11 @@ WHERE total_sales > 10000;`
 
 This CTE calculates total sales for each employee and then filters employees with sales greater than 10,000.
 
-----------
 
 ### **Window Functions**
 
 **Window functions** perform calculations across a set of table rows that are related to the current row. Unlike aggregate functions, window functions do not collapse the result set.
 
-----------
 
 #### **ROW_NUMBER**
 
@@ -170,7 +165,6 @@ FROM employees;`
 ```
 This query assigns a unique rank to employees based on their salary, with the highest salary ranked first.
 
-----------
 
 #### **RANK and DENSE_RANK**
 
@@ -191,7 +185,6 @@ FROM employees;`
 `SELECT DENSE_RANK() OVER (ORDER BY salary DESC) AS rank, employee_name, salary
 FROM employees;` 
 ```
-----------
 
 #### **LEAD and LAG**
 
@@ -225,5 +218,3 @@ This query shows each employee's salary along with the salary of the employee ra
 
 This week introduces crucial advanced SQL concepts such as **normalization**, **subqueries**, **CTEs**, and **window functions**. Mastering these will help you write efficient, maintainable, and optimized SQL queries for handling complex data and performance scenarios.
 
-
-----------

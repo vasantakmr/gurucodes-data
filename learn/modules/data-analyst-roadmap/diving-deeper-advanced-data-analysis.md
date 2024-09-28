@@ -23,3 +23,4 @@ While Data Analysts are not expected to be full-fledged Data Scientists, knowing
 - **Model Evaluation:** Accuracy, precision, recall, F1-score, confusion matrix.
 
 **Why?** Machine learning is the future of data analytics, and having a basic understanding helps you contribute to data-driven projects more effectively.
+
