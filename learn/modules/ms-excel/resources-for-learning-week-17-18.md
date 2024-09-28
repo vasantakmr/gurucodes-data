@@ -25,9 +25,12 @@ Start learning Excel with this comprehensive YouTube playlist:
 ### Job Search and Resume Building Resources:
 By now, you have completed 50% of the Data Analytics syllabus. Start applying for jobs using platforms like LinkedIn and Naukri.com. Below are helpful YouTube videos for job search and resume building:
 
-- [How to Use LinkedIn and Naukri for Job Search - YouTube](https://youtu.be/KfVkKtncLYE?si=_9rUbHAx7KIn32oi)  
-- [How to Create an ATS-Friendly Resume - YouTube](https://youtu.be/IIGWpw1FXhk?si=u1jvQj6JAnI34_z3)
+#### How to Use LinkedIn and Naukri for Job Search - YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KfVkKtncLYE?si=qtxZaA1rZWRaK3c3" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
+#### How to Create an ATS-Friendly Resume - YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IIGWpw1FXhk?si=iQSKpkNf9bSIpUpB" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 ---
 
 # Conclusion
