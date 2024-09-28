@@ -2,7 +2,14 @@
 title: "Power BI Dashboarding Projects [Week 23]"
 ---
 
-1. [Power BI Dashboarding Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&si=9AbP-H2sbnIiDTQO)
-2. [Power BI Sales Dashboard](https://www.youtube.com/watch?v=tT4V7zguCnc&list=PLeo1K3hjS3utcb9nKtan hcn8jd2E0Hp9b&index=27)
-3. [Power BI Monthly Sales Report](https://www.youtube.com/watch?v=JC66t9eM10s&list=PLeo1K3hjS3utcb9nKtan hcn8jd2E0Hp9b&index=25)
+### Power BI Dashboarding Playlist
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=pwynMRkQ6pIP4e9b&amp;list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+
+### Power BI Sales Dashboard
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tT4V7zguCnc?si=DrivspDta2sKFi8q" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+
+### Power BI Monthly Sales Report
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JC66t9eM10s?si=ATs3rUBpirishuz6" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>

@@ -3,14 +3,18 @@ title: "Python Resources to Learn and Practice [Week 11-16]"
 ---
 
 ### Python Tutorial
-- [Python Tutorial - Learn Python Basics](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+Python Tutorial - Learn Python Basics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XKHEtdqhLK8?si=6QAEM4R9tesVAd2J" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
 ### Practice Problems
 - [W3Resource Python Exercises](https://www.w3resource.com/python-exercises/)
 - [HackerRank Python Domain](https://www.hackerrank.com/domains/python)
 
 ### Famous Python Resources
-- [Python Programming Live Session](https://www.youtube.com/live/B25zIPZHU8w?si=FYCVW9TssXXlE17s)
+Python Programming Live Session
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B25zIPZHU8w?si=8-5RfASV7ROlQoPQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
 ### Installation Guides
 - [How to Install Python on Windows](https://realpython.com/installing-python/)

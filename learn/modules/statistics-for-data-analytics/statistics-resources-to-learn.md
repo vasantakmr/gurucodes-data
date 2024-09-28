@@ -3,7 +3,7 @@ title: "Statistics Resources to Learn"
 ---
 
 ### Complete Statistics Tutorial
-- [Statistics Complete Tutorial](https://www.youtube.com/watch?v=LZzq1zSL1bs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LZzq1zSL1bs?si=C_G9qePM_ZRbs0wg" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 ---
 
 ## How to Become a Pro in Statistics for Data Analytics: A Structured Path

@@ -48,10 +48,15 @@ Here are some curated learning resources to continue honing your SQL skills:
 - **[W3Schools SQL Tutorial](https://www.w3schools.com/sql/)**  
   W3Schools is a beginner-friendly resource for learning SQL, with clear explanations and interactive examples to help you understand the basics.
 
-- **[YouTube SQL Playlist (English)](https://youtube.com/playlist?list=PLavw5C92dz9Ef4E-1Zi9KfCTXS_IN8gXZ&si=XCwpStf9zZ0YISN8)**  
+YouTube SQL Playlist (English)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=HPL5awfWHgUBynr6&amp;list=PLavw5C92dz9Ef4E-1Zi9KfCTXS_IN8gXZ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+
   This YouTube playlist contains a comprehensive SQL tutorial that covers all essential topics from beginner to advanced.
 
-- **[Nihar's SQL Tutorial (Telugu)](https://youtu.be/4yEIZ9KZ_aQ?si=PEpQ0aPwTjJiNAEF)**  
+Nihar's SQL Tutorial (Telugu)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4yEIZ9KZ_aQ?si=EFemccjDNtIF16Kb" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
   For Telugu speakers, Nihar’s video provides an in-depth SQL tutorial, making it easier to learn in your native language.
 
 ---
