@@ -63,3 +63,4 @@ title: "Grouping, Aggregating, and Joins [Week 6]"
    ```sql    
     `SELECT columns FROM table1
     FULL OUTER JOIN table2 ON table1.column = table2.column;` 
+    ```
