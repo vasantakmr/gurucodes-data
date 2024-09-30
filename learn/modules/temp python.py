@@ -101,10 +101,6 @@ data ={
         "name": "Python vs Other Programming Languages",
         "slug": "python-vs-other"
       },
-      {
-        "name": "History of Python",
-        "slug": "history-of-python"
-      }
     ]
   },
   "python-input-output": {
