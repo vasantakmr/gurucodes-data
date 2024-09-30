@@ -83,11 +83,11 @@ data ={
       },
     ],
   },
-  "introduction-to-python": {
+  "python-introduction-to-python": {
     "title": "Introduction to Python",
     "description": "A beginner's guide to understanding Python and its foundational concepts.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "introduction-to-python",
+    "slug": "python-introduction-to-python",
     "chapters": [
       {
         "name": "Basic Introduction",
@@ -119,11 +119,11 @@ data ={
       },
     ]
   },
-  "variables-datatypes": {
+  "python-variables-datatypes": {
     "title": "Variables and Datatypes",
     "description": "Learn about Python variables and data types, a crucial part of programming.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "variables-datatypes",
+    "slug": "python-variables-datatypes",
     "chapters": [
       {
         "name": "variables",
@@ -135,11 +135,11 @@ data ={
       },
     ]
   },
-  "syntax": {
+  "python-syntax": {
     "title": "Python Syntax",
     "description": "An overview of Python syntax and how to write your first programs.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "syntax",
+    "slug": "python-syntax",
     "chapters": [
       {
         "name": "Syntax Rules and Order of Instructions",
@@ -151,11 +151,11 @@ data ={
       },
     ]
   },
-  "strings": {
+  "python-strings": {
     "title": "Python Strings",
     "description": "Explore Python strings and how to manipulate text in your programs.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "strings",
+    "slug": "python-strings",
     "chapters": [
       {
         "name": "Introduction to Strings",
@@ -167,11 +167,11 @@ data ={
       },
     ]
   },
-  "type-conversion": {
+  "python-type-conversion": {
     "title": "Type Conversion",
     "description": "Learn how to convert between different data types in Python.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "type-conversion",
+    "slug": "python-type-conversion",
     "chapters": [
       {
         "name": "Introduction to Type Conversion",
@@ -183,11 +183,11 @@ data ={
       },
     ]
   },
-  "arithmetic-operators": {
+  "python-arithmetic-operators": {
     "title": "Arithmetic Operators",
     "description": "Understand how arithmetic operators work in Python for basic mathematical operations.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "arithmetic-operators",
+    "slug": "python-arithmetic-operators",
     "chapters": [
       {
         "name": "Introduction to Arithmetic Operators",
@@ -199,11 +199,11 @@ data ={
       },
     ]
   },
-  "relational-operators": {
+  "python-relational-operators": {
     "title": "Relational Operators",
     "description": "Explore relational operators in Python, used for comparing values.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "relational-operators",
+    "slug": "python-relational-operators",
     "chapters": [
       {
         "name": "Introduction to Relational Operators",
@@ -215,11 +215,11 @@ data ={
       },
     ]
   },
-  "logical-operators": {
+  "python-logical-operators": {
     "title": "Logical Operators",
     "description": "Learn about logical operators in Python and how to implement logical conditions.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "logical-operators",
+    "slug": "python-logical-operators",
     "chapters": [
       {
         "name": "Introduction to Logical Operators",
@@ -235,11 +235,11 @@ data ={
       },
     ]
   },
-  "conditional-statements": {
+  "python-conditional-statements": {
     "title": "Conditional Statements",
     "description": "Master Python's conditional statements, including if, else, and elif.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "conditional-statements",
+    "slug": "python-conditional-statements",
     "chapters": [
       {
         "name": "Introduction to Conditional Statements",
@@ -267,11 +267,11 @@ data ={
       },
     ]
   },
-  "loops": {
+  "python-loops": {
     "title": "Loops",
     "description": "Master loops in Python, including 'for' and 'while' loops.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "loops",
+    "slug": "python-loops",
     "chapters": [
       {
         "name": "Introduction to Loops",
@@ -295,11 +295,11 @@ data ={
       },
     ]
   },
-  "lists": {
+  "python-lists": {
     "title": "Lists",
     "description": "Learn how to create, manipulate, and work with lists in Python.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "lists",
+    "slug": "python-lists",
     "chapters": [
       {
         "name": "Introduction to Lists",
@@ -311,11 +311,11 @@ data ={
       },
     ]
   },
-  "tuples": {
+  "python-tuples": {
     "title": "Tuples",
     "description": "Explore tuples in Python, an immutable data type often used for grouping data.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "tuples",
+    "slug": "python-tuples",
     "chapters": [
       {
         "name": "Introduction to Tuples",
@@ -327,11 +327,11 @@ data ={
       },
     ]
   },
-  "dictionaries": {
+  "python-dictionaries": {
     "title": "Dictionaries",
     "description": "Learn about Python dictionaries, a powerful data structure for storing key-value pairs.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "dictionaries",
+    "slug": "python-dictionaries",
     "chapters": [
       {
         "name": "Introduction to Dictionaries",
@@ -347,11 +347,11 @@ data ={
       },
     ]
   },
-  "sets": {
+  "python-sets": {
     "title": "Sets",
     "description": "Understand how to work with sets in Python, a collection type that ensures unique elements.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "sets",
+    "slug": "python-sets",
     "chapters": [
       {
         "name": "Introduction to Sets",
@@ -363,11 +363,11 @@ data ={
       },
     ]
   },
-  "functions": {
+  "python-functions": {
     "title": "Functions",
     "description": "Understand how to define and call functions in Python to create reusable code.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "functions",
+    "slug": "python-functions",
     "chapters": [
       {
         "name": "Introduction to Functions",
@@ -391,11 +391,11 @@ data ={
       },
     ]
   },
-  "built-in-functions": {
+  "python-built-in-functions": {
     "title": "Built-in Functions",
     "description": "Learn about Python’s built-in functions, which provide powerful capabilities right out of the box.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "built-in-functions",
+    "slug": "python-built-in-functions",
     "chapters": [
       {
         "name": "Mathemetical Functions",
@@ -415,11 +415,11 @@ data ={
       }
     ]
   },
-  "oop": {
+  "python-oop": {
     "title": "Object Oriented Programming",
     "description": "Dive into Python’s object-oriented programming paradigm to learn about classes, objects, inheritance, and more.",
     "image": "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-    "slug": "oop",
+    "slug": "python-oop",
     "chapters": [
       {
         "name": "Introduction to Object Oriented Programming",
