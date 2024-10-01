@@ -2,8 +2,6 @@
 title: "Nested Conditional Statements"
 ---
 
-## Nested Conditional Statements
-
 **Nested conditional statements** are conditions placed within another condition. This means an `if`, `elif`, or `else` block can contain another conditional statement inside it.
 
 ### Syntax:

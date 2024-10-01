@@ -2,8 +2,6 @@
 title: "Recursive Functions"
 ---
 
-## Recursive Functions
-
 A recursive function is one that calls itself. Recursion is useful for solving problems that can be broken down into smaller, similar problems.
 
 ### Example:

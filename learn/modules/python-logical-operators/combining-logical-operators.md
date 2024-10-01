@@ -2,8 +2,6 @@
 title: "Combining Logical Operators"
 ---
 
-## Combining Logical Operators
-
 You can combine multiple logical operators to evaluate more complex conditions.
 
 ### Example:

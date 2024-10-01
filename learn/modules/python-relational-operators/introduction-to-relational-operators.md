@@ -2,10 +2,6 @@
 title: "Introduction to Relational Operators"
 ---
 
-# Relational Operators in Python
-
-## Introduction
-
 **Relational operators** (also known as comparison operators) are used in Python to compare two values. The result of a relational operation is a Boolean value: either `True` or `False`.
 
 The six relational operators in Python are:

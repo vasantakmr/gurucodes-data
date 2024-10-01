@@ -2,8 +2,6 @@
 title: "Nested Loops"
 ---
 
-## Nested Loops
-
 You can have loops inside loops, known as **nested loops**. A `for` or `while` loop can contain another loop inside it.
 
 ### Example:

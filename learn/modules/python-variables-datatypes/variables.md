@@ -2,8 +2,6 @@
 title: "variables"
 ---
 
-## Introduction to Variables
-
 A **variable** in Python is a name that refers to a memory location where data is stored. Variables allow you to store, modify, and access data during the execution of a program. Unlike some other programming languages, Python variables are dynamically typed, meaning you do not need to explicitly declare their data type.
 
 ### Syntax:

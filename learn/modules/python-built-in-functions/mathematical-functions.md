@@ -2,8 +2,6 @@
 title: "Mathemetical Functions"
 ---
 
-# Built-in Functions in Python
-
 Python provides a set of built-in functions that are always available for use. These functions perform common tasks and operations, simplifying coding and reducing the need to write repetitive code. Built-in functions cover a range of functionalities, from mathematical operations to type conversions.
 
 ---

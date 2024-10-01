@@ -2,8 +2,6 @@
 title: "Basic Introduction"
 ---
 
-## Introduction to Python
-
 Python is a **high-level**, **interpreted**, and **general-purpose** programming language that emphasizes code readability. The syntax of Python is designed to be intuitive and mirrors the natural language of humans. It allows developers to express ideas using fewer lines of code, making it an ideal language for both beginners and experienced developers.
 
 Python is also dynamically typed, meaning you don’t need to declare variable types explicitly. It supports multiple programming paradigms, including:

@@ -2,10 +2,6 @@
 title: "Python vs Other Programming Languages"
 ---
 
-## Python vs Other Programming Languages
-
-Below is a comparison of Python with other popular programming languages:
-
 | Feature                | Python                         | Java                           | C++                            | JavaScript                    | Ruby                           |
 |------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
 | **Syntax**             | Simple, readable               | Verbose, requires more code    | Complex, requires manual memory management | Less readable compared to Python | Simple and clean               |

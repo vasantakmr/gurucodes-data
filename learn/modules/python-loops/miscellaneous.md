@@ -46,7 +46,7 @@ Letter: a
 
 ---
 
-## Example Code and Output
+## Few more examples
 
 ### Example 1: Calculating the Sum of Numbers Using `while` Loop
 ```python

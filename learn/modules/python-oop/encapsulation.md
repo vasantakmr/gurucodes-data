@@ -2,8 +2,6 @@
 title: "Encapsulation"
 ---
 
-## Encapsulation
-
 Encapsulation refers to bundling data (attributes) and methods that operate on the data into a single unit, i.e., a class. It also involves restricting direct access to some attributes.
 
 ### Private Attributes

@@ -2,8 +2,6 @@
 title: "Inheritance"
 ---
 
-## Inheritance
-
 Inheritance allows one class to inherit the attributes and methods of another class. This promotes code reuse.
 
 ### Syntax:

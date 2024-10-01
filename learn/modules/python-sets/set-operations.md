@@ -284,7 +284,7 @@ Cleared Gadgets: set()
 
 ---
 
-## Example Code and Output
+## Few more examples
 
 ### Example 1: Creating and Accessing a Set
 ```python

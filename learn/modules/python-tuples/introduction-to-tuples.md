@@ -2,10 +2,6 @@
 title: "Introduction to Tuples"
 ---
 
-# Tuples in Python
-
-## Introduction
-
 **Tuples** in Python are similar to lists but with one key difference: they are **immutable**. Once a tuple is created, its contents cannot be changed. Tuples are used to store multiple items in a single variable, and they are ordered collections of items.
 
 ### Key Properties of Tuples:

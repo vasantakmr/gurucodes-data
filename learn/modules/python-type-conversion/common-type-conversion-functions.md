@@ -2,8 +2,6 @@
 title: "Common Type Conversion Functions"
 ---
 
-### Common Type Conversion Functions
-
 ### 1. **`int()`**: Converts a value to an integer.
 - Works with floats (truncates the decimal part) and strings containing numeric values.
   
@@ -110,7 +108,7 @@ Cannot convert 'Dodagatta Nihar' to an integer.
 
 ---
 
-## Example Code and Output
+## Few more examples
 
 ### Example 1: Converting Between Data Types
 ```python

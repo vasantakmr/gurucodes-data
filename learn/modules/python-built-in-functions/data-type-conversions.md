@@ -2,8 +2,6 @@
 title: "Data Type Conversions"
 ---
 
-## Data Type Conversions
-
 ### `int()`
 Converts a value to an integer.
 

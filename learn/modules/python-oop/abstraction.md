@@ -2,8 +2,6 @@
 title: "Abstraction"
 ---
 
-## Abstraction
-
 Abstraction hides the complex implementation details and shows only the essential features of the object. In Python, abstraction is implemented using abstract classes and methods.
 
 ### Abstract Classes

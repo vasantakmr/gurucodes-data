@@ -2,8 +2,6 @@
 title: "Lambda Functions"
 ---
 
-## Lambda Functions
-
 Lambda functions are small anonymous functions defined using the `lambda` keyword. They can have any number of parameters but only one expression.
 
 ### Syntax:

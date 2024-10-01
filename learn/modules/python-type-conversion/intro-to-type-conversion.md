@@ -2,8 +2,6 @@
 title: "Introduction to Type Conversion"
 ---
 
-## Introduction to Type Conversion
-
 **Type conversion** in Python refers to the process of converting one data type into another. Python provides several built-in functions to perform explicit type conversion (also known as **type casting**). In some cases, Python automatically converts types, which is known as **implicit type conversion**.
 
 There are two types of type conversion:

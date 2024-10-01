@@ -2,8 +2,6 @@
 title: "Polymorphism"
 ---
 
-## Polymorphism
-
 Polymorphism allows methods to do different things based on the object it is acting upon. It enables objects of different classes to be treated as objects of a common superclass.
 
 ### Method Overriding

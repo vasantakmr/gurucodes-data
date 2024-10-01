@@ -2,8 +2,6 @@
 title: "Data Types"
 ---
 
-## Data Types in Python
-
 Python supports various **data types** that specify the kind of value a variable can hold. The most commonly used data types in Python are:
 
 ### 1. **Numeric Types**

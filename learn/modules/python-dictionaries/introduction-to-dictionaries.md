@@ -2,7 +2,6 @@
 title: "Introduction to Dictionaries"
 ---
 
-# Dictionaries in Python
 
 ## Introduction
 

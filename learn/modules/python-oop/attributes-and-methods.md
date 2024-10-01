@@ -2,8 +2,6 @@
 title: "Attributes and Methods"
 ---
 
-## Attributes and Methods
-
 ### Instance Attributes
 
 Attributes are variables that belong to an object. They are defined within the `__init__` method.

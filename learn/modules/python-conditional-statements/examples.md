@@ -38,7 +38,7 @@ Dodagatta Nihar cannot start the meeting.
 
 ---
 
-## Example Code and Output
+## Few more examples
 
 ### Example 1: Checking Grades
 Dodagatta Nihar checks the grade based on his marks:

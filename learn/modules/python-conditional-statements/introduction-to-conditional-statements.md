@@ -2,7 +2,6 @@
 title: "Introduction to Conditional Statements"
 ---
 
-# Conditional Statements in Python
 
 ## Introduction
 
@@ -12,6 +11,6 @@ title: "Introduction to Conditional Statements"
 2. **elif**
 3. **else**
 
-Additionally, you can use **nested conditional statements** to evaluate multiple layers of conditions.
+Additionally, we have **nested conditional statements** to evaluate multiple layers of conditions.
 
 ---

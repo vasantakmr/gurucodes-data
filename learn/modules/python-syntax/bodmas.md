@@ -2,8 +2,6 @@
 title: "BODMAS Rule"
 ---
 
-## BODMAS Rule in Python
-
 Python follows the **BODMAS** (Brackets, Orders, Division/Multiplication, Addition/Subtraction) rule to evaluate mathematical expressions. This rule defines the order in which operations should be performed in an arithmetic expression.
 
 - **B**: Brackets `()` (Parentheses)

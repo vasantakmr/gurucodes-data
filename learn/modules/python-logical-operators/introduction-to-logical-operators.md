@@ -2,10 +2,6 @@
 title: "Introduction to Logical Operators"
 ---
 
-# Logical Operators in Python
-
-## Introduction
-
 **Logical operators** in Python are used to combine conditional statements. They evaluate expressions and return a Boolean value (`True` or `False`) based on the logic of the expression.
 
 Python provides three logical operators:

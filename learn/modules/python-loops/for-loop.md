@@ -2,8 +2,6 @@
 title: "For Loop"
 ---
 
-## `for` Loop
-
 The `for` loop is used to iterate over a sequence (such as a list, tuple, string, or range). It runs the block of code for each item in the sequence.
 
 ### Syntax:

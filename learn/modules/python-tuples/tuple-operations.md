@@ -232,7 +232,7 @@ print(repeated_fruits)
 
 ---
 
-## Example Code and Output
+## Few more examples
 
 ### Example 1: Creating and Accessing a Tuple
 ```python

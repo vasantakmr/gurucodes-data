@@ -2,8 +2,6 @@
 title: "History of Python"
 ---
 
-## History of Python
-
 Python was created by **Guido van Rossum** in the late 1980s. The language was first implemented as a successor to the **ABC programming language** and was intended to overcome its limitations while retaining its simplicity. Van Rossum started working on Python at the **Centrum Wiskunde & Informatica (CWI)** in the Netherlands and officially released Python version 0.9.0 in **1991**.
 
 ### Major Milestones in Python's Development:

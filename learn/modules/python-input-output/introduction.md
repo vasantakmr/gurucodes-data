@@ -1,8 +1,6 @@
 ---
-title: "Introduction"
+title: "Input - Output"
 ---
-
-## Introduction to Input and Output in Python
 
 Input and output (I/O) operations are essential for interacting with users or external files in Python. They allow you to retrieve data (input) from the user or another source and display (output) information in various formats.
 

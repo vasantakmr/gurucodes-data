@@ -2,8 +2,6 @@
 title: "Formatting Output"
 ---
 
-## Formatting Output in Python
-
 Python also allows more complex formatting of output using **f-strings** (formatted string literals), `str.format()`, or the older `%` operator.
 
 ### Example 1: Using f-Strings (Python 3.6+)

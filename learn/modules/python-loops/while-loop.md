@@ -2,8 +2,6 @@
 title: "While Loop"
 ---
 
-## `while` Loop
-
 The `while` loop continues to execute as long as a condition is `True`. It’s useful when you don’t know beforehand how many times you need to loop.
 
 ### Syntax:

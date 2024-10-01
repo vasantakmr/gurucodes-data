@@ -330,7 +330,7 @@ print(squares)
 
 ---
 
-## Example Code and Output
+## Few more examples
 
 ### Example 1: Creating and Modifying a List
 ```python

@@ -2,8 +2,6 @@
 title: "Python Syntax and Order of Instructions"
 ---
 
-## Python Syntax and Order of Instructions
-
 In Python, the order of instructions is important to ensure the correct execution of a program. Python follows a **top-down** approach, meaning the instructions are executed line by line, from top to bottom.
 
 ### Basic Syntax Rules:

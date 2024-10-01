@@ -2,9 +2,7 @@
 title: "Introduction to Strings"
 ---
 
-## Introduction to Strings
-
-A **string** in Python is a sequence of characters enclosed within single quotes (`'`) or double quotes (`"`). Strings are **immutable**, meaning once they are created, their contents cannot be modified. Strings in Python are powerful and come with many built-in methods for manipulation and formatting.
+A **string** is a sequence of characters enclosed within single quotes (`'`) or double quotes (`"`). Strings are **immutable**, meaning once they are created, their contents cannot be modified. Strings in Python are powerful and come with many built-in methods for manipulation and formatting.
 
 ### Example:
 ```python

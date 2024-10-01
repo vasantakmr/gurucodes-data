@@ -2,7 +2,7 @@
 title: "Operator Precedence"
 ---
 
-## Operator Precedence (BODMAS)
+## BODMAS
 
 Python follows the **BODMAS** rule (Brackets, Orders, Division/Multiplication, Addition/Subtraction) to determine the order in which operators are evaluated in an expression.
 
@@ -39,7 +39,7 @@ Here:
 
 ---
 
-## Example Code and Output
+## Few more examples
 
 ### Example 1: Using Multiple Operators
 ```python

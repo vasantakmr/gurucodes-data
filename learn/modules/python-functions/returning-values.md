@@ -2,8 +2,6 @@
 title: "Returning Values"
 ---
 
-## Returning Values
-
 Functions can return values using the `return` keyword. If no return statement is present, the function returns `None` by default.
 
 ### Syntax:

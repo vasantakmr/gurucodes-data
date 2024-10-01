@@ -2,8 +2,6 @@
 title: "Examples"
 ---
 
-## Examples
-
 ### Example 1: Class and Object
 ```python
 class Car:
