@@ -45,7 +45,7 @@ Creating new repository in github.com
 
 *   In git repository represents a project.
     
-<!-- 
+{/* 
 **Steps to create repository**
 
 *   New Repository → Enter repository name → select public → select README file → Create Repository.
@@ -344,4 +344,4 @@ To remove the file or Folder staging/Indexing Area and working Area == **Eg**: -
 
 **Mixed reset** : To Move the file or Folder staging/Indexing Area to working Area
 
-**Eg**:- **git reset --mixed file name or folder name** -->
+**Eg**:- **git reset --mixed file name or folder name** */}
