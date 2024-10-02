@@ -171,7 +171,6 @@ git push origin Branch_name **How to delete local Branch** git branch -d Branch_
 
 git push origin -d Branch_name **How to go to inside a Branch** git checkout Branch_name
 
-===================================
 
 ***** merging strategies in locally ****
 
@@ -183,7 +182,6 @@ git push origin -d Branch_name **How to go to inside a Branch** git checkout Bra
 2.  **Git rebase (Dangerous)**
     
 
-===============================================================================
 
 **git cherry-pick**:
 
@@ -191,7 +189,6 @@ It picks a commit from one branch and applies it to another branch without doing
 
 **git cherry-pick commit Id**.
 
-==================================================================================
 
 **How to merge the remote side changes** ===>>> pull request.
 
@@ -201,7 +198,6 @@ Pull request **==>> remote side branches ==>>** git hub **==>> in between the br
 
 source (right side) and destination (left side).
 
-==================================================================================
 
 **tags**: tags are used to release the application or code version or feature version. list of tags to see ==>> git tag
 
@@ -225,7 +221,6 @@ git tag -d tagname
 
 git push origin -d tagname
 
-===============================******==============================================
 
 **git stash** :
 
@@ -245,7 +240,6 @@ git stash apply stash ID stash {5} **or** git stash pop stash ID stash {5} ==>> 
 
 git push origin master.
 
-=============================*******===============================================
 
 **Merge conflicts (locally)**
 
@@ -269,7 +263,7 @@ Merge conflicts ===>>> click this ==>>>> mno ==>>> open
 
 mno ==>> will open ==>> 351 << >> ==>> brackets ==>>> remove the brackets.
 
-==============================********=============================================
+
 
 1.  **release branch**
     
@@ -282,7 +276,7 @@ mno ==>> will open ==>> 351 << >> ==>> brackets ==>>> remove the brackets.
 1.  **git hub ==>> backup**
     
 
-====================================******=========================================
+
 
 **git fetch** ==>> Download the changes from remote repository without merging into current directory
 
