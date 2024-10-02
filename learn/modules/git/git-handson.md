@@ -38,7 +38,9 @@ Download,Install and configure git server on our own machine Create account onli
 4.  CodeCommit(AWS)
     
 
-Create account in github.com and signin Creating new repository in github.com 
+Create account in github.com and signin
+Creating new repository in github.com 
+
 **What is repository in git?**
 
 *   In git repository represents a project.
@@ -48,109 +50,111 @@ Create account in github.com and signin Creating new repository in github.com
 
 *   New Repository → Enter repository name → select public → select README file → Create Repository.
     
-
-**Git terminalogy** :
+**Git terminology** :
 
 Git is client server architecture.
 
-**Client** ===>> git bash and server.===>> Git hub
+**Client** : git bash and server. Git hub
 
-**repository** : group of project files to store one single area and each project has one repository.==>>> git hub has ==>> n.no.of repositories..
+**repository** : group of project files to store one single area and each project has one repository. git hub has  n.no.of repositories..
 
-**Cloning:** remote repository (my web) to getting the local ==>>> cloning ==>>> git clone **URL** (each project has one URL) ===>> locally
+**Cloning:** remote repository (my web) to getting the local → cloning → git clone **URL** (each project has one URL) → locally
 
-**Fork**: projects are copied from **one git hub** account to **another git hub** account. **Local repository**: getting the **remote** repository (My web) to our local laptop. **Remote repository**: git hub ==>> our created repository (My web)
+**Fork**: projects are copied from **one git hub** account to **another git hub** account. 
+
+**Local repository**: getting the **remote** repository (My web) to our local laptop. 
+
+**Remote repository**: git hub → our created repository (My web)
 
 **Push:** sending **local repository** changes to **remote repository**
 
-**pull**: sending the **remote repository** changes to the **local repository Note**: git follows ===>> 2 types of proto calls ==>>> **https** and **SSH**.
+**pull**: sending the **remote repository** changes to the **local repository Note**: git follows → 2 types of proto calls → **https** and **SSH**.
 
-=================================================================================
 
 **Git workflow**
 
-1.  _**we need to clone remote repository to local**_ 
+1.  we need to clone remote repository to local
     
 
 Git clone URL
-
-git clone [https://github.com/githurepo/repo.git](https://github.com/githurepo/repo.git)
+```
+git clone https://github.com/githurepo/repo.git
 
 ls
-
-2.  _**go to the inside local repository.**_
+```
+2.  go to the inside local repository.
     
-
+```
 cd some_folder
-
-3.  _**files ==>>> create / modify ===>> working area.**_
+```
+3.  files → create / modify → working area.
     
-
+```
 touch demo_file
 
-git status ==>> red color ==>> working area.
-
-4.  _**git add .(dot means file name) / filename / ***_
+git status → red color → working area.
+```
+4.  git add . (dot means file name) / filename /
     
 
 git status
 
-File ==>> green color ===>> Indexing / staging area.
+File → green color → Indexing / staging area.
 
-5.  _**we are getting the files to local repository ==>> commit**_
+5. we are getting the files to local repository → commit
     
 
-git commit -m (m stands for message) 'rk2020' ==>> local repository. git log
+git commit -m (m stands for message) 'rk2020' → local repository. git log
 
-40 digits commit ID ==>>> head ==>> head always points to latest commit.
+40 digits commit ID → head → head always points to latest commit.
 
-6.  _**push to remote repository..**_
+6. push to remote repository. 
     
 
 git push origin master
 
-push ==>>> sending local changes to remote repository.
+push → sending local changes to remote repository.
 
-origin ==>> alias name ==>>> git hub URL master (or) Main ==>> default branch.
+origin → alias name → git hub URL master (or) Main → default branch.
 
-=========================================================================
+```
+git config --global user.name "ramakrishnaj2020"
+git config --global user.email "codedalehelp@gmail.com"
+```
 
-**git config --global user.name “ramakrishnaj2020”**
+```
+git push origin master → git hub account name and git hub password → remote
+```
 
-**git config --global user.email “**[**codedalehelp@gmail.com**](mailto:codedalehelp@gmail.com)**”**
-
-**git push origin master ==>> git hub account name and git hub password ==>>> remote**.
-
-==================================================================================
 
 How to undo changes in working area?
 
-File ==>> modify ==>> working area git checkout filename.
+File → modify → working area git checkout filename.
 
-How to undo the changes in index/ staging area File ==>> modify ==>> working area
+How to undo the changes in index/staging area File → modify → working area
 
-git add . / file name / * ==>> index / staging area git reset filename
+git add . / file name / * → index / staging area git reset filename
 
-How to undo the changes the in local repository. file ==>> modify ==>> working area
+How to undo the changes the in local repository. file → modify → working area
 
-git add. / file name / * ==>> index / staging area. git commit -m 'b123'
+git add. / file name / * → index / staging area. git commit -m 'b123'
 
 git log
 
 Git reset commit ID
 
-========================================================================
 
 **Branching strategies**
 
-1.  Master branch ===>>> default branch
+1.  Master branch → default branch
     
 
-1.  Development branch (dev ) ==>>> every team has their own branch ==>> which is created from master branch.
+1.  Development branch (dev ) → every team has their own branch → which is created from master branch.
     
 
-2.  Feature branch ==>> every developer has their own branch ==>> which is created from dev branch.
-    
+2.  Feature branch → every developer has their own branch → which is created from dev branch.
+
+<!--     
 3.  Hot fix / bug fix branch ==>> errors / bugs ===> which is created from master branch ===>> errors free ==>>> hot fix / bug fix branch will delete.
     
 4.  Release branch ===>> every release has one branch with version ==>> which is created from master branch ==>> once release push to remote ==>> Release branch will delete.
@@ -339,6 +343,6 @@ Before that ==>> **git log -4**
 
 To remove the file or Folder staging/Indexing Area and working Area == **Eg**: - **git reset --hard**
 
-**Mixed reset** ==>> To Move the file or Folder staging/Indexing Area to working Area ===
+**Mixed reset** : To Move the file or Folder staging/Indexing Area to working Area
 
-**Eg**:- **git reset --mixed file name or folder name**
+**Eg**:- **git reset --mixed file name or folder name** -->
