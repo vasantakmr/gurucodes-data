@@ -1,97 +1,97 @@
 import os 
 import json
-data ={
-  # "jenkins-pipelines": {
-  #   "title": "RealTime Jenkins Pipelines",
-  #   "description": "Jenkins CICD pipelines used by top product companies",
-  #   "slug": "jenkins-pipelines",
-  #   "image":
-  #     "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-roadmap.png",
-  #   "chapters": [
-  #     {
-  #       "name": "Getting Started: The Basics of Jenkins Pipeline",
-  #       "slug": "basics-of-jenkins",
-  #     },
-  #     {
-  #       "name": "The Next Step: Jenkins Setup",
-  #       "slug": "jenkins-setup",
-  #     },
-  #     {
-  #       "name": "Integration of Tools: Drive the Jenkins Train",
-  #       "slug": "tools-integration-with-Jenkins",
-  #     },
-  #     {
-  #       "name": "Jenkinsfile with Groovy code: Groovy Analysis",
-  #       "slug": "jenkins-groovy-code",
-  #     },
-  #     {
-  #       "name": "Jenkins shared library: Integrate Jenkins with Parent child concept",
-  #       "slug": "jenkins-shared-library",
-  #     },
-  #   ],
-  # },
-  # "Linux-overview": {
-  #   "title": "Linux-Overview",
-  #   "description": "Understanding Linux from Basics",
-  #   "image":
-  #     "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
-  #   "slug": "Linux-Overview",
-  #   "chapters": [
-  #     {
-  #       "name": "Linux Advanced Commands",
-  #       "slug": "linux-in-devops",
-  #     },
-  #     {
-  #       "name": "Linux Basic Commands",
-  #       "slug": "linux-commands",
-  #     },
-  #     {
-  #       "name": "Linux and DevOps:Interview Questions",
-  #       "slug": "linux-devops-interview-qna",
-  #     },
-  #   ],
-  # },
-  # "docker-for-devops": {
-  #   "title": "Docker for DevOps Engineers",
-  #   "description": "Topics You Need to Learn in DevOps",
-  #   "image":
-  #     "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/statistics.png",
-  #   "slug": "statistics-for-data-analytics",
-  #   "chapters": [
-  #     {
-  #       "name": "Introduction: Why to learn Docker",
-  #       "slug": "learn-docker-basics",
-  #     },
-  #     {
-  #       "name": "Docker Architecture",
-  #       "slug": "docker-architecture",
-  #     },
-  #     {
-  #       "name": "Docker Images and Containers",
-  #       "slug": "docker-images-containers",
-  #     },
-  #     {
-  #       "name": "Dockerfile Setup",
-  #       "slug": "dockerfile-overview",
-  #     },
-  #     {
-  #       "name": "Docker commands indepth",
-  #       "slug": "docker-commands-indepth",
-  #     },
-  #     {
-  #       "name": "docker networking",
-  #       "slug": "docker-networking",
-  #     },
-  #     {
-  #       "name": "multistage dockerfile",
-  #       "slug": "multistage-dockerfiles",
-  #     },
-  #     {
-  #       "name": "dockerfile scenarios",
-  #       "slug": "dockerfile-scenarios",
-  #     },
-  #   ],
-  # },
+data = {
+  "jenkins-pipelines": {
+    "title": "RealTime Jenkins Pipelines",
+    "description": "Jenkins CICD pipelines used by top product companies",
+    "slug": "jenkins-pipelines",
+    "image":
+      "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-roadmap.png",
+    "chapters": [
+      {
+        "name": "Getting Started: The Basics of Jenkins Pipeline",
+        "slug": "basics-of-jenkins",
+      },
+      {
+        "name": "The Next Step: Jenkins Setup",
+        "slug": "jenkins-setup",
+      },
+      {
+        "name": "Integration of Tools: Drive the Jenkins Train",
+        "slug": "tools-integration-with-Jenkins",
+      },
+      {
+        "name": "Jenkinsfile with Groovy code: Groovy Analysis",
+        "slug": "jenkins-groovy-code",
+      },
+      {
+        "name": "Jenkins shared library: Integrate Jenkins with Parent child concept",
+        "slug": "jenkins-shared-library",
+      },
+    ],
+  },
+  "linux-overview": {
+    "title": "Linux: Overview",
+    "description": "Understanding Linux from Basics",
+    "image":
+      "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/data-analyst-overview.png",
+    "slug": "linux-Overview",
+    "chapters": [
+      {
+        "name": "Linux Advanced Commands",
+        "slug": "linux-in-devops",
+      },
+      {
+        "name": "Linux Basic Commands",
+        "slug": "linux-commands",
+      },
+      {
+        "name": "Linux and DevOps:Interview Questions",
+        "slug": "linux-devops-interview-qna",
+      },
+    ],
+  },
+  "docker-for-devops": {
+    "title": "Docker for DevOps Engineers",
+    "description": "Topics You Need to Learn in DevOps",
+    "image":
+      "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/statistics.png",
+    "slug": "docker-for-devops",
+    "chapters": [
+      {
+        "name": "Introduction: Why to learn Docker",
+        "slug": "learn-docker-basics",
+      },
+      {
+        "name": "Docker Architecture",
+        "slug": "docker-architecture",
+      },
+      {
+        "name": "Docker Images and Containers",
+        "slug": "docker-images-containers",
+      },
+      {
+        "name": "Dockerfile Setup",
+        "slug": "dockerfile-overview",
+      },
+      {
+        "name": "Docker commands indepth",
+        "slug": "docker-commands-indepth",
+      },
+      {
+        "name": "docker networking",
+        "slug": "docker-networking",
+      },
+      {
+        "name": "multistage dockerfile",
+        "slug": "multistage-dockerfiles",
+      },
+      {
+        "name": "dockerfile scenarios",
+        "slug": "dockerfile-scenarios",
+      },
+    ],
+  },
   "git": {
     "title": "Git for DevOps Engineers",
     "description": "learn Git from this flow: From Basics to Advanced",
