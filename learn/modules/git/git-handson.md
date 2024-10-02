@@ -45,7 +45,7 @@ Creating new repository in github.com
 
 *   In git repository represents a project.
     
-{/* 
+ 
 **Steps to create repository**
 
 *   New Repository → Enter repository name → select public → select README file → Create Repository.
@@ -70,7 +70,7 @@ Git is client server architecture.
 
 **pull**: sending the **remote repository** changes to the **local repository Note**: git follows → 2 types of proto calls → **https** and **SSH**.
 
-
+{/*
 **Git workflow**
 
 1.  we need to clone remote repository to local
