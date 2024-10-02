@@ -1,13 +1,13 @@
 ---
 title: "Integration of Tools: Drive the Jenkins Train"
 ---
-## Coming Soon
 
-**1\. Project Overview**
+
+**1. Project Overview**
 
 This project demonstrates a Continuous Integration and Continuous Deployment (CI/CD) pipeline using GitHub for source control, Jenkins for automation, and Docker Hub for container images, and a Linux server for deployment. The goal is to automate the process of building, testing, and deploying a Docker image to a Linux server whenever changes are pushed to the GitHub repository.
 
-**2\. Prerequisites**
+**2. Prerequisites**
 
 *   A GitHub account
     
@@ -20,7 +20,7 @@ This project demonstrates a Continuous Integration and Continuous Deployment (CI
 *   Basic understanding of Docker, Jenkins, and Linux commands
     
 
-**3\. Setting Up GitHub Repository**
+**3. Setting Up GitHub Repository**
 
 1.  Create a GitHub Repository:
     
@@ -30,13 +30,13 @@ This project demonstrates a Continuous Integration and Continuous Deployment (CI
 *   Clone the repository to your local machine.
     
 
-\`\`\`sh
+```sh
 
 git clone https://github.com/yourusername/your-repo.git
 
 cd your-repo
 
-\`\`\`
+```
 
 2.  Add Your Project Files:
     
@@ -44,9 +44,9 @@ cd your-repo
 *   Create a basic application, for example, a simple Node.js app or a static website.
     
 
-\- Create a \`Dockerfile\` to containerize your application.
+- Create a `Dockerfile` to containerize your application.
 
-\`\`\`dockerfile
+```dockerfile
 
 FROM node:14
 
@@ -56,16 +56,16 @@ COPY . .
 
 RUN npm install
 
-CMD \["node", "app.js"\]
+CMD ["node", "app.js"]
 
-\`\`\`
+```
 
 3.  Push to GitHub:
     
 
-\- Add, commit, and push your files to the GitHub repository.
+- Add, commit, and push your files to the GitHub repository.
 
-\`\`\`sh
+```sh
 
 git add .
 
@@ -73,14 +73,14 @@ git commit -m "Initial commit"
 
 git push origin main
 
-\`\`\`
+```
 
 4. **Setting Up Jenkins**
 
 1.  Install Jenkins:
     
 
-*   Follow the \[official Jenkins installation guide\](https://www.jenkins.io/doc/book/installing/) for your platform.
+*   Follow the [official Jenkins installation guide](https://www.jenkins.io/doc/book/installing/) for your platform.
     
 
 2.  Configure Jenkins:
@@ -123,7 +123,7 @@ git push origin main
 
 *   Configure your Jenkins job with the following pipeline script.
     
-\`\`\`groovy
+```groovy
 
 pipeline {
 
@@ -131,7 +131,7 @@ agent any
 
 environment {
 
-DOCKERHUB\_CREDENTIALS = credentials('dockerhub-credentials-id')
+DOCKERHUB_CREDENTIALS = credentials('dockerhub-credentials-id')
 
 REPO = 'yourdockerhubusername/your-repo'
 
@@ -155,7 +155,7 @@ steps {
 
 script {
 
-dockerImage = docker.build("${env.REPO}:${env.BUILD\_ID}")
+dockerImage = docker.build("${env.REPO}:${env.BUILD_ID}")
 
 }
 
@@ -169,7 +169,7 @@ steps {
 
 script {
 
-docker.withRegistry('https://index.docker.io/v1/', 'dockerhub-credentials-id') { dockerImage.push("${env.BUILD\_ID}") dockerImage.push("latest")
+docker.withRegistry('https://index.docker.io/v1/', 'dockerhub-credentials-id') { dockerImage.push("${env.BUILD_ID}") dockerImage.push("latest")
 
 }
 
@@ -183,7 +183,7 @@ stage('Deploy to Linux Server') {
 
 steps {
 
-sshagent(\['your-ssh-credentials-id'\]) {
+sshagent(['your-ssh-credentials-id']) {
 
 sh '''
 
@@ -211,28 +211,28 @@ cleanWs()
 
 }
 
-\`\`\`
+```
 
 1.  Credentials Setup:
 
 *   In Jenkins, go to "Manage Jenkins" > "Manage Credentials" and add:
     
 
-*   Docker Hub credentials (\`dockerhub-credentials-id\`).
+*   Docker Hub credentials (`dockerhub-credentials-id`).
     
 
-*   SSH credentials for your Linux server (\`your-ssh-credentials-id\`).
+*   SSH credentials for your Linux server (`your-ssh-credentials-id`).
     
 
-**7\. Deploying to the Linux Server**
+**7. Deploying to the Linux Server**
 
 1.  Ensure Docker is Installed:
     
-\- Make sure Docker is installed and running on your Linux
+- Make sure Docker is installed and running on your Linux
 
 server.
 
-\`\`\`sh
+```sh
 
 sudo apt-get update
 
@@ -242,7 +242,7 @@ sudo systemctl start docker
 
 sudo systemctl enable docker
 
-\`\`\`
+```
 
 1.  Setup SSH Access:
     
@@ -255,13 +255,13 @@ sudo systemctl enable docker
 *   Push a change to your GitHub repository to trigger the Jenkins pipeline.
     
 
-\`\`\`sh
+```sh
 
 git commit -m "Trigger build"
 
 git push origin main
 
-\`\`\`
+```
 
 1.  Check Jenkins:
 

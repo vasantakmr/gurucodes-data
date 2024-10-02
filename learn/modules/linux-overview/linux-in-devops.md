@@ -1,6 +1,7 @@
 ---
 title: "Linux Advanced Commands"
 ---
+
 1.  **File Operations:**
     
 
@@ -85,11 +86,7 @@ title: "Linux Advanced Commands"
     
 
 
-*   du -h --max-depth=1: Shows the size of each directory. Use
-    
-
-
-\--max-depth=1 to limit the output to the current directory and its immediate children.
+*   du -h --max-depth=1: Shows the size of each directory. Use --max-depth=1 to limit the output to the current directory and its immediate children.
 
 
 *   fdisk: Disk partition manipulation command.
