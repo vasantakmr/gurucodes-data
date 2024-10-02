@@ -45,7 +45,7 @@ Creating new repository in github.com
 
 *   In git repository represents a project.
     
-
+<!-- 
 **Steps to create repository**
 
 *   New Repository → Enter repository name → select public → select README file → Create Repository.
@@ -152,9 +152,8 @@ Git reset commit ID
 1.  Development branch (dev ) → every team has their own branch → which is created from master branch.
     
 
-2.  Feature branch → every developer has their own branch → which is created from dev branch.
-
-<!--     
+2.  Feature branch → every developer has their own branch → which is created from dev branch. 
+ 
 3.  Hot fix / bug fix branch ==>> errors / bugs ===> which is created from master branch ===>> errors free ==>>> hot fix / bug fix branch will delete.
     
 4.  Release branch ===>> every release has one branch with version ==>> which is created from master branch ==>> once release push to remote ==>> Release branch will delete.
