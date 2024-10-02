@@ -70,7 +70,7 @@ Git is client server architecture.
 
 **pull**: sending the **remote repository** changes to the **local repository Note**: git follows → 2 types of proto calls → **https** and **SSH**.
 
-{/*
+
 **Git workflow**
 
 1.  we need to clone remote repository to local
@@ -143,7 +143,7 @@ git log
 
 Git reset commit ID
 
-
+{/*
 **Branching strategies**
 
 1.  Master branch → default branch
