@@ -51,88 +51,76 @@ data ={
   #     },
   #   ],
   # },
-  "docker-for-devops": {
-    "title": "Docker for DevOps Engineers",
-    "description": "Topics You Need to Learn in DevOps",
-    "image":
-      "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/statistics.png",
-    "slug": "statistics-for-data-analytics",
-    "chapters": [
-      {
-        "name": "Introduction: Why to learn Docker",
-        "slug": "learn-docker-basics",
-      },
-      {
-        "name": "Docker Architecture",
-        "slug": "docker-architecture",
-      },
-      {
-        "name": "Docker Images and Containers",
-        "slug": "docker-images-containers",
-      },
-      {
-        "name": "Dockerfile Setup",
-        "slug": "dockerfile-overview",
-      },
-      {
-        "name": "Docker commands indepth",
-        "slug": "docker-commands-indepth",
-      },
-      {
-        "name": "docker networking",
-        "slug": "docker-networking",
-      },
-      {
-        "name": "multistage dockerfile",
-        "slug": "multistage-dockerfiles",
-      },
-      {
-        "name": "dockerfile scenarios",
-        "slug": "dockerfile-scenarios",
-      },
-    ],
-  },
-  # "sql": {
-  #   "title": "SQL [Week 5-10]",
-  #   "description": "SQL & Database Learning Roadmap: From Basics to Advanced",
+  # "docker-for-devops": {
+  #   "title": "Docker for DevOps Engineers",
+  #   "description": "Topics You Need to Learn in DevOps",
   #   "image":
-  #     "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/database.png",
-  #   "slug": "sql",
+  #     "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/statistics.png",
+  #   "slug": "statistics-for-data-analytics",
   #   "chapters": [
   #     {
-  #       "name": "Introduction to Databases [Week 5]",
-  #       "slug": "introduction-to-databases-week-5",
+  #       "name": "Introduction: Why to learn Docker",
+  #       "slug": "learn-docker-basics",
   #     },
   #     {
-  #       "name": "Introduction to SQL [Week 5]",
-  #       "slug": "introduction-to-sql-week-5",
+  #       "name": "Docker Architecture",
+  #       "slug": "docker-architecture",
   #     },
   #     {
-  #       "name": "SQL Commands [Week 6]",
-  #       "slug": "sql-commands-week-6",
+  #       "name": "Docker Images and Containers",
+  #       "slug": "docker-images-containers",
   #     },
   #     {
-  #       "name": "Grouping, Aggregating, and Joins [Week 6]",
-  #       "slug": "grouping-aggregating-and-joins-week-6",
+  #       "name": "Dockerfile Setup",
+  #       "slug": "dockerfile-overview",
   #     },
   #     {
-  #       "name": "SQL Queries and Operators [Week 7]",
-  #       "slug": "sql-queries-and-operators-week-7",
+  #       "name": "Docker commands indepth",
+  #       "slug": "docker-commands-indepth",
   #     },
   #     {
-  #       "name": "Views, Indexes, and Performance Optimization [Week 8]",
-  #       "slug": "views-indexes-and-performance-optimization-week-8",
+  #       "name": "docker networking",
+  #       "slug": "docker-networking",
   #     },
   #     {
-  #       "name": "Advanced SQL Topics [Week 9]",
-  #       "slug": "advanced-sql-topics-week-9",
+  #       "name": "multistage dockerfile",
+  #       "slug": "multistage-dockerfiles",
   #     },
   #     {
-  #       "name": "Putting Your SQL Knowledge to the Test [Week 10]",
-  #       "slug": "putting-your-sql-knowledge-to-the-test-week-10",
+  #       "name": "dockerfile scenarios",
+  #       "slug": "dockerfile-scenarios",
   #     },
   #   ],
   # },
+  "Git": {
+    "title": "Git for DevOps Engineers",
+    "description": "learn Git from this flow: From Basics to Advanced",
+    "image":
+      "https://gurucodes-data.pages.dev/img/learn/roadmaps/data-analyst/database.png",
+    "slug": "git",
+    "chapters": [
+      {
+        "name": "Introduction to Git",
+        "slug": "git-introduction",
+      },
+      {
+        "name": "Git Commands",
+        "slug": "git-commands",
+      },
+      {
+        "name": "Git Branching Startegy",
+        "slug": "git-branching-strategy",
+      },
+      {
+        "name": "git setup handson",
+        "slug": "git-handson",
+      },
+      {
+        "name": "git advanced concepts",
+        "slug": "git-advanced-concepts",
+      }
+    ],
+  },
   # "python": {
   #   "title": "Python [Week 11-16]",
   #   "description": "Deep Dive into Python for Data Analysis",
