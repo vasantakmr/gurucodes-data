@@ -37,9 +37,25 @@ data = {
                 "slug": "creating-database-and-tables"
             },
             {
-                "name": "Basic Data Manipulation",
-                "slug": "basic-data-manipulation"
+                "name":"Data Types",
+                "slug":"datatypes"
             },
+            {
+                "name":"Inserting Data",
+                "slug":"inserting-data"
+            },
+            {
+                "name":"Deleting Data",
+                "slug":"delete"
+            },
+            {
+                "name":"Selecting Data",
+                "slug":"select"
+            },
+            {
+                "name":"Updating Data",
+                "slug":"update"
+            }
         ]
     },
     "sql-functions-and-operators": {
@@ -115,10 +131,6 @@ data = {
             {
                 "name": "CROSS JOIN",
                 "slug": "cross-join"
-            },
-            {
-                "name": "Subqueries",
-                "slug": "subqueries"
             },
             {
                 "name": "Single-Row Subqueries",
