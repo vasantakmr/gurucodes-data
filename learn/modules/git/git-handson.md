@@ -249,7 +249,7 @@ Both developers are working on the same file → pqrs → same line → 151 Niha
 
 git merge tool
 
-pqrs → will open → 151 << >> → brackets → remove the brackets
+pqrs → will open → 151 ---- → brackets → remove the brackets
 
 **Pull request conflicts (remote side)**
 
@@ -261,7 +261,7 @@ Sundar → developer → dev branch → pull request → unable to pull request 
 
 Merge conflicts → click this → mno → open
 
-mno → will open → 351 << >> → brackets → remove the brackets.
+mno → will open → 351 ---- → brackets → remove the brackets.
 
 
 

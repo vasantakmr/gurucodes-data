@@ -51,5 +51,5 @@ Terraform state locking is a feature that helps prevent multiple people from mak
 
 **How it works:** The lock is automatically applied when you run commands (like terraform apply or terraform plan). If someone else tries to run these commands while the state is locked, they’ll have to wait until the lock is released.
 
-**Unlocking:** The lock is usually released automatically when the command finishes. If something goes wrong and the lock isn’t released, you can manually unlock it using the _**“terraform force-unlock”**_ command.
+**Unlocking:** The lock is usually released automatically when the command finishes. If something goes wrong and the lock isn’t released, you can manually unlock it using the **"terraform force-unlock"** command.
 
