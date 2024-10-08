@@ -2,7 +2,7 @@
 title: "kubernetes commands"
 ---
 
-## 50 KUBERNETES COMMANDS
+### 50 KUBERNETES COMMANDS
 
 1. **kubectl version**
     
@@ -183,7 +183,7 @@ title: "kubernetes commands"
         List nodes with custom output columns.
         
         kubectl get nodes -o custom- columns=NODE:.metadata.name,IP:.status.addresses[0].address
-
+{/*
 31.  **kubectl top pods**
     
             Display resource usage (CPU and memory) of pods.
@@ -303,3 +303,5 @@ title: "kubernetes commands"
             List all secrets in the default namespace.
         
             kubectl get secrets
+ 
+ */}
