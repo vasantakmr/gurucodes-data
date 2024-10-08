@@ -1,5 +1,5 @@
 ---
-title: "Jenkins shared library: Integrate Jenkins with Parent child concept"
+title: "Jenkins Shared Library: Integrate Jenkins with Parent child Concept"
 ---
 # Best practices of using CI Systems
 
@@ -35,3 +35,10 @@ Here, are cons/drawbacks of Continuous Integration process:
 
 Here, are some most essential CI/CD tools:
 
+1. git
+2. sonarQube
+3. BlackDuck
+4. Fortify
+5. Maven
+6. Docker
+7. JFrog

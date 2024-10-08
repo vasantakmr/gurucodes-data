@@ -1,5 +1,5 @@
 ---
-title: "ansible roles"
+title: "Ansible Roles"
 ---
 **Ansible roles** are a powerful mechanism for organizing and reusing tasks and variables within your Ansible playbooks. They provide a modular approach to building complex automation workflows, making your code more manageable, maintainable, and reusable.
 
@@ -58,7 +58,7 @@ To use a role in a playbook, you simply include the role name in the include_rol
     - webserver
 ```
 
-*   **Benefits of using Ansible roles:**
+### **Benefits of using Ansible roles:**
     
 *   **Modularity:**
     

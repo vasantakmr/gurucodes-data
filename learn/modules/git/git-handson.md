@@ -1,5 +1,5 @@
 ---
-title: "Git Setup Hands-on"
+title: "Git Setup Hands-On"
 ---
 
 **What is Git?**
@@ -141,10 +141,10 @@ git add. / file name / * → index / staging area. git commit -m 'b123'
 
 git log
 
-Git reset commit ID
+git reset commit ID
 
-{/*
-**Branching strategies**
+
+### **Branching strategies**
 
 1.  Master branch → default branch
     
@@ -154,9 +154,9 @@ Git reset commit ID
 
 2.  Feature branch → every developer has their own branch → which is created from dev branch. 
  
-3.  Hot fix / bug fix branch ==>> errors / bugs ===> which is created from master branch ===>> errors free ==>>> hot fix / bug fix branch will delete.
+3.  Hot fix / bug fix branch → errors / bugs → which is created from master branch → errors free → hot fix / bug fix branch will delete.
     
-4.  Release branch ===>> every release has one branch with version ==>> which is created from master branch ==>> once release push to remote ==>> Release branch will delete.
+4.  Release branch → every release has one branch with version → which is created from master branch → once release push to remote → Release branch will delete.
     
 
 **Branch**: To develop the code of our project.
@@ -190,16 +190,16 @@ It picks a commit from one branch and applies it to another branch without doing
 **git cherry-pick commit Id**.
 
 
-**How to merge the remote side changes** ===>>> pull request.
+**How to merge the remote side changes** → pull request.
 
-Pull request **==>> remote side branches ==>>** git hub **==>> in between the branches ==>>** merging is nothing but pull request.
+Pull request **→ remote side branches →** git hub **→ in between the branches →** merging is nothing but pull request.
 
-**Pull request** ==>> TL / collegues ===>> approval ==>> merge pull request ==>> conform merge. pull request ==>> **source and destination**
+**Pull request** → TL / collegues → approval → merge pull request → conform merge. pull request → **source and destination**
 
 source (right side) and destination (left side).
 
 
-**tags**: tags are used to release the application or code version or feature version. list of tags to see ==>> git tag
+**tags**: tags are used to release the application or code version or feature version. list of tags to see → git tag
 
 **how to create a tag locally** ?? git tag tag_name
 
@@ -224,17 +224,17 @@ git push origin -d tagname
 
 **git stash** :
 
-Harsha ==>> developer ==>> mono file ==>>> working area or index area ===>> before going to commit ==>> P1 ( priority one task ==>>> 2 hours close) .
+Harsha → developer → mono file →> working area or index area → before going to commit → P1 ( priority one task → 2 hours close) .
 
-Harsha ==>>> developer ==>>> mono file ==>>> tempararily save ==>> git statsh
+Harsha → developer → mono file → tempararily save → git statsh
 
-After completion of the p1 task ==>> temporarily save ==>> unstash ==>> after that commit.
+After completion of the p1 task → temporarily save → unstash → after that commit.
 
-**git stash save** ==>> temporarily save
+**git stash save** → temporarily save
 
-**git stash list** ==>> stash {0}
+**git stash list** → stash {0}
 
-git stash apply stash ID stash {5} **or** git stash pop stash ID stash {5} ==>> unstash
+git stash apply stash ID stash {5} **or** git stash pop stash ID stash {5} → unstash
 
 **git commit -m 'c1'**
 
@@ -243,25 +243,25 @@ git push origin master.
 
 **Merge conflicts (locally)**
 
-Harsha ==>> developer Nihar ===>> developer
+Harsha → developer Nihar → developer
 
-Both developers are working on the same file ===>>> pqrs ===>> same line ==>> 151 Nihar ==>> developer ==>> dev branch ==>>> merge ==>>> unable to merge.
+Both developers are working on the same file → pqrs → same line → 151 Nihar → developer → dev branch → merge → unable to merge.
 
 git merge tool
 
-pqrs ==>> will open ==>> 151 << >> ==>> brackets ==>>> remove the brackets
+pqrs → will open → 151 << >> → brackets → remove the brackets
 
 **Pull request conflicts (remote side)**
 
-shaker ==>> developer Sundar ===>> developer
+shaker → developer Sundar → developer
 
-Both developers are working on the same file ===>>> mno ===>> same line ==>> 351
+Both developers are working on the same file → mno → same line → 351
 
-Sundar ==>> developer ==>> dev branch ==>>> pull request ==>>> unable to pull request ===>> resolve conflicts.
+Sundar → developer → dev branch → pull request → unable to pull request → resolve conflicts.
 
-Merge conflicts ===>>> click this ==>>>> mno ==>>> open
+Merge conflicts → click this → mno → open
 
-mno ==>> will open ==>> 351 << >> ==>> brackets ==>>> remove the brackets.
+mno → will open → 351 << >> → brackets → remove the brackets.
 
 
 
@@ -273,32 +273,32 @@ mno ==>> will open ==>> 351 << >> ==>> brackets ==>>> remove the brackets.
 1.  **tags**
     
 
-1.  **git hub ==>> backup**
+1.  **git hub → backup**
     
 
 
 
-**git fetch** ==>> Download the changes from remote repository without merging into current directory
+**git fetch** → Download the changes from remote repository without merging into current directory
 
 **or** Local Repo **or** Local Branch
 
-**git pull** ==>> Download and Merge the changes from remote repository into current directory
+**git pull** → Download and Merge the changes from remote repository into current directory
 
-== **git fetch + git merge git rebase** ==>> Rewrite the commit history by moving, combining **or** applying changes from one -------
+== **git fetch + git merge git rebase** → Rewrite the commit history by moving, combining **or** applying changes from one -------
 
 branch to another branch, creating a linear history.
 
-**git merge** ==>> Combining the changes from one branch into another branch, creating a new
+**git merge** → Combining the changes from one branch into another branch, creating a new
 
 commit, the modification from both branches
 
-**git conflicts tool** ==>> source tree
+**git conflicts tool** → source tree
 
-**git squash** ==>> the process of condensing multiple commits into a single commit during git rebase, creating a clear and more readable history
+**git squash** → the process of condensing multiple commits into a single commit during git rebase, creating a clear and more readable history
 
-**git patch** ==>> A text file containing the difference between two sets of code ,used to apply changes from one codebase to another.
+**git patch** → A text file containing the difference between two sets of code ,used to apply changes from one codebase to another.
 
-**git diff** ==>
+**git diff** →
 
 1.  Shows the **difference between** changes in working directory and the staging area or index area.
     
@@ -307,7 +307,7 @@ commit, the modification from both branches
 
 -in the git repository.
 
-**git status** ==>>
+**git status** →
 
 1.  Displays the current state of the **working directory** and **staging area.**
     
@@ -316,26 +316,26 @@ commit, the modification from both branches
 
 -untracked.
 
-**git revert** ==>>
+**git revert** →
 
 When the developer has pushed the code wrongly to **remote repo** then he will do git revert and change files and given as new commit id and purely remote side changes.
 
-**.git ignore** ==>> Hiding the files or folder
+**.git ignore** → Hiding the files or folder
 
-**git reset** ==>> when you do the git reset it will **go back** to working directory == **git reset commit id**
+**git reset** → when you do the git reset it will **go back** to working directory == **git reset commit id**
 
 To Move the ALL file or Folder staging/Indexing Area to working Area **=== Eg**:- git reset ## No way to get back the files or folders after using the git reset command
 
-**Soft reset** ==>> I want to reset the latest commit so that the **HEAD** will point to particular **commit ID Eg**:- **git reset --soft** 69f77c9fad2f918b3f1e8e2249888aa9f883293f
+**Soft reset** → I want to reset the latest commit so that the **HEAD** will point to particular **commit ID Eg**:- **git reset --soft** 69f77c9fad2f918b3f1e8e2249888aa9f883293f
 
-Before that ==>> **git log -4**
+Before that → **git log -4**
 
 **git reset --soft HEAD~2 #here 2 is No of commit reset**
 
-**Hard rest** ==>> After adding the file or folder staging/Indexing Area
+**Hard rest** → After adding the file or folder staging/Indexing Area
 
 To remove the file or Folder staging/Indexing Area and working Area == **Eg**: - **git reset --hard**
 
 **Mixed reset** : To Move the file or Folder staging/Indexing Area to working Area
 
-**Eg**:- **git reset --mixed file name or folder name** */}
+**Eg**:- **git reset --mixed file name or folder name**

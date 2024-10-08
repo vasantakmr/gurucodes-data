@@ -40,3 +40,9 @@ Ansible is a powerful open-source IT automation tool that simplifies and streaml
 
 **Overall, Ansible is a valuable tool for automating IT tasks, improving efficiency, and reducing errors.**
 
+### Install Ansible on EC2 instance - 
+
+You can easily install Ansible in a CentOS Linux machine using the following command:
+
+**yum install ansible -y**
+

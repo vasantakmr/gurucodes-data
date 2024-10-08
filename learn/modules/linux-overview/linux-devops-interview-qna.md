@@ -1,5 +1,5 @@
 ---
-title: "Linux and DevOps:Interview Questions"
+title: "Linux and DevOps: Interview Questions"
 ---
 
 **Linux Interview Question & Answers**
@@ -187,371 +187,371 @@ a security mechanism that controls incoming and outgoing network traffic based o
 
 **Linux Commands**
 
-1.  **ls: List files and directories in the current directory.** Example: \`ls\`
+1.  **ls: List files and directories in the current directory.** Example: ```ls```
     
 
 1.  **cd: Change directory.**
     
 
-Example: \`cd /path/to/directory\`
+Example: ```cd /path/to/directory```
 
-1.  **pwd: Print the current working directory.** Example: \`pwd\`
+1.  **pwd: Print the current working directory.** Example: ```pwd```
     
 
 1.  **mkdir: Create a new directory.**
     
 
-Example: \`mkdir new\_directory\`
+Example: ```mkdir new\_directory```
 
-1.  **rm: Remove files and directories.** Example: \`rm file.txt\`
+1.  **rm: Remove files and directories.** Example: ```rm file.txt```
     
 
-1.  **cp: Copy files and directories.** Example: \`cp file.txt /path/to/destination\`
+1.  **cp: Copy files and directories.** Example: ```cp file.txt /path/to/destination```
     
 
-1.  **mv: Move or rename files and directories.** Example: \`mv file.txt /path/to/destination\`
+1.  **mv: Move or rename files and directories.** Example: ```mv file.txt /path/to/destination```
     
 
-1.  **touch: Create an empty file.** Example: \`touch file.txt\`
+1.  **touch: Create an empty file.** Example: ```touch file.txt```
     
 
-1.  **cat: Display the contents of a file.** Example: \`cat file.txt\`
+1.  **cat: Display the contents of a file.** Example: ```cat file.txt```
     
 
-1.  **grep: Search for a pattern in a file.** Example: \`grep "pattern" file.txt\`
+1.  **grep: Search for a pattern in a file.** Example: ```grep "pattern" file.txt```
     
 
-1.  **head: Display the first few lines of a file.** Example: \`head file.txt\`
+1.  **head: Display the first few lines of a file.** Example: ```head file.txt```
     
 
-1.  **tail: Display the last few lines of a file.** Example: \`tail file.txt\`
+1.  **tail: Display the last few lines of a file.** Example: ```tail file.txt```
     
 
-1.  **chmod: Change the permissions of a file or directory.** Example: \`chmod 755 file.txt\`
+1.  **chmod: Change the permissions of a file or directory.** Example: ```chmod 755 file.txt```
     
 
-1.  **chown: Change the ownership of a file or directory.** Example: \`chown user:group file.txt\`
+1.  **chown: Change the ownership of a file or directory.** Example: ```chown user:group file.txt```
     
 
 1.  **ln: Create a symbolic link to a file.**
     
 
-Example: \`ln -s /path/to/file link\`
+Example: ```ln -s /path/to/file link```
 
-1.  **find: Search for files and directories.** Example: \`find /path/to/search -name "pattern"\`
+1.  **find: Search for files and directories.** Example: ```find /path/to/search -name "pattern"```
     
 
 1.  **tar: Archive files and directories.**
     
 
-Example: \`tar -czvf archive.tar.gz files/\`
+Example: ```tar -czvf archive.tar.gz files/```
 
-1.  **unzip: Extract files from a zip archive.** Example: \`unzip archive.zip\`
+1.  **unzip: Extract files from a zip archive.** Example: ```unzip archive.zip```
     
 
-1.  **man: Display the manual page/ Help of a command.** Example: \`man ls\`
+1.  **man: Display the manual page/ Help of a command.** Example: ```man ls```
     
 
 1.  **history: View command history.**
     
 
-Example: \`history\`
+Example: ```history```
 
-1.  **ps: Display currently running processes.** Example: \`ps aux\`
+1.  **ps: Display currently running processes.** Example: ```ps aux```
     
 
 1.  **kill: Terminate a process.**
     
 
-Example: \`kill PID\`
+Example: ```kill PID```
 
-1.  **df: Display disk space usage.** Example: \`df -h\`
+1.  **df: Display disk space usage.** Example: ```df -h```
     
 
-1.  **du: Estimate file and directory sizes.** Example: \`du -sh directory\`
+1.  **du: Estimate file and directory sizes.** Example: ```du -sh directory```
     
 
 1.  **scp: Copy files between hosts securely.**
     
 
-Example: \`scp file.txt user@remote:/path/to/destination\`
+Example: ```scp file.txt user@remote:/path/to/destination```
 
-1.  **ssh: Connect to a remote host securely.** Example: \`ssh user@host\`
+1.  **ssh: Connect to a remote host securely.** Example: ```ssh user@host```
     
 
-1.  **ping: Send ICMP echo requests to a host.** Example: \`ping google.com\`
+1.  **ping: Send ICMP echo requests to a host.** Example: ```ping google.com```
     
 
-1.  **ifconfig: Display network interface information.** Example: \`ifconfig\`
+1.  **ifconfig: Display network interface information.** Example: ```ifconfig```
     
 
 1.  **wget: Download files from the web.**
     
 
-Example: \`wget https://example.com/file.txt\`
+Example: ```wget https://example.com/file.txt```
 
-1.  **curl: Transfer data from or to a server.** Example: \`curl https://example.com\`
+1.  **curl: Transfer data from or to a server.** Example: ```curl https://example.com```
     
 
-1.  **top: Display system resource usage and running processes.** Example: \`top\`
+1.  **top: Display system resource usage and running processes.** Example: ```top```
     
 
-1.  **apt-get: Package manager for Debian-based distributions.** Example: \`apt-get install package\`
+1.  **apt-get: Package manager for Debian-based distributions.** Example: ```apt-get install package```
     
 
-1.  **yum: Package manager for Red Hat-based distributions.** Example: \`yum install package\`
+1.  **yum: Package manager for Red Hat-based distributions.** Example: ```yum install package```
     
 
-1.  **systemctl: Control system services.** Example: \`systemctl start service\`
+1.  **systemctl: Control system services.** Example: ```systemctl start service```
     
 
-1.  **journalctl: Query and display system logs.** Example: \`journalctl -u service\`
+1.  **journalctl: Query and display system logs.** Example: ```journalctl -u service```
     
 
-1.  **grep: Search for a pattern in files.** Example: \`grep "pattern" file.txt\`
+1.  **grep: Search for a pattern in files.** Example: ```grep "pattern" file.txt```
     
 
-1.  **sed: Stream editor for text manipulation.** Example: \`sed 's/old/new/' file.txt\`
+1.  **sed: Stream editor for text manipulation.** Example: ```sed 's/old/new/' file.txt```
     
 
-1.  **awk: Text processing and pattern scanning.** Example: \`awk '{print $1}' file.txt\`
+1.  **awk: Text processing and pattern scanning.** Example: ```awk '{print $1}' file.txt```
     
 
 1.  **sort: Sort lines of text files.**
     
 
-Example: \`sort file.txt\`
+Example: ```sort file.txt```
 
-1.  **uniq: Report or omit repeated lines.** Example: \`uniq file.txt\`
+1.  **uniq: Report or omit repeated lines.** Example: ```uniq file.txt```
     
 
-1.  **tar: Manipulate tape archives.** Example: \`tar -xvf archive.tar\`
+1.  **tar: Manipulate tape archives.** Example: ```tar -xvf archive.tar```
     
 
 1.  **gzip: Compress files.**
     
 
-Example: \`gzip file.txt\`
+Example: ```gzip file.txt```
 
-1.  **gunzip: Decompress files.** Example: \`gunzip file.txt.gz\`
+1.  **gunzip: Decompress files.** Example: ```gunzip file.txt.gz```
     
 
-1.  **ssh-keygen: Generate SSH keys.** Example: \`ssh-keygen -t rsa\`
+1.  **ssh-keygen: Generate SSH keys.** Example: ```ssh-keygen -t rsa```
     
 
-1.  **ssh-copy-id: Copy SSH public key to a remote host.** Example: \`ssh-copy-id user@host\`
+1.  **ssh-copy-id: Copy SSH public key to a remote host.** Example: ```ssh-copy-id user@host```
     
 
 1.  **mount: Mount a file system.**
     
 
-Example: \`mount /dev/sdb1 /mnt\`
+Example: ```mount /dev/sdb1 /mnt```
 
-1.  **umount: Unmount a file system.** Example: \`umount /mnt\`
+1.  **umount: Unmount a file system.** Example: ```umount /mnt```
     
 
-1.  **lsblk: List block devices.** Example: \`lsblk\`
+1.  **lsblk: List block devices.** Example: ```lsblk```
     
 
-1.  **fdisk: Partition table manipulator for disks.** Example: \`fdisk /dev/sdb\`
+1.  **fdisk: Partition table manipulator for disks.** Example: ```fdisk /dev/sdb```
     
 
-1.  **date: Display the current date and time.** Example: \`date\`
+1.  **date: Display the current date and time.** Example: ```date```
     
 
 1.  **echo: Print text or variables.**
     
 
-Example: \`echo "Hello, World!"\`
+Example: ```echo "Hello, World!"```
 
 1.  **tee: Read from standard input and write to standard output and files.**
     
 
-Example: \`echo "Hello" | tee file.txt\`
+Example: ```echo "Hello" | tee file.txt```
 
 1.  **nc: Read and write data across network connections.**
     
 
-Example: \`echo "Hello" | nc host port\`
+Example: ```echo "Hello" | nc host port```
 
-1.  **basename: Strip directory and suffix from filenames.** Example: \`basename /path/to/file.txt\`
+1.  **basename: Strip directory and suffix from filenames.** Example: ```basename /path/to/file.txt```
     
 
-1.  **dirname: Strip last component from file name.** Example: \`dirname /path/to/file.txt\`
+1.  **dirname: Strip last component from file name.** Example: ```dirname /path/to/file.txt```
     
 
 1.  **uptime: Display system uptime.**
     
 
-Example: \`uptime\`
+Example: ```uptime```
 
-1.  **whoami: Print the current username.** Example: \`whoami\`
+1.  **whoami: Print the current username.** Example: ```whoami```
     
 
 1.  **su: Switch user.**
     
 
-Example: \`su username\`
+Example: ```su username```
 
-1.  **sudo: Execute a command as a superuser.** Example: \`sudo command\`
+1.  **sudo: Execute a command as a superuser.** Example: ```sudo command```
     
 
-1.  **useradd: Create a new user account.** Example: \`useradd username\`
+1.  **useradd: Create a new user account.** Example: ```useradd username```
     
 
-1.  **passwd: Change user password.** Example: \`passwd username\`
+1.  **passwd: Change user password.** Example: ```passwd username```
     
 
-1.  **groupadd: Create a new group.** Example: \`groupadd groupname\`
+1.  **groupadd: Create a new group.** Example: ```groupadd groupname```
     
 
 1.  **usermod: Modify user account.**
     
 
-Example: \`usermod -aG groupname username\`
+Example: ```usermod -aG groupname username```
 
-1.  **groups: Display group membership for a user.** Example: \`groups username\`
+1.  **groups: Display group membership for a user.** Example: ```groups username```
     
 
-1.  **chgrp: Change group ownership of a file or directory.** Example: \`chgrp groupname file.txt\`
+1.  **chgrp: Change group ownership of a file or directory.** Example: ```chgrp groupname file.txt```
     
 
-1.  **wc: Count lines, words, and characters in files.** Example: \`wc file.txt\`
+1.  **wc: Count lines, words, and characters in files.** Example: ```wc file.txt```
     
 
 1.  **ln: Create hard links to files.**
     
 
-Example: \`ln /path/to/file link\`
+Example: ```ln /path/to/file link```
 
-1.  **free: Display free and used memory in the system.** Example: \`free -h\`
+1.  **free: Display free and used memory in the system.** Example: ```free -h```
     
 
 1.  **echo: Print text or variables.**
     
 
-Example: \`echo "Hello, World!"\`
+Example: ```echo "Hello, World!"```
 
-1.  **uptime: Display system uptime.** Example: \`uptime\`
+1.  **uptime: Display system uptime.** Example: ```uptime```
     
 
 1.  **whereis: Locate the binary, source, and manual page files for a command.**
     
 
-Example: \`whereis ls\`
+Example: ```whereis ls```
 
 1.  **cmp: Compare two files byte by byte.**
     
 
-Example: \`cmp file1.txt file2.txt\`
+Example: ```cmp file1.txt file2.txt```
 
-1.  **diff: Compare files line by line.** Example: \`diff file1.txt file2.txt\`
+1.  **diff: Compare files line by line.** Example: ```diff file1.txt file2.txt```
     
 
-1.  **curl: Transfer data from or to a server.** Example: \`curl https://example.com\`
+1.  **curl: Transfer data from or to a server.** Example: ```curl https://example.com```
     
 
 1.  **sort: Sort lines of text files.**
     
 
-Example: \`sort file.txt\`
+Example: ```sort file.txt```
 
-1.  **find: Search for files and directories.** Example: \`find /path/to/search -name "pattern"\`
+1.  **find: Search for files and directories.** Example: ```find /path/to/search -name "pattern"```
     
 
 1.  **tar: Archive files and directories.**
     
 
-Example: \`tar -czvf archive.tar.gz files/\`
+Example: ```tar -czvf archive.tar.gz files/```
 
-1.  **grep: Search for a pattern in a file.** Example: \`grep "pattern" file.txt\`
+1.  **grep: Search for a pattern in a file.** Example: ```grep "pattern" file.txt```
     
 
-1.  **sed: Stream editor for text manipulation.** Example: \`sed 's/old/new/' file.txt\`
+1.  **sed: Stream editor for text manipulation.** Example: ```sed 's/old/new/' file.txt```
     
 
-1.  **awk: Text processing and pattern scanning.** Example: \`awk '{print $1}' file.txt\`
+1.  **awk: Text processing and pattern scanning.** Example: ```awk '{print $1}' file.txt```
     
 
-1.  **wc: Count lines, words, and characters in files.** Example: \`wc file.txt\`
+1.  **wc: Count lines, words, and characters in files.** Example: ```wc file.txt```
     
 
-1.  **chmod: Change the permissions of a file or directory.** Example: \`chmod 755 file.txt\`
+1.  **chmod: Change the permissions of a file or directory.** Example: ```chmod 755 file.txt```
     
 
-1.  **chown: Change the ownership of a file or directory.** Example: \`chown user:group file.txt\`
+1.  **chown: Change the ownership of a file or directory.** Example: ```chown user:group file.txt```
     
 
 1.  **head: Display the first few lines of a file.**
     
 
-Example: \`head file.txt\`
+Example: ```head file.txt```
 
-1.  **tail: Display the last few lines of a file.** Example: \`tail file.txt\`
+1.  **tail: Display the last few lines of a file.** Example: ```tail file.txt```
     
 
-1.  **top: Display system resource usage and running processes.** Example: \`top\`
+1.  **top: Display system resource usage and running processes.** Example: ```top```
     
 
 1.  **ps: Display currently running processes.**
     
 
-Example: \`ps aux\`
+Example: ```ps aux```
 
-1.  **kill: Terminate a process.** Example: \`kill PID\`
+1.  **kill: Terminate a process.** Example: ```kill PID```
     
 
-1.  **shutdown: Shutdown or restart the system.** Example: \`shutdown -h now\`
+1.  **shutdown: Shutdown or restart the system.** Example: ```shutdown -h now```
     
 
 1.  **reboot: Reboot the system.**
     
 
-Example: \`reboot\`
+Example: ```reboot```
 
-1.  **ifconfig: Display network interface information.** Example: \`ifconfig\`
+1.  **ifconfig: Display network interface information.** Example: ```ifconfig```
     
 
 1.  **ip: Show or manipulate routing, devices, policy routing, and tunnels.**
     
 
-Example: \`ip addr show\`
+Example: ```ip addr show```
 
 1.  **ping: Send ICMP echo requests to a host.**
     
 
-Example: \`ping google.com\`
+Example: ```ping google.com```
 
-1.  **traceroute: Print the route packets take to a network host.** Example: \`traceroute google.com\`
+1.  **traceroute: Print the route packets take to a network host.** Example: ```traceroute google.com```
     
 
 1.  **netstat: Print network connections, routing tables, and interface statistics.**
     
 
-Example: \`netstat -tuln\`
+Example: ```netstat -tuln```
 
 1.  **iptables: Administration tool for IPv4/IPv6 packet filtering and NAT.**
     
 
-Example: \`iptables -L\`
+Example: ```iptables -L```
 
 1.  **hostname: Show or set the system's host name.**
     
 
-Example: \`hostname\`
+Example: ```hostname```
 
-1.  **uname: Print system information.** Example: \`uname -a\`
+1.  **uname: Print system information.** Example: ```uname -a```
     
 
-1.  **history: View command history.** Example: \`history\`
+1.  **history: View command history.** Example: ```history```
     
 
-1.  **exit: Exit the current shell or terminal.** Example: \`exit\`
+1.  **exit: Exit the current shell or terminal.** Example: ```exit```
     
 
 DevOps **Interview Question & Answers**
 
-**1\. What is DevOps, and why is it important?**
+**1. What is DevOps, and why is it important?**
 
 DevOps is a software development approach that combines development and operations teams to work together throughout the software development lifecycle. It is important because it improves collaboration, efficiency, and automation, leading to faster and more reliable software delivery.
 
@@ -573,11 +573,11 @@ The core components of a DevOps culture include collaboration, communication, au
 
 Configuration management involves managing and maintaining the consistency of software configurations across different environments. It ensures that software deployments are predictable and repeatable.
 
-**6\. What is Git, and how does it help in DevOps?**
+**6. What is Git, and how does it help in DevOps?**
 
 Git is a distributed version control system that helps track changes to source code. It enables collaboration, branching, merging, and reverting to previous versions, making it easier to manage code changes in a DevOps environment.
 
-**7\. Explain the concept of Infrastructure as Code (IaC).**
+**7. Explain the concept of Infrastructure as Code (IaC).**
 
 Infrastructure as Code (IaC) is an approach to provisioning and managing infrastructure through machine-readable definition files. It allows infrastructure configurations to be treated as code, enabling version control, automation, and consistent deployments.
 
@@ -589,11 +589,11 @@ Infrastructure as Code (IaC) is an approach to provisioning and managing infrast
 
 Popular CI/CD tools include Jenkins, CircleCI, Travis CI, GitLab CI/CD, and Azure DevOps.
 
-**10\. What is Continuous Delivery (CD)?**
+**10. What is Continuous Delivery (CD)?**
 
 Continuous Delivery is an extension of Continuous Integration that ensures software changes can be deployed to production reliably and frequently. It involves automating the entire software release process.
 
-**11\. How does DevOps contribute to security?**
+**11. How does DevOps contribute to security?**
 
 DevOps promotes the integration of security measures early in the software development process. It includes practices such as automated security testing, vulnerability scanning, and the use of security policies as code.
 
@@ -612,7 +612,7 @@ on a single host operating system. Containers are more lightweight and provide f
 
 Blue-Green deployment is a release management strategy where two identical environments, the blue and green environments, are maintained. The blue environment serves as the production environment, while the green environment is used for testing and deploying new releases. This allows for zero-downtime deployments.
 
-**15\. What is the difference between Git and SVN?**
+**15. What is the difference between Git and SVN?**
 
 Git is a distributed version control system that allows for offline work, faster branching and merging, and a more flexible and decentralized workflow. SVN is a centralized version control system that requires a connection to the central repository for most operations.
 
@@ -629,7 +629,7 @@ logging help track the performance, availability, and health of systems and appl
 
 A container registry is a centralized repository for storing and managing container images. It allows for versioning, sharing, and distribution of container images across different environments.
 
-**19\. How do you ensure the security of containers?**
+**19. How do you ensure the security of containers?**
 
 To ensure the security of containers, best practices include scanning container images for vulnerabilities, using minimal and trusted base images, implementing least privilege access controls, and regularly patching and updating containers.
 
@@ -644,11 +644,11 @@ To ensure the security of containers, best practices include scanning container 
 
 Benefits of IaC include version control and change tracking for infrastructure configurations, faster and more consistent deployments, easier scalability and reproducibility, and increased collaboration between development and operations teams.
 
-**23\. What is the role of continuous testing in DevOps?**
+**23. What is the role of continuous testing in DevOps?**
 
 Continuous testing ensures that software changes are thoroughly tested throughout the development process. It involves automated testing, including unit tests, integration tests, and regression tests, to validate code changes and prevent regressions.
 
-**24\. How does DevOps enable faster time-to-market?**
+**24. How does DevOps enable faster time-to-market?**
 
 DevOps enables faster time-to-market through automation, continuous integration and delivery, and the ability to rapidly iterate on software changes. It reduces manual overhead, streamlines processes, and facilitates quicker feedback loops.
 
@@ -737,7 +737,7 @@ Compliance and security can be ensured by incorporating security requirements in
 
 Infrastructure scalability can be handled by using auto-scaling groups, load balancers, and orchestration tools that automatically adjust the number of resources based on demand. Cloud providers also offer scaling features for different types of resources.
 
-**44\. What is the role of feedback loops in DevOps?**
+**44. What is the role of feedback loops in DevOps?**
 
 Feedback loops in DevOps provide valuable insights into the performance and quality of software. They enable teams to learn from failures, gather user feedback, and make data-driven decisions for continuous improvement.
 
@@ -777,13 +777,13 @@ DevOps is a software development approach that combines development (Dev) and op
 1.  **What are the key principles of DevOps?** The key principles of DevOps are:
     
 
-\- Collaboration and communication between teams.
+- Collaboration and communication between teams.
 
-\- Infrastructure as code, where infrastructure is managed and provisioned through code.
+- Infrastructure as code, where infrastructure is managed and provisioned through code.
 
-\- Continuous integration and continuous delivery (CI/CD) pipelines for automated and rapid software delivery.
+- Continuous integration and continuous delivery (CI/CD) pipelines for automated and rapid software delivery.
 
-\- Automation of repetitive tasks to improve efficiency and reduce errors. - Continuous monitoring and feedback loops for gathering insights and improving performance.
+- Automation of repetitive tasks to improve efficiency and reduce errors. - Continuous monitoring and feedback loops for gathering insights and improving performance.
 
 1.  **What are some popular DevOps tools?**
     
@@ -808,23 +808,23 @@ There are several popular DevOps tools available, including:
 *   Monitoring and logging tools: Nagios, Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana)
     
 
-**54\. What is the purpose of version control in DevOps?**
+**54. What is the purpose of version control in DevOps?**
 
 Version control is used to manage changes to source code, configuration files, and other artifacts in a software project. It allows teams to track modifications, collaborate on code, and revert to previous versions if needed. Version control systems also facilitate branching and merging, enabling parallel development and smooth collaboration between team members.
 
-**55\. What is Continuous Integration (CI)?**
+**55. What is Continuous Integration (CI)?**
 
 Continuous Integration is a development practice where team members regularly merge their code changes into a central repository. Each integration triggers an automated build and test process to identify integration issues early on. CI aims to detect and resolve conflicts quickly, maintain code stability, and ensure that the software is always in a releasable state.
 
-**56\. What is Continuous Delivery (CD)?**
+**56. What is Continuous Delivery (CD)?**
 
 Continuous Delivery is an extension of Continuous Integration that ensures software changes can be deployed to production reliably and frequently. It involves automating the entire software release process, including building, testing, and deploying applications. With CD, development teams can release new features and bug fixes quickly and efficiently, reducing time to market.
 
-**57\. What is Infrastructure as Code (IaC)?**
+**57. What is Infrastructure as Code (IaC)?**
 
 Infrastructure as Code is an approach to provisioning and managing infrastructure resources (such as servers, networks, and storage) through machine-readable definition files. It allows developers and operations teams to treat infrastructure configurations as code, enabling version control, automated deployments, and consistent environments. Popular IaC tools include Terraform and AWS CloudFormation.
 
-**58\. How does DevOps contribute to security?**
+**58. How does DevOps contribute to security?**
 
 DevOps promotes the concept of "shifting left" with security, meaning that security measures are integrated early in the software development process. Some DevOps practices that enhance security include:
 
@@ -857,7 +857,7 @@ A2: A repository, often referred to as a "repo," is a central location where Git
 
 **Q3: How do you create a new Git repository?**
 
-A3: To create a new Git repository, you can navigate to the desired directory in your terminal and use the command \`git init\`. This command initializes a new empty Git repository in the current directory.
+A3: To create a new Git repository, you can navigate to the desired directory in your terminal and use the command ```git init```. This command initializes a new empty Git repository in the current directory.
 
 **Q4: What is the difference between Git and GitHub?**
 
@@ -865,36 +865,36 @@ A4: Git is a version control system, while GitHub is a web-based hosting service
 
 **Q5: What is the purpose of the "git clone" command?**
 
-A5: The \`git clone\` command is used to create a local copy of a remote Git repository. It downloads the entire repository, including all its files, commit history, and branches, to your local machine.
+A5: The ```git clone``` command is used to create a local copy of a remote Git repository. It downloads the entire repository, including all its files, commit history, and branches, to your local machine.
 
 **Q6: How do you commit changes in Git?**
 
 A6: To commit changes in Git, you need to follow these steps:
 
-1.  Use the command \`git add \` to stage the changes you want to include in the commit.
+1.  Use the command ```git add ``` to stage the changes you want to include in the commit.
     
 
-1.  Use the command \`git commit -m "Commit message"\` to create a new commit with the staged changes. The commit message should provide a brief description of the changes.
+1.  Use the command ```git commit -m "Commit message"``` to create a new commit with the staged changes. The commit message should provide a brief description of the changes.
     
 
 **Q7: What is the difference between "git pull" and "git fetch"?**
 
-A7: - \`git pull\` is a combination of two commands: \`git fetch\` and \`git merge\`. It fetches the latest changes from the remote repository and automatically merges them with the local branch.
+A7: - ```git pull``` is a combination of two commands: ```git fetch``` and ```git merge```. It fetches the latest changes from the remote repository and automatically merges them with the local branch.
 
-*   \`git fetch\` only downloads the latest changes from the remote repository, but it doesn't automatically merge them. It updates the remote-tracking branches, allowing you to review the changes before merging.
+*   ```git fetch``` only downloads the latest changes from the remote repository, but it doesn't automatically merge them. It updates the remote-tracking branches, allowing you to review the changes before merging.
     
 
 **Q8: How do you resolve merge conflicts in Git?**
 
-A8: When a merge conflict occurs, it means that Git is unable to automatically merge the changes from different branches. To resolve the conflict, you need to manually edit the conflicting files to choose the desired changes. After resolving the conflicts, you can use the \`git add\` command to stage the changes, followed by \`git commit\` to complete the merge.
+A8: When a merge conflict occurs, it means that Git is unable to automatically merge the changes from different branches. To resolve the conflict, you need to manually edit the conflicting files to choose the desired changes. After resolving the conflicts, you can use the ```git add``` command to stage the changes, followed by ```git commit``` to complete the merge.
 
 **Q9: How do you revert a commit in Git?**
 
-A9: To revert a commit in Git, you can use the \`git revert\` command followed by the commit hash of the commit you want to revert. This command creates a new commit that undoes the changes introduced by the specified commit, effectively reverting it.
+A9: To revert a commit in Git, you can use the ```git revert``` command followed by the commit hash of the commit you want to revert. This command creates a new commit that undoes the changes introduced by the specified commit, effectively reverting it.
 
 **Q10: How do you push changes to a remote Git repository?**
 
-A10: To push changes to a remote Git repository, you can use the \`git push\` command followed by the name of the remote repository and the branch you want to push. For example, \`git push origin main\` pushes the local commits to the "main" branch of the remote repository named "origin."
+A10: To push changes to a remote Git repository, you can use the ```git push``` command followed by the name of the remote repository and the branch you want to push. For example, ```git push origin main``` pushes the local commits to the "main" branch of the remote repository named "origin."
 
 These are just a few common Git interview questions for beginners. Remember to practice using Git commands and workflows to strengthen your understanding of version control and collaboration with Git.
 
@@ -908,15 +908,15 @@ A1: In Git, a branch is a lightweight movable pointer to a specific commit. It a
 
 A2: To merge two branches in Git, you typically follow these steps:
 
-1.  Switch to the branch where you want to merge changes (e.g., \`git checkout branch-to-merge-into\`).
+1.  Switch to the branch where you want to merge changes (e.g., ```git checkout branch-to-merge-into```).
     
 
-1.  Run the command \`git merge branch-to-merge-from\`. This merges the changes from the specified branch into the current branch.
+1.  Run the command ```git merge branch-to-merge-from```. This merges the changes from the specified branch into the current branch.
     
 2.  Resolve any merge conflicts, if they occur.
     
 
-1.  Commit the merge changes using \`git commit\`.
+1.  Commit the merge changes using ```git commit```.
     
 
 **Q3: What is the purpose of "git rebase"?**
@@ -927,37 +927,37 @@ A3: Git rebase is a command used to integrate changes from one branch onto anoth
 
 A4: To undo the most recent commit in Git, you have a few options:
 
-*   You can use the command \`git revert HEAD\` to create a new commit that undoes the changes introduced by the last commit.
+*   You can use the command ```git revert HEAD``` to create a new commit that undoes the changes introduced by the last commit.
     
 
-*   Alternatively, you can use \`git reset HEAD~1\` to move the branch pointer back one commit, effectively removing the last commit. This operation discards the commit and any changes associated with it.
+*   Alternatively, you can use ```git reset HEAD~1``` to move the branch pointer back one commit, effectively removing the last commit. This operation discards the commit and any changes associated with it.
     
 
 **Q5: What is the "git stash" command used for?**
 
-A5: The \`git stash\` command allows you to temporarily save changes that are not ready to be committed yet. It's useful when you need to switch to a different branch or apply a hotfix but don't want to commit incomplete work. You can later retrieve the changes from the stash using \`git stash apply\` or \`git stash pop\`.
+A5: The ```git stash``` command allows you to temporarily save changes that are not ready to be committed yet. It's useful when you need to switch to a different branch or apply a hotfix but don't want to commit incomplete work. You can later retrieve the changes from the stash using ```git stash apply``` or ```git stash pop```.
 
 **Q6: How do you revert a file to a previous commit in Git?**
 
-A6: To revert a file to a previous commit in Git, you can use the command \`git checkout \-- \`. This command replaces the content of the specified file with the version from the given commit. It effectively discards the changes made to the file since that commit.
+A6: To revert a file to a previous commit in Git, you can use the command ```git checkout branchName ```. This command replaces the content of the specified file with the version from the given commit. It effectively discards the changes made to the file since that commit.
 
 **Q7: What is the purpose of the "git cherry-pick" command?**
 
-A7: The \`git cherry-pick\` command is used to apply a specific commit from one branch onto another branch. It allows you to select individual commits and apply them to a different branch, without merging the entire branch. Cherry-picking is useful when you want to selectively apply changes from one branch to another.
+A7: The ```git cherry-pick``` command is used to apply a specific commit from one branch onto another branch. It allows you to select individual commits and apply them to a different branch, without merging the entire branch. Cherry-picking is useful when you want to selectively apply changes from one branch to another.
 
 **Q8: How do you delete a branch in Git?**
 
-A8: To delete a branch in Git, you can use the command \`git branch -d \`. This deletes the specified branch locally. If the branch has not been merged, you can use \`git branch -D \` to force delete it. To delete a remote branch, you can use \`git push origin --delete \`.
+A8: To delete a branch in Git, you can use the command ```git branch -d ```. This deletes the specified branch locally. If the branch has not been merged, you can use ```git branch -D ``` to force delete it. To delete a remote branch, you can use ```git push origin --delete ```.
 
 **Q9: How do you view the commit history in Git?**
 
-A9: You can use the command \`git log\` to view the commit history in Git.
+A9: You can use the command ```git log``` to view the commit history in Git.
 
 **Git interview question and answers for ADVANCED LEVEL**
 
 **Q1: What is Git rebase, and when would you use it?**
 
-A1: Git rebase is a command used to modify the commit history of a branch. It allows you to move, combine, or edit commits. You would use \`git rebase\` when you want to:
+A1: Git rebase is a command used to modify the commit history of a branch. It allows you to move, combine, or edit commits. You would use ```git rebase``` when you want to:
 
 *   Incorporate changes from one branch onto another with a linear commit history.
     
@@ -967,18 +967,18 @@ A1: Git rebase is a command used to modify the commit history of a branch. It al
 *   Edit or reorder commits to improve readability or resolve conflicts.
     
 
-**Q2: What is the difference between \`git pull --rebase\` and \`git pull\`?**
+**Q2: What is the difference between ```git pull --rebase``` and ```git pull```?**
 
-A2: - \`git pull --rebase\` combines the \`git fetch\` and \`git rebase\` commands. It downloads the latest changes from the remote repository and then replays your local commits on top of the updated branch, resulting in a linear commit history.
+A2: - ```git pull --rebase``` combines the ```git fetch``` and ```git rebase``` commands. It downloads the latest changes from the remote repository and then replays your local commits on top of the updated branch, resulting in a linear commit history.
 
-*   \`git pull\` also combines \`git fetch\` and \`git merge\`. It downloads the latest changes and merges them into the current branch, creating a merge commit if necessary.
+*   ```git pull``` also combines ```git fetch``` and ```git merge```. It downloads the latest changes and merges them into the current branch, creating a merge commit if necessary.
     
 
 **Q3: How do you squash multiple commits into a single commit?**
 
 A3: To squash multiple commits into a single commit, you can use the interactive rebase feature:
 
-*   Run \`git rebase -i HEAD~n\`, where \`n\` is the number of commits you want to squash.
+*   Run ```git rebase -i HEAD~n```, where ```n``` is the number of commits you want to squash.
     
 
 *   In the interactive rebase editor, change "pick" to "squash" (or "s") for the commits you want to squash.
@@ -989,16 +989,16 @@ A3: To squash multiple commits into a single commit, you can use the interactive
 
 **Q4: What is the "git reflog" command used for?**
 
-A4: The \`git reflog\` command shows a log of all reference changes in your repository, including branch checkouts, commits, resets, and other operations. It is helpful for recovering lost commits or branches, as it provides a history of recent operations even if branch references have been deleted.
+A4: The ```git reflog``` command shows a log of all reference changes in your repository, including branch checkouts, commits, resets, and other operations. It is helpful for recovering lost commits or branches, as it provides a history of recent operations even if branch references have been deleted.
 
 **Q5: How do you set up Git hooks?**
 
 A5: Git hooks are scripts that can be executed automatically before or after certain Git events, such as commits or pushes. To set up Git hooks:
 
-*   Navigate to the \`.git/hooks\` directory in your repository.
+*   Navigate to the ```.git/hooks``` directory in your repository.
     
 
-*   Rename the hook you want to use (e.g., \`pre-commit.sample\`) to remove the \`.sample\` extension.
+*   Rename the hook you want to use (e.g., ```pre-commit.sample```) to remove the ```.sample``` extension.
     
 
 *   Customize the hook script by adding your desired commands or actions in the corresponding file.
@@ -1006,7 +1006,7 @@ A5: Git hooks are scripts that can be executed automatically before or after cer
 
 **Q6: What is the purpose of the "git bisect" command?**
 
-A6: The \`git bisect\` command helps in finding the specific commit that introduced a bug or regression in your codebase. It performs a binary search through the commit history, automatically checking out different points in time and allowing you to mark commits as good or bad until the faulty commit is identified.
+A6: The ```git bisect``` command helps in finding the specific commit that introduced a bug or regression in your codebase. It performs a binary search through the commit history, automatically checking out different points in time and allowing you to mark commits as good or bad until the faulty commit is identified.
 
 **Q7: How do you sign commits and tags in Git?**
 
@@ -1014,12 +1014,12 @@ A7: Git supports commit and tag signing using GPG (GNU Privacy Guard) to verify 
 
 sign commits and tags:
 
-*   Configure Git to use your GPG key: \`git config --global user.signingkey \`.
+*   Configure Git to use your GPG key: ```git config --global user.signingkey ```.
     
 
-*   Sign commits: \`git commit -S -m "Commit message"\`.
+*   Sign commits: ```git commit -S -m "Commit message"```.
     
-*   Sign tags: \`git tag -s \`.
+*   Sign tags: ```git tag -s ```.
     
 
 **Q8: What are Git submodules?**
@@ -1032,7 +1032,7 @@ A9 : There are various ways to set up a Git server, such as using GitLab, Bitbuc
 
 **Q10: How can you recover a deleted commit in Git?**
 
-A10: If a commit has been deleted or lost, you can use the \`git reflog\` command to find the commit's reference and recover it. Once you identify the commit hash, you can create a new branch or use \`git cherry-pick\` to apply the changes from the recovered commit to the appropriate branch. These advanced-level Git interview questions cover topics that require a deeper understanding of Git's features and workflows. Keep practicing and exploring Git to enhance your proficiency with version control.
+A10: If a commit has been deleted or lost, you can use the ```git reflog``` command to find the commit's reference and recover it. Once you identify the commit hash, you can create a new branch or use ```git cherry-pick``` to apply the changes from the recovered commit to the appropriate branch. These advanced-level Git interview questions cover topics that require a deeper understanding of Git's features and workflows. Keep practicing and exploring Git to enhance your proficiency with version control.
 
 **Git interview question and answers SCENARIO BASED**
 
@@ -1046,11 +1046,11 @@ Sarah can update her local repository with John's changes by running the
 
 following command:
 
-\`\`\`
+`````````
 
 git pull
 
-\`\`\`
+`````````
 
 This command fetches the changes from the remote repository and merges them into Sarah's current branch.
 
@@ -1062,11 +1062,11 @@ Alice has made some changes to a file and committed them locally. However, she r
 
 Alice can undo the last commit by using the following command:
 
-\`\`\`
+`````````
 
 git reset HEAD~1
 
-\`\`\`
+`````````
 
 This command moves the branch pointer one commit behind, effectively removing the last commit. The changes made in that commit will still be present in Alice's working directory, allowing her to make the necessary corrections.
 
@@ -1076,21 +1076,21 @@ Mark is working on a feature branch for a long-running project. However, he want
 
 **Answer 3:**
 
-To switch branches without losing his changes, Mark should first commit his changes on the current branch using the following commands: \`\`\`
+To switch branches without losing his changes, Mark should first commit his changes on the current branch using the following commands: `````````
 
 git add .
 
 git commit -m "Save work in progress"
 
-\`\`\`
+`````````
 
 Then, he can switch to the desired branch using the command:
 
-\`\`\`
+`````````
 
 git checkout
 
-\`\`\`
+`````````
 
 Once he completes the bug fix, he can switch back to the feature branch using the same command and continue his work.
 
@@ -1104,11 +1104,11 @@ Emma can view the history of commits for a specific file by running the
 
 following command:
 
-\`\`\`
+`````````
 
 git log
 
-\`\`\`
+`````````
 
 This command displays the commit history related to the specified file, showing the commit hash, author, date, and commit message for each commit.
 
@@ -1120,15 +1120,15 @@ You've made some changes to a file in your local Git repository and realized tha
 
 To discard the changes and revert the file to its previous state, you can use
 
-the \`git checkout\` command followed by the file name. Here's the
+the ```git checkout``` command followed by the file name. Here's the
 
 command you can use:
 
-\`\`\`
+`````````
 
 git checkout --
 
-\`\`\`
+`````````
 
 This command will replace the current changes in the file with the last committed version, effectively discarding the incorrect changes.
 
@@ -1166,7 +1166,7 @@ You have made some changes in your local branch and want to update it with the l
 
 To split a commit into separate commits, you can use the interactive rebase feature of Git:
 
-1.  Run \`git rebase -i HEAD~n\`, where \`n\` is the number of commits you want to modify, including the commit you want to split.
+1.  Run ```git rebase -i HEAD~n```, where ```n``` is the number of commits you want to modify, including the commit you want to split.
     
 
 1.  In the interactive rebase editor, change "pick" to "edit" (or "e") for the commit you want to split.
@@ -1174,16 +1174,16 @@ To split a commit into separate commits, you can use the interactive rebase feat
 2.  Save and exit the editor. Git will stop at the commit you want to split.
     
 
-1.  Use \`git reset HEAD^\` to unstage the changes from the commit.
+1.  Use ```git reset HEAD^``` to unstage the changes from the commit.
     
 
-1.  Use \`git add\` to selectively stage the changes you want in the new commit.
+1.  Use ```git add``` to selectively stage the changes you want in the new commit.
     
 
-1.  Use \`git commit -m "New commit message"\` to create a new commit with the staged changes.
+1.  Use ```git commit -m "New commit message"``` to create a new commit with the staged changes.
     
 
-1.  Use \`git rebase --continue\` to resume the rebase process and automatically apply the remaining commits.
+1.  Use ```git rebase --continue``` to resume the rebase process and automatically apply the remaining commits.
     
 
 **Scenario 12:**
@@ -1195,16 +1195,16 @@ To remove a sensitive file from Git history, you can use the following steps:
 1.  Make sure you have a backup of the sensitive file.
     
 
-1.  Run \`git filter-branch --tree-filter 'rm -f path/to/sensitive/file' -- --all\` to remove the file from the entire history of all branches.
+1.  Run ```git filter-branch --tree-filter 'rm -f path/to/sensitive/file' -- --all``` to remove the file from the entire history of all branches.
     
 
 1.  Wait for the command to complete. It may take some time, especially for large repositories.
     
 
-1.  After the filter-branch process finishes, run \`git push --force\` to update the remote repository and overwrite its history with the updated local history.
+1.  After the filter-branch process finishes, run ```git push --force``` to update the remote repository and overwrite its history with the updated local history.
     
 
-1.  Communicate with other team members and ensure they also update their local repositories by running \`git fetch --all\` followed by \`git reset -- hard origin/master\` (or the appropriate branch).
+1.  Communicate with other team members and ensure they also update their local repositories by running ```git fetch --all``` followed by ```git reset -- hard origin/master``` (or the appropriate branch).
     
 
 **Scenario 13:**
@@ -1218,10 +1218,10 @@ To set up and manage a collaborative workflow in Git, you can follow these steps
 1.  Create a shared remote repository (e.g., on GitHub, GitLab, or a self-hosted server) and give access to the other developer.
     
 
-1.  Each developer clones the remote repository to their local machine using \`git clone \`.
+1.  Each developer clones the remote repository to their local machine using ```git clone ```.
     
 
-1.  Create a new branch for the feature using \`git checkout -b feature-branch\`.
+1.  Create a new branch for the feature using ```git checkout -b feature-branch```.
     
 
 1.  Develop and make changes in the feature branch, committing and pushing regularly to the remote repository.
@@ -1233,13 +1233,13 @@ To set up and manage a collaborative workflow in Git, you can follow these steps
 1.  Resolve any conflicts that may occur during the review or merge process.
     
 
-1.  After the changes are approved, merge the feature branch into the main branch (or an appropriate branch) using PRs or the \`git merge\` command.
+1.  After the changes are approved, merge the feature branch into the main branch (or an appropriate branch) using PRs or the ```git merge``` command.
     
 
-1.  Delete the feature branch once it is merged: \`git branch -d feature-branch\`.
+1.  Delete the feature branch once it is merged: ```git branch -d feature-branch```.
     
 
-1.  Regularly fetch and pull changes from the remote repository to stay up to date with the work of other developers: \`git fetch origin\` and \`git pull origin \`.
+1.  Regularly fetch and pull changes from the remote repository to stay up to date with the work of other developers: ```git fetch origin``` and ```git pull origin ```.
     
 
 These scenario-based Git interview questions assess your practical knowledge and problem-solving skills related to specific situations that may arise during software development with Git. Remember to understand the underlying concepts and practice Git commands to effectively handle such scenarios.
@@ -1252,20 +1252,20 @@ To revert the commit and apply it to the correct branch, you can follow these st
 
 1.  Identify the commit hash of the commit you want to revert.
     
-2.  Run \`git log\` to find the commit hash and note it down.
+2.  Run ```git log``` to find the commit hash and note it down.
     
 
-1.  Checkout the correct branch using \`git checkout correct-branch\`.
+1.  Checkout the correct branch using ```git checkout correct-branch```.
     
 
-1.  Run \`git cherry-pick \` to apply the commit to the correct branch.
+1.  Run ```git cherry-pick ``` to apply the commit to the correct branch.
     
 2.  Resolve any conflicts that may occur during the cherry-pick process.
     
-3.  After resolving conflicts, commit the changes using \`git commit\`.
+3.  After resolving conflicts, commit the changes using ```git commit```.
     
 
-1.  If you no longer need the commit in the wrong branch, you can run \`git branch -D wrong-branch\` to delete the branch (replace \`wrong-branch\` with the actual branch name).
+1.  If you no longer need the commit in the wrong branch, you can run ```git branch -D wrong-branch``` to delete the branch (replace ```wrong-branch``` with the actual branch name).
     
 
 **Scenario 15:**
@@ -1276,22 +1276,22 @@ To revert the merge and fix the bug, you can follow these steps:
 
 1.  Identify the commit hash of the merge commit that introduced the bug.
     
-2.  Run \`git log\` to find the commit hash and note it down.
+2.  Run ```git log``` to find the commit hash and note it down.
     
 
-1.  Checkout the main branch using \`git checkout main\`.
+1.  Checkout the main branch using ```git checkout main```.
     
 
-1.  Run \`git revert -m 1 \` to create a new commit that undoes the changes from the merge commit. The \`-m 1\` option specifies the main branch as the parent.
+1.  Run ```git revert -m 1 ``` to create a new commit that undoes the changes from the merge commit. The ```-m 1``` option specifies the main branch as the parent.
     
 
 1.  Resolve any conflicts that may occur during the revert process.
     
 
-1.  After resolving conflicts, commit the changes using \`git commit\` with an appropriate message mentioning the bug fix.
+1.  After resolving conflicts, commit the changes using ```git commit``` with an appropriate message mentioning the bug fix.
     
 
-1.  Push the changes to the remote repository using \`git push origin main\` to share the bug fix with other contributors.
+1.  Push the changes to the remote repository using ```git push origin main``` to share the bug fix with other contributors.
     
 
 **Scenario 16:**
@@ -1311,213 +1311,213 @@ To incorporate the latest changes from the main branch into your feature branch,
 1.  Commit or stash any pending changes in your feature branch to avoid conflicts.
     
 
-1.  Checkout the main branch using \`git checkout main\` and run \`git pull\` to fetch and merge the latest changes.
+1.  Checkout the main branch using ```git checkout main``` and run ```git pull``` to fetch and merge the latest changes.
     
-2.  Checkout your feature branch again using \`git checkout feature-branch\`.
+2.  Checkout your feature branch again using ```git checkout feature-branch```.
     
 
-1.  Run \`git merge main\` to merge the changes from the main branch into your feature branch.
+1.  Run ```git merge main``` to merge the changes from the main branch into your feature branch.
     
 
 1.  Resolve any conflicts that may occur during the merge process.
     
-2.  After resolving conflicts, commit the changes using \`git commit\`.
+2.  After resolving conflicts, commit the changes using ```git commit```.
     
 
-1.  If you had stashed changes in step 1, you can apply them again using \`git stash apply\` or \`git stash pop\`.
+1.  If you had stashed changes in step 1, you can apply them again using ```git stash apply``` or ```git stash pop```.
     
 
 These additional scenario-based Git interview questions delve into specific situations you may encounter while working with Git in real-world scenarios. Understanding the concepts behind each scenario will help you respond effectively and demonstrate your proficiency in Git.
 
 **GIT Commands**
 
-1.  **git init: Initialize a new Git repository.** Example: \`git init\`
+1.  **git init: Initialize a new Git repository.** Example: ```git init```
     
 
-1.  **git clone: Clone a remote repository to your local machine.** Example: \`git clone https://github.com/user/repo.git\`
+1.  **git clone: Clone a remote repository to your local machine.** Example: ```git clone https://github.com/user/repo.git```
     
 
 1.  **git add: Add files or changes to the staging area.**
     
 
-Example: \`git add file.txt\`
+Example: ```git add file.txt```
 
-1.  **git commit: Commit the staged changes to the repository.** Example: \`git commit -m "Commit message"\`
+1.  **git commit: Commit the staged changes to the repository.** Example: ```git commit -m "Commit message"```
     
 
-1.  **git status: Show the current status of the repository.** Example: \`git status\`
+1.  **git status: Show the current status of the repository.** Example: ```git status```
     
 
 1.  **git log: View the commit history.**
     
 
-Example: \`git log\`
+Example: ```git log```
 
-1.  **git diff: Show the differences between files or commits.** Example: \`git diff file.txt\`
+1.  **git diff: Show the differences between files or commits.** Example: ```git diff file.txt```
     
 
 1.  **git branch: List, create, or delete branches.**
     
 
-Example: \`git branch branchname\`
+Example: ```git branch branchname```
 
-1.  **git checkout: Switch to a different branch.** Example: \`git checkout branchname\`
+1.  **git checkout: Switch to a different branch.** Example: ```git checkout branchname```
     
 
-1.  **git merge: Merge changes from one branch into another.** Example: \`git merge branchname\`
+1.  **git merge: Merge changes from one branch into another.** Example: ```git merge branchname```
     
 
-**11\. git remote: Manage remote repositories.**
+**11. git remote: Manage remote repositories.**
 
-Example: \`git remote add origin https://github.com/user/repo.git\`
+Example: ```git remote add origin https://github.com/user/repo.git```
 
-1.  **git push: Push local changes to a remote repository.** Example: \`git push origin branchname\`
+1.  **git push: Push local changes to a remote repository.** Example: ```git push origin branchname```
     
 
-1.  **git pull: Fetch and merge changes from a remote repository.** Example: \`git pull origin branchname\`
+1.  **git pull: Fetch and merge changes from a remote repository.** Example: ```git pull origin branchname```
     
 
 1.  **git fetch: Fetch changes from a remote repository.**
     
 
-Example: \`git fetch origin\`
+Example: ```git fetch origin```
 
-1.  **git stash: Save changes that are not ready to be committed.** Example: \`git stash\`
+1.  **git stash: Save changes that are not ready to be committed.** Example: ```git stash```
     
 
 1.  **git stash pop: Apply the most recent stash and remove it from the stash list.**
     
 
-Example: \`git stash pop\`
+Example: ```git stash pop```
 
 1.  **git reset: Reset the repository to a previous commit.**
     
 
-Example: \`git reset commit\_hash\`
+Example: ```git reset commit\_hash```
 
-1.  **git revert: Create a new commit that undoes a previous commit.** Example: \`git revert commit\_hash\`
+1.  **git revert: Create a new commit that undoes a previous commit.** Example: ```git revert commit\_hash```
     
 
 1.  **git tag: Create and manage tags for marking specific points in history.**
     
 
-Example: \`git tag v1.0.0\`
+Example: ```git tag v1.0.0```
 
-1.  **git remote -v: View the URLs of the remote repositories.** Example: \`git remote -v\`
+1.  **git remote -v: View the URLs of the remote repositories.** Example: ```git remote -v```
     
 
 1.  **git config: Set or get repository options.**
     
 
-Example: \`git config --global user.name "Your Name"\`
+Example: ```git config --global user.name "Your Name"```
 
-1.  **git show: Show the details of a specific commit.** Example: \`git show commit\_hash\`
+1.  **git show: Show the details of a specific commit.** Example: ```git show commit\_hash```
     
 
 1.  **git cherry-pick: Apply a specific commit from one branch to another.**
     
 
-Example: \`git cherry-pick commit\_hash\`
+Example: ```git cherry-pick commit\_hash```
 
-1.  **git rebase: Reapply commits on top of another base commit.** Example: \`git rebase branchname\`
+1.  **git rebase: Reapply commits on top of another base commit.** Example: ```git rebase branchname```
     
 
-1.  **git blame: Show who changed which lines in a file.** Example: \`git blame file.txt\`
+1.  **git blame: Show who changed which lines in a file.** Example: ```git blame file.txt```
     
 
 1.  **git remote add: Add a new remote repository.**
     
 
-Example: \`git remote add origin https://github.com/user/repo.git\`
+Example: ```git remote add origin https://github.com/user/repo.git```
 
-1.  **git remote remove: Remove a remote repository.** Example: \`git remote remove origin\`
+1.  **git remote remove: Remove a remote repository.** Example: ```git remote remove origin```
     
 
-1.  **git log --oneline: Show the commit history in a condensed format.** Example: \`git log --oneline\`
+1.  **git log --oneline: Show the commit history in a condensed format.** Example: ```git log --oneline```
     
 
 1.  **git log --graph: Show the commit history in a graphical representation.**
     
 
-Example: \`git log --graph\`
+Example: ```git log --graph```
 
-1.  **git log --author: Show the commit history by a specific author.** Example: \`git log --author "John Doe"\`
+1.  **git log --author: Show the commit history by a specific author.** Example: ```git log --author "John Doe"```
     
 
 1.  **git blame: Show who changed which lines in a file.**
     
 
-Example: \`git blame file.txt\`
+Example: ```git blame file.txt```
 
 1.  **git branch -d: Delete a branch.** Example:
     
 
-\`git branch -d branchname\`
+```git branch -d branchname```
 
-1.  **git branch -m: Rename a branch.** Example: \`git branch -m new\_branchname\`
+1.  **git branch -m: Rename a branch.** Example: ```git branch -m new\_branchname```
     
 
-1.  **git show-branch: Show branches and their commits.** Example: \`git show-branch\`
+1.  **git show-branch: Show branches and their commits.** Example: ```git show-branch```
     
 
-1.  **git clean: Remove untracked files from the working directory.** Example: \`git clean -f\`
+1.  **git clean: Remove untracked files from the working directory.** Example: ```git clean -f```
     
 
 1.  **git remote prune: Remove remote-tracking branches that no longer exist on the remote.**
     
 
-Example: \`git remote prune origin\`
+Example: ```git remote prune origin```
 
 1.  **git log --grep: Show the commit history that matches a specific pattern.**
     
 
-Example: \`git log --grep "bug fix"\`
+Example: ```git log --grep "bug fix"```
 
-1.  **git log --since: Show the commit history since a specific date.** Example: \`git log --since "2022-01-01"\`
+1.  **git log --since: Show the commit history since a specific date.** Example: ```git log --since "2022-01-01"```
     
 
-1.  **git log --until: Show the commit history until a specific date.** Example: \`git log --until "2022-12-31"\`
+1.  **git log --until: Show the commit history until a specific date.** Example: ```git log --until "2022-12-31"```
     
 
 1.  **git bisect: Find the commit that introduced a bug using binary search.**
     
 
-Example: \`git bisect start\`
+Example: ```git bisect start```
 
-1.  **git reflog: Show a log of all reference changes in the repository.** Example: \`git reflog\`
+1.  **git reflog: Show a log of all reference changes in the repository.** Example: ```git reflog```
     
 
-1.  **git remote show: Show information about a remote repository.** Example: \`git remote show origin\`
+1.  **git remote show: Show information about a remote repository.** Example: ```git remote show origin```
     
 
 1.  **git revert --no-commit: Revert changes but do not create a new commit.**
     
 
-Example: \`git revert --no-commit commit\_hash\`
+Example: ```git revert --no-commit commit\_hash```
 
 1.  **git reset --hard: Discard all changes and reset the repository to a specific commit.**
     
 
-Example: \`git reset --hard commit\_hash\`
+Example: ```git reset --hard commit\_hash```
 
-1.  **git config --global alias: Set up an alias for a Git command.** Example: \`git config --global alias.ci commit\`
+1.  **git config --global alias: Set up an alias for a Git command.** Example: ```git config --global alias.ci commit```
     
 
-1.  **git archive: Create a tar or zip archive of a Git repository.** Example: \`git archive --format=zip --output=archive.zip master\`
+1.  **git archive: Create a tar or zip archive of a Git repository.** Example: ```git archive --format=zip --output=archive.zip master```
     
 
-1.  **git submodule: Manage Git submodules within a repository.** Example: \`git submodule add https://github.com/user/repo.git\`
+1.  **git submodule: Manage Git submodules within a repository.** Example: ```git submodule add https://github.com/user/repo.git```
     
 
 1.  **git clean -n: Dry run of git clean to preview files that will be removed.**
     
 
-Example: \`git clean -n\`
+Example: ```git clean -n```
 
-1.  **git log --follow: Show the commit history of a renamed file.** Example: \`git log --follow file.txt\`
+1.  **git log --follow: Show the commit history of a renamed file.** Example: ```git log --follow file.txt```
     
 
-1.  **git show-branch --all: Show the commit history of all branches.** Example: \`git show-branch --all\`
+1.  **git show-branch --all: Show the commit history of all branches.** Example: ```git show-branch --all```
     
 
 **Maven Interview Question & Answers**
@@ -1534,7 +1534,7 @@ A2: POM stands for Project Object Model. It is an XML file that contains informa
 
 **Q3: How do you define a dependency in Maven?**
 
-A3: Dependencies are declared within the \`\` section of the POM file. You specify the dependency coordinates, including the group ID, artifact ID, and version, which Maven uses to resolve and download the required JAR files.
+A3: Dependencies are declared within the `````` section of the POM file. You specify the dependency coordinates, including the group ID, artifact ID, and version, which Maven uses to resolve and download the required JAR files.
 
 **Q4: What is a Maven repository?**
 
@@ -1542,7 +1542,7 @@ A4: A Maven repository is a directory or a centralized location that contains Ma
 
 **Q5: How do you execute a Maven build?**
 
-A5: To execute a Maven build, navigate to the project's root directory containing the POM file and run the command \`mvn clean install\`. This command triggers the build process, which compiles the source code, runs tests, packages the project, and installs the resulting artifact into the local repository.
+A5: To execute a Maven build, navigate to the project's root directory containing the POM file and run the command ```mvn clean install```. This command triggers the build process, which compiles the source code, runs tests, packages the project, and installs the resulting artifact into the local repository.
 
 **Q6: What is the purpose of the Maven lifecycle?**
 
@@ -1550,19 +1550,19 @@ A6: The Maven lifecycle defines a series of predefined build phases and goals. E
 
 **Q7: Explain the difference between compile-time and runtime dependencies in Maven.**
 
-A7: Compile-time dependencies are required for the compilation of the source code and are specified in the \`\` section of the POM file. Runtime dependencies, on the other hand, are only needed when the compiled code is executed and are specified in the \`\` section of the POM file.
+A7: Compile-time dependencies are required for the compilation of the source code and are specified in the `````` section of the POM file. Runtime dependencies, on the other hand, are only needed when the compiled code is executed and are specified in the `````` section of the POM file.
 
 **Q8: What is the purpose of a Maven plugin?**
 
-A8: Maven plugins are used to extend the build process and provide additional functionality. Plugins can perform tasks such as compiling code, running tests, generating reports, deploying artifacts, and more. They are configured in the POM file under the \`\` section.
+A8: Maven plugins are used to extend the build process and provide additional functionality. Plugins can perform tasks such as compiling code, running tests, generating reports, deploying artifacts, and more. They are configured in the POM file under the `````` section.
 
 **Q9: How do you create a Maven project from scratch?**
 
-A9: To create a Maven project from scratch, you can use the Maven Archetype plugin. Run the command \`mvn archetype:generate\` and select an appropriate archetype, such as \`maven-archetype-quickstart\`. Maven will generate the project structure and necessary files based on the selected archetype.
+A9: To create a Maven project from scratch, you can use the Maven Archetype plugin. Run the command ```mvn archetype:generate``` and select an appropriate archetype, such as ```maven-archetype-quickstart```. Maven will generate the project structure and necessary files based on the selected archetype.
 
-**Q10: What is the purpose of the \`mvn clean\` command?**
+**Q10: What is the purpose of the ```mvn clean``` command?**
 
-A10: The \`mvn clean\` command is used to remove the build artifacts and temporary files generated by Maven during the build process. It cleans the project by deleting the \`target\` directory, allowing for a fresh build without any remnants from previous builds.
+A10: The ```mvn clean``` command is used to remove the build artifacts and temporary files generated by Maven during the build process. It cleans the project by deleting the ```target``` directory, allowing for a fresh build without any remnants from previous builds.
 
 These are some common Maven interview questions for beginners. Make sure to understand the basics of Maven, including the POM file structure, dependency management, and build lifecycle, to prepare for your interview.
 
@@ -1570,11 +1570,11 @@ These are some common Maven interview questions for beginners. Make sure to unde
 
 **Q1: What are profiles in Maven?**
 
-A1: Profiles in Maven allow you to define different build configurations for different environments or scenarios. They can be used to customize the build process based on specific requirements such as development, testing, or production. Profiles are defined in the POM file and can be activated based on conditions specified in the \`\` section.
+A1: Profiles in Maven allow you to define different build configurations for different environments or scenarios. They can be used to customize the build process based on specific requirements such as development, testing, or production. Profiles are defined in the POM file and can be activated based on conditions specified in the `````` section.
 
 **Q2: How can you skip tests during a Maven build?**
 
-A2: You can skip tests during a Maven build by using the \`-DskipTests\` or \`-Dmaven.test.skip=true\` command-line options. The former skips the test phase, but still compiles the tests, while the latter skips both compilation and execution of tests.
+A2: You can skip tests during a Maven build by using the ```-DskipTests``` or ```-Dmaven.test.skip=true``` command-line options. The former skips the test phase, but still compiles the tests, while the latter skips both compilation and execution of tests.
 
 **Q3: What is the purpose of the Maven Repository?**
 
@@ -1582,7 +1582,7 @@ A3: The Maven Repository is a central location where Maven retrieves dependencie
 
 **Q4: How do you exclude a transitive dependency in Maven?**
 
-A4: To exclude a transitive dependency in Maven, you can use the \`\` element within the \`\` declaration. By specifying the group ID and artifact ID of the transitive dependency to exclude, Maven will prevent it from being included in the build.
+A4: To exclude a transitive dependency in Maven, you can use the `````` element within the `````` declaration. By specifying the group ID and artifact ID of the transitive dependency to exclude, Maven will prevent it from being included in the build.
 
 **Q5: What is the purpose of the Maven Shade Plugin?**
 
@@ -1596,15 +1596,15 @@ A6: In Maven, a snapshot version is a development version of an artifact that is
 
 **Q7: How can you create custom Maven plugins?**
 
-A7: Custom Maven plugins can be created by implementing the Mojo (Maven Plain Old Java Object) concept. By defining a class that extends the \`AbstractMojo\` class, you can implement your plugin logic within the \`execute()\` method. The plugin should be packaged as a JAR file and configured in the POM file under the \`\` section.
+A7: Custom Maven plugins can be created by implementing the Mojo (Maven Plain Old Java Object) concept. By defining a class that extends the ```AbstractMojo``` class, you can implement your plugin logic within the ```execute()``` method. The plugin should be packaged as a JAR file and configured in the POM file under the `````` section.
 
-**Q8: What is the purpose of the \`mvn deploy\` command in Maven?**
+**Q8: What is the purpose of the ```mvn deploy``` command in Maven?**
 
-A8: The \`mvn deploy\` command is used to deploy built artifacts to a remote repository. It is typically used to publish release versions of an artifact to a central repository or a dedicated artifact repository manager.
+A8: The ```mvn deploy``` command is used to deploy built artifacts to a remote repository. It is typically used to publish release versions of an artifact to a central repository or a dedicated artifact repository manager.
 
 **Q9: How can you specify a custom local repository location in Maven?**
 
-A9: You can specify a custom local repository location by modifying the \`settings.xml\` file in your Maven installation. Inside the \`\` element, add or modify the \`\` element and specify the desired directory path.
+A9: You can specify a custom local repository location by modifying the ```settings.xml``` file in your Maven installation. Inside the `````` element, add or modify the `````` element and specify the desired directory path.
 
 **Q10: What are Maven parent POMs and how are they useful?**
 
@@ -1626,7 +1626,7 @@ A1: The Maven reactor is the mechanism used by Maven to build multiple projects 
 
 **Q2: Explain the concept of Maven profiles with activation based on properties.**
 
-A2: Maven profiles can be activated based on specific properties. You can define activation conditions in the \`\` section of a profile, such as the existence or non-existence of a property, its value, or the value of another property. This allows for dynamic activation of profiles based on the project's context or environment.
+A2: Maven profiles can be activated based on specific properties. You can define activation conditions in the `````` section of a profile, such as the existence or non-existence of a property, its value, or the value of another property. This allows for dynamic activation of profiles based on the project's context or environment.
 
 **Q3: What is the purpose of the Maven Release Plugin?**
 
@@ -1640,7 +1640,7 @@ A4: Maven plugin executions allow you to bind plugin goals to specific phases of
 
 A5: Maven archetypes are project templates that help in creating new projects based on a specific structure, configuration, and set of dependencies. They provide a quick and standardized way to bootstrap new projects with pre-defined configurations and initial files. Maven
 
-archetypes are typically used with the \`mvn archetype:generate\` command to generate project skeletons.
+archetypes are typically used with the ```mvn archetype:generate``` command to generate project skeletons.
 
 **Q6: What is the purpose of the Maven enforcer plugin?**
 
@@ -1648,7 +1648,7 @@ A6: The Maven Enforcer Plugin helps in enforcing certain rules or constraints on
 
 **Q7: How can you control the order of plugin executions in Maven?**
 
-A7: By default, plugins in Maven are executed in the order they are declared in the POM file. However, you can explicitly control the order of plugin executions by using the \`\` element within the \`\` section. By specifying the desired order using the \`\` element, you can enforce a specific execution sequence.
+A7: By default, plugins in Maven are executed in the order they are declared in the POM file. However, you can explicitly control the order of plugin executions by using the `````` element within the `````` section. By specifying the desired order using the `````` element, you can enforce a specific execution sequence.
 
 **Q8: What are Maven multi-module projects?**
 
@@ -1660,9 +1660,9 @@ A9: The Maven BOM is a special type of POM file that is used to manage and centr
 
 **Q10: How can you configure Maven to use a proxy for accessing remote repositories?**
 
-A10: To configure Maven to use a proxy, you can modify the \`settings.xml\` file located in the Maven installation directory or in the user's home directory.
+A10: To configure Maven to use a proxy, you can modify the ```settings.xml``` file located in the Maven installation directory or in the user's home directory.
 
-Inside the \`\` element, add or modify the \`\` element and provide the necessary details such as the proxy host, port, and authentication settings.
+Inside the `````` element, add or modify the `````` element and provide the necessary details such as the proxy host, port, and authentication settings.
 
 These advanced-level Maven interview questions should test your in-depth knowledge of Maven and its advanced features. It's important to have hands-on experience with Maven, including working with complex project structures, understanding plugin configurations, and using Maven in real-world scenarios.
 
@@ -1684,10 +1684,10 @@ Answer 2:
 
 To improve build performance in this scenario, you can consider the following strategies:
 
-1.  Utilize incremental builds: Configure Maven to perform incremental builds by enabling the \`true\` option. This ensures that only modified source files are recompiled, reducing build time.
+1.  Utilize incremental builds: Configure Maven to perform incremental builds by enabling the ```true``` option. This ensures that only modified source files are recompiled, reducing build time.
     
 
-1.  Use parallel builds: Enable parallel builds using the \`\` option in the \`\` section of the POM file. Maven can execute multiple modules in parallel, leveraging the available CPU cores to speed up the build process.
+1.  Use parallel builds: Enable parallel builds using the `````` option in the `````` section of the POM file. Maven can execute multiple modules in parallel, leveraging the available CPU cores to speed up the build process.
     
 
 1.  Optimize dependency resolution: Analyze your project's dependency tree and identify any unnecessary or redundant dependencies. Remove any unused or conflicting dependencies to reduce the amount of work Maven needs to do during dependency resolution.
@@ -1704,7 +1704,7 @@ dependency retrieval by caching artifacts locally, reducing the reliance on remo
 
 Answer 3:
 
-To manage non-Mavenized JAR files in your Maven project, you can use the Maven Install Plugin to install these JARs into your local repository. Run the command \`mvn install:install-file -Dfile= - DgroupId= -DartifactId= -Dversion= - Dpackaging=\` for each JAR file, providing the necessary details such as group ID, artifact ID, version, and packaging. After installation, you can declare these dependencies in your POM file like any other Maven dependency.
+To manage non-Mavenized JAR files in your Maven project, you can use the Maven Install Plugin to install these JARs into your local repository. Run the command ```mvn install:install-file -Dfile= - DgroupId= -DartifactId= -Dversion= - Dpackaging=``` for each JAR file, providing the necessary details such as group ID, artifact ID, version, and packaging. After installation, you can declare these dependencies in your POM file like any other Maven dependency.
 
 **Scenario 4:**
 
@@ -1712,7 +1712,7 @@ To manage non-Mavenized JAR files in your Maven project, you can use the Maven I
 
 Answer 4:
 
-To configure a custom repository in your Maven project, you can add a \`\` section in your POM file or modify the global \`settings.xml\` file. In the \`\` section, define the URL, ID, and other necessary details of your custom repository. Alternatively, in the \`settings.xml\` file, add a \`\` element with the desired repository configuration. Ensure that the repository is accessible and contains the necessary artifacts for your project.
+To configure a custom repository in your Maven project, you can add a `````` section in your POM file or modify the global ```settings.xml``` file. In the `````` section, define the URL, ID, and other necessary details of your custom repository. Alternatively, in the ```settings.xml``` file, add a `````` element with the desired repository configuration. Ensure that the repository is accessible and contains the necessary artifacts for your project.
 
 **Scenario 5:**
 
@@ -1720,106 +1720,106 @@ To configure a custom repository in your Maven project, you can add a \`\` secti
 
 Answer 5:
 
-To skip the execution of tests for a specific module in a multi-module Maven project, you can use the \`-DskipTests\` option during the build. Run the command \`mvn install -DskipTests\` in the parent project directory, and Maven will skip the test phase for all modules. If you want to skip tests for a specific module only, navigate to that module's directory and run the same
+To skip the execution of tests for a specific module in a multi-module Maven project, you can use the ```-DskipTests``` option during the build. Run the command ```mvn install -DskipTests``` in the parent project directory, and Maven will skip the test phase for all modules. If you want to skip tests for a specific module only, navigate to that module's directory and run the same
 
-command. Alternatively, you can configure the \`\` property to \`true\` in the module's POM file to skip tests for that specific module. These scenario-based Maven interview questions test your ability to handle practical situations and apply Maven's features and configurations accordingly. It's important to have a good understanding of Maven's capabilities and best practices to tackle real-world scenarios effectively.
+command. Alternatively, you can configure the `````` property to ```true``` in the module's POM file to skip tests for that specific module. These scenario-based Maven interview questions test your ability to handle practical situations and apply Maven's features and configurations accordingly. It's important to have a good understanding of Maven's capabilities and best practices to tackle real-world scenarios effectively.
 
 **Maven Commands**
 
-1.  **\`mvn archetype:generate\`**: Generates a new Maven project from an archetype/template.
+1.  **```mvn archetype:generate```**: Generates a new Maven project from an archetype/template.
     
 
-1.  **\`mvn clean\`**: Cleans the project by deleting the target directory.
+1.  **```mvn clean```**: Cleans the project by deleting the target directory.
     
-2.  **\`mvn compile**\`: Compiles the source code of the project.
+2.  **```mvn compile**```: Compiles the source code of the project.
     
-3.  **\`mvn test\`**: Runs the tests in the project.
-    
-
-1.  **\`mvn package\`**: Packages the compiled code and resources into a distributable format.
+3.  **```mvn test```**: Runs the tests in the project.
     
 
-1.  **\`mvn install\`**: Installs the packaged artifact into the local repository.
-    
-2.  **\`mvn deploy**\`: Deploys the packaged artifact to a remote repository.
+1.  **```mvn package```**: Packages the compiled code and resources into a distributable format.
     
 
-1.  **\`mvn dependency:tree\`**: Displays the project's dependency tree.
+1.  **```mvn install```**: Installs the packaged artifact into the local repository.
+    
+2.  **```mvn deploy**```: Deploys the packaged artifact to a remote repository.
     
 
-1.  **\`mvn dependency:resolve**\`: Resolves and downloads dependencies for the project.
+1.  **```mvn dependency:tree```**: Displays the project's dependency tree.
     
 
-1.  **\`mvn dependency:purge-local-repository\`**: Deletes the project dependencies from the local repository.
+1.  **```mvn dependency:resolve**```: Resolves and downloads dependencies for the project.
     
 
-1.  **\`mvn site\`**: Generates a site documentation for the project.
+1.  **```mvn dependency:purge-local-repository```**: Deletes the project dependencies from the local repository.
     
 
-1.  **\`mvn clean install -DskipTests**\`: Cleans the project, installs the artifact, and skips running tests.
+1.  **```mvn site```**: Generates a site documentation for the project.
     
 
-1.  **\`mvn clean compile exec:java**\`: Cleans the project, compiles the code, and executes a Java class.
+1.  **```mvn clean install -DskipTests**```: Cleans the project, installs the artifact, and skips running tests.
     
 
-1.  **\`mvn clean package -DskipTests\`**: Cleans the project, packages the artifact, and skips running tests.
+1.  **```mvn clean compile exec:java**```: Cleans the project, compiles the code, and executes a Java class.
     
 
-1.  **\`mvn clean test -Dtest=TestClass\`**: Cleans the project and runs a specific test class.
+1.  **```mvn clean package -DskipTests```**: Cleans the project, packages the artifact, and skips running tests.
     
 
-1.  **\`mvn clean test -Dtest=TestClass#testMethod**\`: Cleans the project and runs a specific test method.
+1.  **```mvn clean test -Dtest=TestClass```**: Cleans the project and runs a specific test class.
     
 
-1.  **\`mvn clean verify\`**: Cleans the project and verifies that the project is valid and meets quality criteria.
-    
-2.  **\`mvn dependency:list**\`: Lists all dependencies used by the project.
+1.  **```mvn clean test -Dtest=TestClass#testMethod**```: Cleans the project and runs a specific test method.
     
 
-1.  **\`mvn dependency:analyze\`**: Analyzes project dependencies and produces a report.
+1.  **```mvn clean verify```**: Cleans the project and verifies that the project is valid and meets quality criteria.
+    
+2.  **```mvn dependency:list**```: Lists all dependencies used by the project.
     
 
-1.  **\`mvn help:describe\`**: Provides information about a Maven plugin or goal.
+1.  **```mvn dependency:analyze```**: Analyzes project dependencies and produces a report.
     
 
-1.  **\`mvn versions:display-dependency-updates\`**: Displays newer versions of project dependencies.
+1.  **```mvn help:describe```**: Provides information about a Maven plugin or goal.
     
 
-1.  **\`mvn versions:display-plugin-updates\`**: Displays newer versions of project plugins.
+1.  **```mvn versions:display-dependency-updates```**: Displays newer versions of project dependencies.
     
 
-1.  **\`mvn compiler:compile\`**: Compiles the project's source code using a specific compiler configuration.
+1.  **```mvn versions:display-plugin-updates```**: Displays newer versions of project plugins.
     
 
-1.  **\`mvn surefire:test\`**: Runs tests using the Surefire plugin.
+1.  **```mvn compiler:compile```**: Compiles the project's source code using a specific compiler configuration.
     
 
-1.  **\`mvn failsafe:integration-test\`**: Runs integration tests using the Failsafe plugin.
+1.  **```mvn surefire:test```**: Runs tests using the Surefire plugin.
     
 
-1.  **\`mvn tomcat:run\`**: Runs the project on an embedded Tomcat server.
-    
-2.  **\`mvn jetty:run\`**: Runs the project on an embedded Jetty server.
+1.  **```mvn failsafe:integration-test```**: Runs integration tests using the Failsafe plugin.
     
 
-1.  **\`mvn checkstyle:check\`**: Runs Checkstyle to check the code against defined coding standards.
+1.  **```mvn tomcat:run```**: Runs the project on an embedded Tomcat server.
+    
+2.  **```mvn jetty:run```**: Runs the project on an embedded Jetty server.
     
 
-1.  **\`mvn findbugs:findbugs\`**: Runs FindBugs to perform static code analysis.
+1.  **```mvn checkstyle:check```**: Runs Checkstyle to check the code against defined coding standards.
     
 
-1.  **\`mvn cobertura:cobertura\`**: Generates code coverage report using Cobertura.
+1.  **```mvn findbugs:findbugs```**: Runs FindBugs to perform static code analysis.
+    
+
+1.  **```mvn cobertura:cobertura```**: Generates code coverage report using Cobertura.
     
 
 **Jenkins Interview Question & Answers**
 
 **Jenkins interview question and answers for BEGINER LEVEL**
 
-**1\. What is Jenkins?**
+**1. What is Jenkins?**
 
 Jenkins is an open-source automation tool that helps in continuous integration and continuous delivery (CI/CD) of software projects. It automates the building, testing, and deployment of applications, allowing developers to integrate their code changes frequently and detect issues early in the development process.
 
-**2\. How does Jenkins work?**
+**2. How does Jenkins work?**
 
 Jenkins works by allowing users to create jobs that perform specific tasks. These jobs are configured to trigger automatically based on certain events, such as code commits, time schedules, or manual triggers. Jenkins pulls
 
@@ -1828,15 +1828,15 @@ the latest code changes from the version control system, builds the project, run
 1.  **What are the key features of Jenkins?** Some key features of Jenkins include:
     
 
-\- Continuous integration and continuous delivery (CI/CD) capabilities - Extensibility through a large number of plugins
+- Continuous integration and continuous delivery (CI/CD) capabilities - Extensibility through a large number of plugins
 
-\- Distributed builds and support for parallel execution - Easy installation and configuration
+- Distributed builds and support for parallel execution - Easy installation and configuration
 
-\- Robust error handling and notifications
+- Robust error handling and notifications
 
-\- Support for various version control systems and build tools
+- Support for various version control systems and build tools
 
-\- Detailed reports and logs for better visibility into the build process
+- Detailed reports and logs for better visibility into the build process
 
 1.  **How can you install Jenkins?**
     
@@ -1849,17 +1849,17 @@ the latest code changes from the version control system, builds the project, run
 *   Open a terminal or command prompt and navigate to the directory where the Jenkins WAR file is located.
     
 
-*   Run the command: \`java -jar jenkins.war\`
+*   Run the command: ```java -jar jenkins.war```
     
 
-*   Jenkins will start and can be accessed through a web browser using the URL: \`http://localhost:8080\`
+*   Jenkins will start and can be accessed through a web browser using the URL: ```http://localhost:8080```
     
 
-**5\. What are Jenkins plugins?**
+**5. What are Jenkins plugins?**
 
 Jenkins plugins are extensions that enhance the functionality of Jenkins. They allow you to add new features, integrate with third-party tools, and customize the behavior of Jenkins. There is a wide range of plugins available for different purposes, such as source code management, build tools, testing frameworks, deployment, and more.
 
-**6\. How do you create a Jenkins job?**
+**6. How do you create a Jenkins job?**
 
 To create a Jenkins job, follow these steps:
 
@@ -1875,19 +1875,19 @@ To create a Jenkins job, follow these steps:
 *   Save the job configuration, and Jenkins will start executing it based on the triggers you have set.
     
 
-**7\. What is a Jenkins pipeline?**
+**7. What is a Jenkins pipeline?**
 
 A Jenkins pipeline is a way to define and manage the entire CI/CD process in code. It allows you to define the stages, steps, and conditions for your build, test, and deployment processes using a Jenkinsfile, which is written in Groovy. Pipelines provide better visibility, reusability, and version control for your CI/CD workflows.
 
-**8\. How do you define a Jenkins pipeline?**
+**8. How do you define a Jenkins pipeline?**
 
 To define a Jenkins pipeline, you need to create a Jenkinsfile in the root directory of your project. The Jenkinsfile contains the script that defines the pipeline stages and steps. You can define the pipeline using either the declarative syntax or the scripted syntax, depending on your preference and requirements.
 
-**9\. What are Jenkins agents?**
+**9. What are Jenkins agents?**
 
 Jenkins agents (formerly known as slaves) are machines that are connected to the Jenkins master and execute the build and deployment tasks. Agents can be distributed across different machines, allowing parallel execution of jobs and scaling the build capacity. They communicate with the Jenkins master to receive instructions and report the build status.
 
-**10\. How can you secure Jenkins?**
+**10. How can you secure Jenkins?**
 
 To secure Jenkins, you can take the following measures:
 
@@ -1923,7 +1923,7 @@ Scripted pipelines in Jenkins use a Groovy-based scripting syntax to define the 
 1.  **How do you handle Jenkins pipeline failures and retries?**
     
 
-In Jenkins pipelines, you can handle failures and retries using error handling and exception handling techniques. For example, you can use the \`catch\` block to catch specific exceptions and define appropriate actions, such as sending notifications, retrying a failed stage, or marking the build as unstable or failed based on certain conditions.
+In Jenkins pipelines, you can handle failures and retries using error handling and exception handling techniques. For example, you can use the ```catch``` block to catch specific exceptions and define appropriate actions, such as sending notifications, retrying a failed stage, or marking the build as unstable or failed based on certain conditions.
 
 1.  **How can you parameterize Jenkins jobs to make them more flexible?**
     
@@ -1942,41 +1942,41 @@ to the Jenkins master. Agents can be set up on different physical or virtual mac
 
 Some best practices for Jenkins pipelines include:
 
-\- Keeping pipelines modular and reusable by using shared libraries and functions.
+- Keeping pipelines modular and reusable by using shared libraries and functions.
 
-\- Using proper error handling and notifications for failed builds.
+- Using proper error handling and notifications for failed builds.
 
-\- Following the "Single Responsibility Principle" and keeping pipelines focused on specific tasks.
+- Following the "Single Responsibility Principle" and keeping pipelines focused on specific tasks.
 
-\- Utilizing parallel stages and agents for faster builds.
+- Utilizing parallel stages and agents for faster builds.
 
-\- Using version control for Jenkinsfiles and regularly reviewing and updating them.
+- Using version control for Jenkinsfiles and regularly reviewing and updating them.
 
-\- Using code linters and static analysis tools to ensure pipeline code quality.
+- Using code linters and static analysis tools to ensure pipeline code quality.
 
 1.  **How can you integrate Jenkins with external tools or services?** Jenkins provides a wide range of plugins to integrate with various external tools and services. Some common integrations include:
     
 
-\- Version control systems (e.g., Git, SVN) - Build tools (e.g., Maven, Gradle)
+- Version control systems (e.g., Git, SVN) - Build tools (e.g., Maven, Gradle)
 
-\- Testing frameworks (e.g., JUnit, Selenium)
+- Testing frameworks (e.g., JUnit, Selenium)
 
-\- Artifact repositories (e.g., Nexus, Artifactory)
+- Artifact repositories (e.g., Nexus, Artifactory)
 
-\- Deployment and orchestration tools (e.g., Ansible, Kubernetes) - Notification services (e.g., Slack, email)
+- Deployment and orchestration tools (e.g., Ansible, Kubernetes) - Notification services (e.g., Slack, email)
 
 1.  **How can you achieve high availability and scalability in a Jenkins setup?**
     
 
 To achieve high availability and scalability in a Jenkins setup, you can: - Set up a Jenkins master with multiple agents in a distributed configuration.
 
-\- Use load balancers to distribute incoming requests across multiple Jenkins masters.
+- Use load balancers to distribute incoming requests across multiple Jenkins masters.
 
-\- Employ cloud-based infrastructure to dynamically scale agents based on demand.
+- Employ cloud-based infrastructure to dynamically scale agents based on demand.
 
-\- Implement Jenkins master-slave setups for redundancy.
+- Implement Jenkins master-slave setups for redundancy.
 
-\- Regularly back up and restore Jenkins data to prevent data loss.
+- Regularly back up and restore Jenkins data to prevent data loss.
 
 **Jenkins interview question and answers for ADVANCED LEVEL**
 
@@ -1991,12 +1991,12 @@ Jenkins Kubernetes Plugin allows you to dynamically provision Jenkins agents on 
 1.  **How can you implement Jenkins pipeline parallelization and what are the considerations?**
     
 
-Parallelization in Jenkins pipelines allows you to execute multiple stages or steps concurrently, reducing the overall build time. To implement parallelization, you can use the \`parallel\` step in a Jenkins pipeline and define multiple branches or stages to execute in parallel. Considerations include ensuring proper synchronization points, managing resource usage, handling dependencies between parallel branches, and monitoring and reporting the progress of parallel executions.
+Parallelization in Jenkins pipelines allows you to execute multiple stages or steps concurrently, reducing the overall build time. To implement parallelization, you can use the ```parallel``` step in a Jenkins pipeline and define multiple branches or stages to execute in parallel. Considerations include ensuring proper synchronization points, managing resource usage, handling dependencies between parallel branches, and monitoring and reporting the progress of parallel executions.
 
 1.  **What are Jenkins pipeline stages and how can you control their execution?**
     
 
-Stages in Jenkins pipelines represent distinct phases of the CI/CD process, such as build, test, deploy, and so on. Stages provide a structured way to visualize and control the pipeline flow. You can define stages using the \`stage\` directive in a Jenkinsfile and configure their execution order. Additionally, you can use conditions, like \`when\` or input parameters, to control whether a stage should be executed or skipped based on specific criteria.
+Stages in Jenkins pipelines represent distinct phases of the CI/CD process, such as build, test, deploy, and so on. Stages provide a structured way to visualize and control the pipeline flow. You can define stages using the ```stage``` directive in a Jenkinsfile and configure their execution order. Additionally, you can use conditions, like ```when``` or input parameters, to control whether a stage should be executed or skipped based on specific criteria.
 
 1.  **How do you implement Jenkins pipeline testing and quality gates?** Jenkins pipeline testing involves running various types of tests, such as
     
@@ -2026,7 +2026,7 @@ Jenkins provides the Credentials plugin to securely manage sensitive information
 
 Answer:
 
-To implement this in Jenkins, you can define a parameterized pipeline job that takes an input parameter for the target environment. Based on the provided environment parameter, you can use conditional statements within the pipeline to execute the corresponding deployment configurations. For example, you can use a \`switch\` statement to determine which set of deployment configurations to use for each environment.
+To implement this in Jenkins, you can define a parameterized pipeline job that takes an input parameter for the target environment. Based on the provided environment parameter, you can use conditional statements within the pipeline to execute the corresponding deployment configurations. For example, you can use a ```switch``` statement to determine which set of deployment configurations to use for each environment.
 
 **Scenario 2:**
 
@@ -2034,7 +2034,7 @@ To implement this in Jenkins, you can define a parameterized pipeline job that t
 
 Answer:
 
-To speed up testing by running tests in parallel, you can use the \`parallel\` step in Jenkins pipelines. You can split your tests into multiple test suites or categories and create separate stages or branches within the \`parallel\` step. Each branch can run a subset of tests concurrently, utilizing multiple agents or executor slots. This allows you to distribute the test workload and significantly reduce the overall testing time.
+To speed up testing by running tests in parallel, you can use the ```parallel``` step in Jenkins pipelines. You can split your tests into multiple test suites or categories and create separate stages or branches within the ```parallel``` step. Each branch can run a subset of tests concurrently, utilizing multiple agents or executor slots. This allows you to distribute the test workload and significantly reduce the overall testing time.
 
 **Scenario 3:**
 
@@ -2042,7 +2042,7 @@ To speed up testing by running tests in parallel, you can use the \`parallel\` s
 
 Answer:
 
-To implement an approval process in Jenkins pipelines, you can use the \`input\` step. Place the \`input\` step in a specific stage of your pipeline, typically before the production deployment stage. This step will pause the pipeline and prompt the designated user or team to provide approval. Once the approval is granted, the pipeline will resume and proceed with the production deployment. You can customize the input message and add a timeout for automatic rejection if no response is received within a specified period.
+To implement an approval process in Jenkins pipelines, you can use the ```input``` step. Place the ```input``` step in a specific stage of your pipeline, typically before the production deployment stage. This step will pause the pipeline and prompt the designated user or team to provide approval. Once the approval is granted, the pipeline will resume and proceed with the production deployment. You can customize the input message and add a timeout for automatic rejection if no response is received within a specified period.
 
 **Scenario 4:**
 
@@ -2058,7 +2058,7 @@ To trigger a build only when changes are made to specific directories in a Git r
 
 Answer:
 
-To implement automated rollback in a Jenkins pipeline for Kubernetes deployments, you can use the Kubernetes plugin and the Kubernetes Deployment object's rollback feature. Within your pipeline, you can capture the current deployment version before initiating the deployment. Once the deployment is complete, you can monitor for any issues by performing health checks. If issues are detected, you can trigger the rollback by using the Kubernetes plugin's \`kubectlRollback\` step, specifying the deployment and the previous version to roll back to. Remember,
+To implement automated rollback in a Jenkins pipeline for Kubernetes deployments, you can use the Kubernetes plugin and the Kubernetes Deployment object's rollback feature. Within your pipeline, you can capture the current deployment version before initiating the deployment. Once the deployment is complete, you can monitor for any issues by performing health checks. If issues are detected, you can trigger the rollback by using the Kubernetes plugin's ```kubectlRollback``` step, specifying the deployment and the previous version to roll back to. Remember,
 
 **Scenario 6:**
 
@@ -2464,117 +2464,117 @@ def deployToEnvironment(environment) {
 
 **Jenkins Commands**
 
-**NOTE: replace \`****http://localhost****:8080/\` with the actual URL of your Jenkins server.**
+**NOTE: replace ```****http://localhost****:8080/``` with the actual URL of your Jenkins server.**
 
-1.  **\`java -jar jenkins.war\`** - Starts Jenkins server.
+1.  **```java -jar jenkins.war```** - Starts Jenkins server.
     
 
-1.  **\`jenkins-cli.jar -s** **http://localhost****:8080/ help\`** - Retrieves the help information.
+1.  **```jenkins-cli.jar -s** **http://localhost****:8080/ help```** - Retrieves the help information.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ version\`** - Checks the Jenkins version.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ version```** - Checks the Jenkins version.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ list-jobs\`** - Lists all jobs on the Jenkins server.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ list-jobs```** - Lists all jobs on the Jenkins server.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ create-job myjob < config.xml\`** - Creates a new job named "myjob" using the provided XML configuration.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ create-job myjob < config.xml```** - Creates a new job named "myjob" using the provided XML configuration.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ delete-job myjob\`** - Deletes the "myjob" job.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ delete-job myjob```** - Deletes the "myjob" job.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ build myjob\`** - Triggers a build for the "myjob" job.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ build myjob```** - Triggers a build for the "myjob" job.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ safe-restart\`** - Performs a safe restart of the Jenkins server.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ safe-restart```** - Performs a safe restart of the Jenkins server.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ safe-shutdown\`** -
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ safe-shutdown```** -
     
 
 Performs a safe shutdown of the Jenkins server.
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ cancel-quiet-down\`** - Cancels the quiet-down mode.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ cancel-quiet-down```** - Cancels the quiet-down mode.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ quiet-down\`** - Puts Jenkins into a quiet-down mode, allowing all running builds to complete.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ quiet-down```** - Puts Jenkins into a quiet-down mode, allowing all running builds to complete.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ disable-job myjob\`** - Disables the "myjob" job.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ disable-job myjob```** - Disables the "myjob" job.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ enable-job myjob\`** - Enables the "myjob" job.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ enable-job myjob```** - Enables the "myjob" job.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ get-job myjob\`** - Retrieves the XML configuration of the "myjob" job.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ get-job myjob```** - Retrieves the XML configuration of the "myjob" job.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ reload-configuration\`** - Reloads the Jenkins configuration from disk.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ reload-configuration```** - Reloads the Jenkins configuration from disk.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ clear-queue\`** - Clears the build queue.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ clear-queue```** - Clears the build queue.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ create-node mynode\`** - Creates a new Jenkins node named "mynode".
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ create-node mynode```** - Creates a new Jenkins node named "mynode".
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ delete-node mynode\`** - Deletes the Jenkins node named "mynode".
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ delete-node mynode```** - Deletes the Jenkins node named "mynode".
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ list-changes myjob\`** - Lists the SCM changes for the "myjob" job.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ list-changes myjob```** - Lists the SCM changes for the "myjob" job.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ copy-job myjob newjob\`** - Copies the "myjob" job and creates a new job named "newjob".
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ copy-job myjob newjob```** - Copies the "myjob" job and creates a new job named "newjob".
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ set-build-description myjob 42 "Build successful"\`** - Sets the build description for build number 42 of the "myjob" job.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ set-build-description myjob 42 "Build successful"```** - Sets the build description for build number 42 of the "myjob" job.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ get-builds myjob\`** - Lists all builds of the "myjob" job
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ get-builds myjob```** - Lists all builds of the "myjob" job
     
 
 .
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ delete-builds myjob 1-10\`** - Deletes builds 1 to 10 of the "myjob" job.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ delete-builds myjob 1-10```** - Deletes builds 1 to 10 of the "myjob" job.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ copy-builds myjob 42 newjob\`** - Copies build number 42 of the "myjob" job to the "newjob" job.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ copy-builds myjob 42 newjob```** - Copies build number 42 of the "myjob" job to the "newjob" job.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ set-build-result myjob 42 FAILURE\`** - Sets the result of build number 42 of the "myjob" job to FAILURE.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ set-build-result myjob 42 FAILURE```** - Sets the result of build number 42 of the "myjob" job to FAILURE.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ clear-build-result myjob 42\`** - Clears the result of build number 42 of the "myjob" job.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ clear-build-result myjob 42```** - Clears the result of build number 42 of the "myjob" job.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ tail-log myjob\`** -
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ tail-log myjob```** -
     
 
 Displays the console output log for the "myjob" job.
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ cancel-build myjob 42\`** - Cancels build number 42 of the "myjob" job.
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ cancel-build myjob 42```** - Cancels build number 42 of the "myjob" job.
     
 
-1.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ set-next-build-number myjob 100\`** - Sets the next build number of the "myjob" job to
+1.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ set-next-build-number myjob 100```** - Sets the next build number of the "myjob" job to
     
 
-2.  **\`java -jar jenkins-cli.jar -s** **http://localhost****:8080/ who-am-i\`** - Displays information about the current user.
+2.  **```java -jar jenkins-cli.jar -s** **http://localhost****:8080/ who-am-i```** - Displays information about the current user.
     
 
 **Docker Interview Question & Answers**
 
 **Docker interview question and answers for  BEGINER LEVEL**
 
-**1\. What is Docker?**
+**1. What is Docker?**
 
 Docker is an open-source platform that allows you to automate the deployment and management of applications using containerization. It provides an isolated environment called a container that contains all the necessary dependencies to run an application.
 
-**2\. What is a container?**
+**2. What is a container?**
 
 A container is a lightweight and isolated runtime environment that encapsulates an application and its dependencies. It provides a consistent and reproducible environment, ensuring that the application behaves the same way across different systems.
 
-**3\. What are the benefits of using Docker?**
+**3. What are the benefits of using Docker?**
 
 *   Portability: Docker containers can run on any system that supports Docker, making it easy to deploy applications across different environments.
     
@@ -2591,27 +2591,27 @@ A container is a lightweight and isolated runtime environment that encapsulates 
 *   Version control: Docker enables versioning of containers, allowing you to roll back to previous versions if needed.
     
 
-**4\. How does Docker differ from virtual machines?**
+**4. How does Docker differ from virtual machines?**
 
 Docker containers and virtual machines (VMs) both provide isolation, but they work differently. VMs emulate an entire operating system, running multiple instances on a hypervisor, while Docker containers share the host system's kernel and only isolate the application and its dependencies. VMs are typically larger in size and slower to start, while Docker containers are lightweight and start quickly. Docker also provides better resource utilization since it shares the host's kernel and uses a layered file system.
 
-**5\. What is a Docker image?**
+**5. What is a Docker image?**
 
 A Docker image is a read-only template that contains the necessary files, dependencies, and instructions to create a Docker container. It is built based on a Dockerfile, which specifies the steps to create the image.
 
-**6\. What is a Dockerfile?**
+**6. What is a Dockerfile?**
 
 A Dockerfile is a text file that contains a set of instructions to build a Docker image. It specifies the base image, the application's dependencies, environment variables, and other configurations needed to create the image.
 
-7\. How do you create a Docker container from an image?
+7. How do you create a Docker container from an image?
 
-To create a Docker container from an image, you use the \`docker run\` command followed by the image name. For example:
+To create a Docker container from an image, you use the ```docker run``` command followed by the image name. For example:
 
-\`\`\`
+`````````
 
 docker run image-name
 
-\`\`\`
+`````````
 
 This command will start a new container based on the specified image.
 
@@ -2625,16 +2625,16 @@ You can share data between a Docker container and the host system using Docker v
 
 Docker provides a feature called container networking, which allows you to link multiple containers together. You can create a user-defined network
 
-using the \`docker network create\` command and then connect containers to that network using the \`--network\` option when running containers. Alternatively, you can use Docker Compose, a tool for defining and running multi-container Docker applications. Compose uses a YAML file to define the services and their relationships, making it easier to manage multiple containers.
+using the ```docker network create``` command and then connect containers to that network using the ```--network``` option when running containers. Alternatively, you can use Docker Compose, a tool for defining and running multi-container Docker applications. Compose uses a YAML file to define the services and their relationships, making it easier to manage multiple containers.
 
-1.  **How can you troubleshoot issues with Docker containers?** Some common troubleshooting steps for Docker containers are: - Checking the container logs using the \`docker logs\` command.
+1.  **How can you troubleshoot issues with Docker containers?** Some common troubleshooting steps for Docker containers are: - Checking the container logs using the ```docker logs``` command.
     
 
-\- Inspecting the container's metadata and configurations using \`docker inspect\`.
+- Inspecting the container's metadata and configurations using ```docker inspect```.
 
-\- Accessing the container's shell using \`docker exec -it /bin/bash\` to investigate the container's internal state.
+- Accessing the container's shell using ```docker exec -it /bin/bash``` to investigate the container's internal state.
 
-\- Verifying that the necessary ports are exposed and reachable. - Checking resource utilization on the
+- Verifying that the necessary ports are exposed and reachable. - Checking resource utilization on the
 
 host system to ensure it has enough capacity.
 
@@ -2642,7 +2642,7 @@ Remember to tailor your answers based on your understanding and experience with 
 
 **Docker interview question and answers for INTERMEDIATE LEVEL**
 
-**1\. Explain the concept of Docker Compose.**
+**1. Explain the concept of Docker Compose.**
 
 Docker Compose is a tool that allows you to define and manage multi-container Docker applications. It uses a YAML file to define the services, their configurations, and the relationships between them. Compose simplifies the process of running multiple containers together, enabling easier orchestration and management of complex applications.
 
@@ -2655,7 +2655,7 @@ Docker Swarm, on the other hand, is a native clustering and orchestration tool p
 
 provides features like service discovery, load balancing, and high availability.
 
-**3\. How can you scale Docker containers in Docker Swarm?**
+**3. How can you scale Docker containers in Docker Swarm?**
 
 In Docker Swarm, you can scale your services by changing the replica
 
@@ -2665,21 +2665,21 @@ running for a particular service. You can use the following command to
 
 scale a service:
 
-\`\`\`
+`````````
 
 docker service scale \=
 
-\`\`\`
+`````````
 
 For example, to scale a service named "web" to have three replicas:
 
-\`\`\`
+`````````
 
 docker service scale web=3
 
-\`\`\`
+`````````
 
-**4\. What is Docker Registry and why is it used?**
+**4. What is Docker Registry and why is it used?**
 
 Docker Registry is a service for storing and distributing Docker images. It serves as a centralized repository for Docker images that can be shared across multiple hosts. The default Docker Registry is Docker Hub (hub.docker.com), but you can also set up a private registry.
 
@@ -2699,25 +2699,25 @@ custom metadata to these objects, making it easier to categorize and manage them
 
 Labels are commonly used for organizing and annotating containers or images based on their characteristics, such as version, environment, or purpose. They can be utilized for filtering, searching, and implementing custom automation or tooling around Docker resources.
 
-1.  **How can you pass environment variables to a Docker container?** You can pass environment variables to a Docker container using the \`-e\` or \`--env\` flag when running the container with the \`docker run\` command. For example:
+1.  **How can you pass environment variables to a Docker container?** You can pass environment variables to a Docker container using the ```-e``` or ```--env``` flag when running the container with the ```docker run``` command. For example:
     
 
-\`\`\`
+`````````
 
 docker run -e VARIABLE\_NAME=value image\_name
 
-\`\`\`
+`````````
 
-Alternatively, you can define environment variables in a Docker Compose file using the \`environment\` key under a service definition.
+Alternatively, you can define environment variables in a Docker Compose file using the ```environment``` key under a service definition.
 
 1.  **Explain the concept of Docker overlay network.**
     
 
 Docker overlay network is a built-in network driver that allows communication between Docker services running on different Docker nodes in a swarm. It facilitates multi-host networking for containerized applications. Overlay networks provide automatic service discovery, load balancing,
 
-and secure communication between containers across different hosts. Overlay networks are created using the \`docker network create\` command with the \`--driver overlay\` option. They enable seamless communication and cooperation between services running on different nodes within a Docker swarm.
+and secure communication between containers across different hosts. Overlay networks are created using the ```docker network create``` command with the ```--driver overlay``` option. They enable seamless communication and cooperation between services running on different nodes within a Docker swarm.
 
-**9\. How can you secure Docker containers?**
+**9. How can you secure Docker containers?**
 
 To secure Docker containers, you can implement the following best practices:
 
@@ -2750,17 +2750,17 @@ system resources.
 1.  **How can you monitor Docker containers?** There are several ways to monitor Docker containers:
     
 
-\- Use the \`docker stats\` command to view real-time resource usage statistics for running containers.
+- Use the ```docker stats``` command to view real-time resource usage statistics for running containers.
 
-\- Implement a container orchestration tool like Docker Swarm or Kubernetes, which provide built-in monitoring capabilities.
+- Implement a container orchestration tool like Docker Swarm or Kubernetes, which provide built-in monitoring capabilities.
 
-\- Utilize third-party monitoring tools specifically designed for Docker container monitoring, such as Prometheus, cAdvisor, or Datadog.
+- Utilize third-party monitoring tools specifically designed for Docker container monitoring, such as Prometheus, cAdvisor, or Datadog.
 
-\- Implement centralized logging by collecting and analyzing container logs using tools like ELK Stack (Elasticsearch, Logstash, Kibana) or Splunk.
+- Implement centralized logging by collecting and analyzing container logs using tools like ELK Stack (Elasticsearch, Logstash, Kibana) or Splunk.
 
 **Docker interview question and answers for ADVANCED LEVEL**
 
-**1\. What is Docker orchestration, and why is it important?**
+**1. What is Docker orchestration, and why is it important?**
 
 Docker orchestration is the process of managing and coordinating multiple Docker containers to work together as a distributed application. It involves tasks such as container deployment, scaling, load balancing, service discovery, and high availability.
 
@@ -2799,15 +2799,15 @@ Docker secrets are a secure way to manage sensitive data, such as passwords, API
 
 Docker provides various networking options for container communication across multiple hosts:
 
-\- Docker Overlay Network: Docker Swarm uses overlay networks to create a virtual network that spans multiple Docker hosts. It allows containers running on different hosts to communicate securely.
+- Docker Overlay Network: Docker Swarm uses overlay networks to create a virtual network that spans multiple Docker hosts. It allows containers running on different hosts to communicate securely.
 
-\- Docker Bridge Network: By default, Docker creates a bridge network for containers on a single host. To enable container communication across hosts, you can use the \`--driver=bridge\` option when creating the network and configure the necessary routing.
+- Docker Bridge Network: By default, Docker creates a bridge network for containers on a single host. To enable container communication across hosts, you can use the ```--driver=bridge``` option when creating the network and configure the necessary routing.
 
-\- External Network: Docker containers can also connect to external
+- External Network: Docker containers can also connect to external
 
-networks using the \`--network=host\` option. This allows the containers to share the host's network stack, enabling direct communication with the host's network interfaces.
+networks using the ```--network=host``` option. This allows the containers to share the host's network stack, enabling direct communication with the host's network interfaces.
 
-**6\. How can you achieve zero-downtime deployments in Docker?**
+**6. How can you achieve zero-downtime deployments in Docker?**
 
 To achieve zero-downtime deployments in Docker, you can use strategies like rolling updates and blue-green deployments:
 
@@ -2836,28 +2836,28 @@ In a multi-stage build, you define multiple stages in your Dockerfile. Each stag
 
 To secure communication between Docker containers, you can implement the following practices:
 
-\- Use secure network protocols like HTTPS or TLS for communication between containers.
+- Use secure network protocols like HTTPS or TLS for communication between containers.
 
-\- Implement network segmentation and firewall rules to restrict access between containers.
+- Implement network segmentation and firewall rules to restrict access between containers.
 
-\- Encrypt sensitive data at rest and in transit using tools like OpenSSL or Let's Encrypt certificates.
+- Encrypt sensitive data at rest and in transit using tools like OpenSSL or Let's Encrypt certificates.
 
-\- Utilize container network security solutions, such as Docker Secrets, to securely manage and distribute sensitive information.
+- Utilize container network security solutions, such as Docker Secrets, to securely manage and distribute sensitive information.
 
-\- Regularly update and patch containers and their underlying host systems to address any security vulnerabilities.
+- Regularly update and patch containers and their underlying host systems to address any security vulnerabilities.
 
 1.  **What are the challenges of running stateful applications in Docker containers?**
     
 
 Running stateful applications in Docker containers presents some challenges due to the ephemeral nature of containers. Key challenges include:
 
-\- Data persistence: Containers are designed to be stateless, so managing data persistence and durability requires using Docker volumes or external storage solutions.
+- Data persistence: Containers are designed to be stateless, so managing data persistence and durability requires using Docker volumes or external storage solutions.
 
-\- Scalability: Scaling stateful applications horizontally across multiple containers can be complex due to shared data dependencies and potential data consistency issues.
+- Scalability: Scaling stateful applications horizontally across multiple containers can be complex due to shared data dependencies and potential data consistency issues.
 
-\- Backup and recovery: Ensuring proper backup and recovery mechanisms for stateful data within containers can be more challenging than with traditional infrastructure.
+- Backup and recovery: Ensuring proper backup and recovery mechanisms for stateful data within containers can be more challenging than with traditional infrastructure.
 
-\- State synchronization: Coordinating state synchronization between multiple containers running the same stateful application can introduce complexities and overhead.
+- State synchronization: Coordinating state synchronization between multiple containers running the same stateful application can introduce complexities and overhead.
 
 **Docker interview question and answers SCENARIO BASED**
 
@@ -2874,7 +2874,7 @@ Docker, I would follow these steps:
 1.  Containerize each microservice: I would create a Dockerfile for each microservice, specifying the necessary dependencies, configurations, and build instructions.
     
 
-1.  Build Docker images: Using the Dockerfiles, I would build Docker images for each microservice using the \`docker build\` command. This would generate separate images for each microservice.
+1.  Build Docker images: Using the Dockerfiles, I would build Docker images for each microservice using the ```docker build``` command. This would generate separate images for each microservice.
     
 
 1.  Set up a Docker orchestration tool: I would choose a Docker orchestration tool like Docker Swarm or Kubernetes to manage the deployment, scaling, and high availability of the microservices.
@@ -2903,9 +2903,9 @@ To manage multiple containers with different software versions effectively, I wo
 1.  Tagging Docker images: When building Docker images, I would use version-specific tags to differentiate between different software versions.
     
 
-For example, I would tag an image as \`software:v1.0\`, \`software:v1.1\`, and so on.
+For example, I would tag an image as ```software:v1.0```, ```software:v1.1```, and so on.
 
-1.  Container naming: When running containers, I would assign unique names to each container using the \`--name\` option. This helps in identifying and managing containers with different versions.
+1.  Container naming: When running containers, I would assign unique names to each container using the ```--name``` option. This helps in identifying and managing containers with different versions.
     
 
 1.  Version control of Dockerfiles: I would maintain version control for Dockerfiles using a version control system like Git. This allows me to track changes made to Dockerfiles and easily switch between different versions when building images.
@@ -2938,7 +2938,7 @@ To containerize and deploy a legacy application with specific configurations and
 1.  Create a Dockerfile: Based on the application requirements, create a Dockerfile that includes the necessary steps to install dependencies, configure the application, and expose any required ports.
     
 
-1.  Build a Docker image: Use the Dockerfile to build a Docker image that encapsulates the legacy application and its dependencies. This can be done using the \`docker build\` command.
+1.  Build a Docker image: Use the Dockerfile to build a Docker image that encapsulates the legacy application and its dependencies. This can be done using the ```docker build``` command.
     
 
 1.  Test the Docker image: Run the Docker image as a container to ensure that the legacy application functions correctly within the containerized environment. Perform thorough testing to verify its behavior and compatibility.
@@ -2961,19 +2961,19 @@ By following these steps, you can successfully containerize and deploy a legacy 
 
 To set up networking and communication between interdependent containers in Docker, I would follow these steps:
 
-1.  Define a Docker network: Create a Docker network using the \`docker network create\` command. This network will allow containers to communicate with each other using DNS-based service discovery.
+1.  Define a Docker network: Create a Docker network using the ```docker network create``` command. This network will allow containers to communicate with each other using DNS-based service discovery.
     
 
-1.  Run the containers on the same network: When running the containers, assign them to the same Docker network using the \`--network\` option. This ensures that they can communicate with each other.
+1.  Run the containers on the same network: When running the containers, assign them to the same Docker network using the ```--network``` option. This ensures that they can communicate with each other.
     
 
-1.  Assign unique container names: Provide unique names to each container using the \`--name\` option. This makes it easier to reference and communicate with specific containers.
+1.  Assign unique container names: Provide unique names to each container using the ```--name``` option. This makes it easier to reference and communicate with specific containers.
     
 
 1.  Utilize container DNS names: Docker automatically assigns DNS names to containers based on their names. Containers can communicate with each other using these DNS names as hostnames.
     
 
-1.  Expose necessary ports: If a container needs to expose a port for communication with external services, use the \`--publish\` or \`-p\` option to map the container's port to a host port.
+1.  Expose necessary ports: If a container needs to expose a port for communication with external services, use the ```--publish``` or ```-p``` option to map the container's port to a host port.
     
 
 1.  Configure environment variables: Set environment variables in each container to specify connection details or configuration parameters required for inter-container communication.
@@ -2989,11 +2989,11 @@ By following these steps, you can set up networking and enable communication bet
 1.  **\*\*docker run\*\*: Create and start a new container.**
     
 
-\`\`\`
+`````````
 
 docker run -d --name mycontainer nginx
 
-\`\`\`
+`````````
 
 _**Output**_: Container ID (e.g., "e45fd9876f54")
 
@@ -3004,11 +3004,11 @@ _**Explanation**_: This command creates and starts a new container using the
 1.  **\*\*docker ps\*\*: List running containers.**
     
 
-\`\`\`
+`````````
 
 docker ps
 
-\`\`\`
+`````````
 
 _**Output**_: List of running containers
 
@@ -3019,11 +3019,11 @@ containers along with their details such as Container ID, Image, Status, Ports, 
 1.  **\*\*docker images\*\*: List available images.**
     
 
-\`\`\`
+`````````
 
 docker images
 
-\`\`\`
+`````````
 
 _**Output**_: List of available images
 
@@ -3034,11 +3034,11 @@ local Docker host, including their Repository, Tag, Image ID, and Size.
 1.  **\*\*docker pull\*\*: Download an image from a registry.**
     
 
-\`\`\`
+`````````
 
 docker pull ubuntu:latest
 
-\`\`\`
+`````````
 
 _**Output**_: Status messages indicating the progress of the image download
 
@@ -3049,11 +3049,11 @@ _**Explanation**_: This command downloads the latest version of the
 1.  **\*\*docker stop\*\*: Stop a running container.**
     
 
-\`\`\`
+`````````
 
 docker stop mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3064,11 +3064,11 @@ _**Explanation**_: This command stops the specified container with the name
 1.  **\*\*docker rm\*\*: Remove a container.**
     
 
-\`\`\`
+`````````
 
 docker rm mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3079,11 +3079,11 @@ name "mycontainer."
 1.  **\*\*docker rmi\*\*: Remove an image.**
     
 
-\`\`\`
+`````````
 
 docker rmi nginx
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3094,11 +3094,11 @@ _**Explanation**_: This command removes the specified image with the name
 1.  **\*\*docker exec\*\*: Run a command in a running container.**
     
 
-\`\`\`
+`````````
 
 docker exec -it mycontainer bash
 
-\`\`\`
+`````````
 
 _**Output**_: Command prompt inside the container
 
@@ -3109,11 +3109,11 @@ running container with the name "mycontainer," allowing you to interact with the
 1.  **\*\*docker logs\*\*: Fetch the logs of a container.**
     
 
-\`\`\`
+`````````
 
 docker logs mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: Container logs
 
@@ -3124,11 +3124,11 @@ specified container with the name "mycontainer."
 1.  **\*\*docker build\*\*: Build a new image from a Dockerfile.**
     
 
-\`\`\`
+`````````
 
 docker build -t myimage .
 
-\`\`\`
+`````````
 
 _**Output**_: Image build process output
 
@@ -3139,11 +3139,11 @@ Dockerfile present in the current directory and assigns it the name "myimage."
 1.  **\*\*docker tag\*\*: Add a tag to an image.**
     
 
-\`\`\`
+`````````
 
 docker tag myimage myrepo/myimage:v1.0
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3154,11 +3154,11 @@ image "myimage" and assigns it a new repository name "myrepo/myimage."
 1.  **\*\*docker push\*\*: Push an image to a registry.**
     
 
-\`\`\`
+`````````
 
 docker push myrepo/myimage:v1.0
 
-\`\`\`
+`````````
 
 _**Output**_: Status messages indicating the progress of the image push
 
@@ -3167,11 +3167,11 @@ _**Explanation**_: This command pushes the specified image with the tag "v1.0" t
 1.  **\*\*docker network ls\*\*: List networks.**
     
 
-\`\`\`
+`````````
 
 docker network ls
 
-\`\`\`
+`````````
 
 _**Output**_: List of available networks
 
@@ -3182,11 +3182,11 @@ Docker host, including their Network ID , Name, Driver, and Scope.
 1.  **\*\*docker network create\*\*: Create a new network.**
     
 
-\`\`\`
+`````````
 
 docker network create mynetwork
 
-\`\`\`
+`````````
 
 _**Output**_: Network ID (e.g., "ab12cd34ef56")
 
@@ -3197,11 +3197,11 @@ name "mynetwork" using the default bridge driver.
 1.  **\*\*docker network connect\*\*: Connect a container to a network.**
     
 
-\`\`\`
+`````````
 
 docker network connect mynetwork mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3212,11 +3212,11 @@ _**Explanation**_: This command connects the specified container
 1.  **\*\*docker volume ls\*\*: List volumes.**
     
 
-\`\`\`
+`````````
 
 docker volume ls
 
-\`\`\`
+`````````
 
 _**Output**_: List of available volumes
 
@@ -3227,11 +3227,11 @@ host, showing their names and mount points.
 1.  **\*\*docker volume create\*\*: Create a new volume.**
     
 
-\`\`\`
+`````````
 
 docker volume create myvolume
 
-\`\`\`
+`````````
 
 _**Output**_: Volume name (e.g., "myvolume")
 
@@ -3240,11 +3240,11 @@ _**Explanation**_: This command creates a new Docker volume with the name "myvol
 1.  **\*\*docker volume inspect\*\*: Inspect a volume.**
     
 
-\`\`\`
+`````````
 
 docker volume inspect myvolume
 
-\`\`\`
+`````````
 
 _**Output**_: Volume details in JSON format
 
@@ -3255,11 +3255,11 @@ specified volume, including its name, mount point, and driver.
 1.  **\*\*docker volume rm\*\*: Remove a volume.**
     
 
-\`\`\`
+`````````
 
 docker volume rm myvolume
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3270,11 +3270,11 @@ the name "myvolume" from the host.
 1.  **\*\*docker-compose up\*\*: Create and start containers defined in a Compose file.**
     
 
-\`\`\`
+`````````
 
 docker-compose up -d
 
-\`\`\`
+`````````
 
 Output: Status messages indicating the creation and startup of containers
 
@@ -3283,11 +3283,11 @@ Explanation: This command creates and starts containers defined in a Docker Comp
 1.  **\*\*docker-compose down\*\*: Stop and remove containers defined in a Compose file.**
     
 
-\`\`\`
+`````````
 
 docker-compose down
 
-\`\`\`
+`````````
 
 _**Output**_: Status messages indicating the shutdown and removal of containers
 
@@ -3296,11 +3296,11 @@ _**Explanation**_: This command stops and removes the containers defined in a Do
 1.  **\*\*docker-compose logs\*\*: Fetch the logs of containers defined in a Compose file.**
     
 
-\`\`\`
+`````````
 
 docker-compose logs myservice
 
-\`\`\`
+`````````
 
 _**Output**_: Logs of the specified service in the Compose file
 
@@ -3309,11 +3309,11 @@ _**Explanation**_: This command retrieves and displays the logs of the specified
 1.  **\*\*docker-compose build\*\*: Build images defined in a Compose file.**
     
 
-\`\`\`
+`````````
 
 docker-compose build
 
-\`\`\`
+`````````
 
 _**Output**_: Image build process output
 
@@ -3322,11 +3322,11 @@ _**Explanation**_: This command builds the Docker images defined in a Docker Com
 1.  **\*\*docker inspect\*\*: Display detailed information about a container or image.**
     
 
-\`\`\`
+`````````
 
 docker inspect mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: Detailed information about the container in JSON format
 
@@ -3335,11 +3335,11 @@ _**Explanation**_: This command provides in-depth information about the specifie
 1.  **\*\*docker cp\*\*: Copy files/folders between a container and the host.**
     
 
-\`\`\`
+`````````
 
 docker cp myfile.txt mycontainer:/path/to/destination
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3348,11 +3348,11 @@ _**Explanation**_: This command copies the specified file ("myfile.txt") from th
 1.  **\*\*docker top\*\*: Display the running processes of a container.**
     
 
-\`\`\`
+`````````
 
 docker top mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: List of running processes in the container
 
@@ -3363,11 +3363,11 @@ the process ID (PID), user, CPU usage, and more.
 1.  **\*\*docker start\*\*: Start a stopped container.**
     
 
-\`\`\`
+`````````
 
 docker start mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3378,11 +3378,11 @@ _**Explanation**_: This command starts the specified stopped container
 1.  **\*\*docker restart\*\*: Restart a running container.**
     
 
-\`\`\`
+`````````
 
 docker restart mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3393,11 +3393,11 @@ _**Explanation**_: This command restarts the specified running container
 1.  **\*\*docker pause\*\*: Pause a running container.**
     
 
-\`\`\`
+`````````
 
 docker pause mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3408,11 +3408,11 @@ the specified container ("mycontainer").
 1.  **\*\*docker unpause\*\*: Unpause a paused container.**
     
 
-\`\`\`
+`````````
 
 docker unpause mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3423,11 +3423,11 @@ the specified paused container ("mycontainer").
 1.  **\*\*docker kill\*\*: Send a signal to stop a container.**
     
 
-\`\`\`
+`````````
 
 docker kill mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3438,11 +3438,11 @@ container ("mycontainer"), causing it to stop immediately.
 1.  **\*\*docker rename\*\*: Rename a container.**
     
 
-\`\`\`
+`````````
 
 docker rename mycontainer newname
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3453,11 +3453,11 @@ _**Explanation**_: This command renames the specified container from
 1.  **\*\*docker stats\*\*: Display real-time resource usage of containers.**
     
 
-\`\`\`
+`````````
 
 docker stats
 
-\`\`\`
+`````````
 
 _**Output**_: Real-time statistics of resource usage for all running containers
 
@@ -3468,11 +3468,11 @@ statistics (CPU, memory, network I/O, etc.) for all running containers.
 1.  **\*\*docker attach\*\*: Attach to a running container.**
     
 
-\`\`\`
+`````````
 
 docker attach mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: Console output of the attached container
 
@@ -3483,11 +3483,11 @@ _**Explanation**_: This command attaches to the specified running container
 1.  **\*\*docker commit\*\*: Create a new image from a container's changes.**
     
 
-\`\`\`
+`````````
 
 docker commit mycontainer myimage:v2.0
 
-\`\`\`
+`````````
 
 _**Output**_: New image ID (e.g., "a1b2c3d4e5f6")
 
@@ -3496,11 +3496,11 @@ _**Explanation**_: This command creates a new Docker image from the changes made
 1.  **\*\*docker login\*\*: Log in to a Docker registry.**
     
 
-\`\`\`
+`````````
 
 docker login myregistry.com
 
-\`\`\`
+`````````
 
 _**Output**_: Login successful message
 
@@ -3511,11 +3511,11 @@ _**Explanation**_: This command logs in to the specified Docker registry
 1.  **\*\*docker logout\*\*: Log out from a Docker registry.**
     
 
-\`\`\`
+`````````
 
 docker logout myregistry.com
 
-\`\`\`
+`````````
 
 _**Output**_: Logout successful message
 
@@ -3526,11 +3526,11 @@ _**Explanation**_: This command logs out from the specified Docker registry
 1.  **\*\*docker history\*\*: Show the history of an image.**
     
 
-\`\`\`
+`````````
 
 docker history myimage
 
-\`\`\`
+`````````
 
 _**Output**_: Image history, showing layers and their details
 
@@ -3541,11 +3541,11 @@ Docker image ("myimage"), including each layer's commands and sizes.
 1.  **\*\*docker events\*\*: Get real-time events from the server.**
     
 
-\`\`\`
+`````````
 
 docker events
 
-\`\`\`
+`````````
 
 _**Output**_: Real-time events occurring on the Docker server
 
@@ -3556,11 +3556,11 @@ from the Docker server, providing information about container and image events, 
 1.  **\*\*docker pause\*\*: Pause all processes within a container.**
     
 
-\`\`\`
+`````````
 
 docker pause mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3572,11 +3572,11 @@ _**Explanation**_
 1.  **\*\*docker unpause\*\*: Unpause all processes within a container.**
     
 
-\`\`\`
+`````````
 
 docker unpause mycontainer
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3587,11 +3587,11 @@ within the specified paused container ("mycontainer").
 1.  **\*\*docker save\*\*: Save an image to a tar archive.**
     
 
-\`\`\`
+`````````
 
 docker save -o myimage.tar myimage
 
-\`\`\`
+`````````
 
 _**Output**_: Tar archive file "myimage.tar"
 
@@ -3602,11 +3602,11 @@ _**Explanation**_: This command saves the specified Docker image
 1.  **\*\*docker load\*\*: Load an image from a tar archive.**
     
 
-\`\`\`
+`````````
 
 docker load -i myimage.tar
 
-\`\`\`
+`````````
 
 _**Output**_: None
 
@@ -3617,11 +3617,11 @@ tar archive file ("myimage.tar") and makes it available on the local Docker host
 1.  **\*\*docker import\*\*: Import an image from a tar archive.**
     
 
-\`\`\`
+`````````
 
 docker import myimage.tar myimage
 
-\`\`\`
+`````````
 
 _**Output**_: Image ID of the imported image (e.g., "a1b2c3d4e5f6")
 
@@ -3632,11 +3632,11 @@ tar archive file ("myimage.tar") and assigns it the name "myimage."
 1.  **\*\*docker export\*\*: Export a container's filesystem as a tar archive.**
     
 
-\`\`\`
+`````````
 
 docker export mycontainer > mycontainer.tar
 
-\`\`\`
+`````````
 
 _**Output**_: Tar archive file "mycontainer.tar"
 
@@ -3645,11 +3645,11 @@ _**Explanation**_: This command exports the filesystem of the specified containe
 1.  **\*\*docker import\*\*: Import a previously exported container as a new image.**
     
 
-\`\`\`
+`````````
 
 docker import mycontainer.tar myimage
 
-\`\`\`
+`````````
 
 _**Output**_: Image ID of the imported image (e.g., "a1b2c3d4e5f6")
 
@@ -3658,11 +3658,11 @@ _**Explanation**_: This command imports a previously exported container (as a ta
 1.  **\*\*docker system df\*\*: Show Docker disk usage.**
     
 
-\`\`\`
+`````````
 
 docker system df
 
-\`\`\`
+`````````
 
 _**Output**_: Disk usage summary of Docker resources
 
@@ -3671,11 +3671,11 @@ _**Explanation**_: This command displays a summary of Docker's disk usage, inclu
 1.  **\*\*docker system prune\*\*: Remove unused data (containers, images, networks, volumes, etc.).**
     
 
-\`\`\`
+`````````
 
 docker system prune
 
-\`\`\`
+`````````
 
 _**Output**_: Confirmation message for the deletion of unused data
 
@@ -3684,11 +3684,11 @@ _**Explanation**_: This command removes unused Docker resources such as stopped 
 1.  **\*\*docker version\*\*: Show the Docker version information.**
     
 
-\`\`\`
+`````````
 
 docker version
 
-\`\`\`
+`````````
 
 _**Output**_: Docker version details (Client and Server)
 
@@ -3697,11 +3697,11 @@ _**Explanation**_: This command displays the version information of the Docker c
 1.  **\*\*docker info\*\*: Show system-wide Docker information.**
     
 
-\`\`\`
+`````````
 
 docker info
 
-\`\`\`
+`````````
 
 _**Output**_: System-wide Docker information (e.g., Containers, Images,
 
@@ -3771,7 +3771,7 @@ A9: A ConfigMap is a Kubernetes object that stores configuration data as key-val
 
 **Q10: How can you expose a Kubernetes deployment to the outside world?**
 
-A10: You can expose a Kubernetes deployment to the outside world by creating a Service of type \`LoadBalancer\`. This type of Service provisions an external load balancer that routes traffic from the external network to the pods.
+A10: You can expose a Kubernetes deployment to the outside world by creating a Service of type ```LoadBalancer```. This type of Service provisions an external load balancer that routes traffic from the external network to the pods.
 
 **Kubernetes interview question and answers for INTERMEDIATE LEVEL**
 
@@ -3900,26 +3900,26 @@ Answer: To ensure data retention for a stateful application, I would use the fol
 1.  **Scenario: A Kubernetes pod is stuck in a "Pending" state. What could be the possible reasons, and how would you troubleshoot it?** Possible reasons for a pod being stuck in the "Pending" state could include:
     
 
-\- Insufficient resources: Check if the cluster has enough resources (CPU, memory, storage) to accommodate the pod. You can use the \`kubectl describe pod \` command to view detailed information about the pod, including any resource-related issues.
+- Insufficient resources: Check if the cluster has enough resources (CPU, memory, storage) to accommodate the pod. You can use the ```kubectl describe pod ``` command to view detailed information about the pod, including any resource-related issues.
 
-\- Unschedulable nodes: Check if all the nodes in the cluster are in the "Ready" state and can schedule the pod. You can use the \`kubectl get nodes\` command to see the node status.
+- Unschedulable nodes: Check if all the nodes in the cluster are in the "Ready" state and can schedule the pod. You can use the ```kubectl get nodes``` command to see the node status.
 
-\- Pod scheduling constraints: Verify if the pod has any scheduling constraints or affinity/anti-affinity rules that are preventing it from being scheduled. Check the pod's YAML or manifest file for any such specifications.
+- Pod scheduling constraints: Verify if the pod has any scheduling constraints or affinity/anti-affinity rules that are preventing it from being scheduled. Check the pod's YAML or manifest file for any such specifications.
 
-\- Persistent Volume (PV) availability: If the pod requires a Persistent Volume, ensure that the required storage is available and accessible.
+- Persistent Volume (PV) availability: If the pod requires a Persistent Volume, ensure that the required storage is available and accessible.
 
-\- Network-related issues: Check if there are any network restrictions or misconfigurations preventing the pod from being scheduled or communicating with other resources.
+- Network-related issues: Check if there are any network restrictions or misconfigurations preventing the pod from being scheduled or communicating with other resources.
 
 1.  **Scenario: You have a Kubernetes Deployment with multiple replicas, and some pods are failing health checks. How would you identify the root cause and fix it?**
     
 
 To identify the root cause and fix failing health checks for pods in a Kubernetes Deployment:
 
-\- Check the pod's logs: Use the \`kubectl logs \` command to retrieve the logs of the failing pod. Inspect the logs for any error messages or exceptions that could indicate the cause of the failure.
+- Check the pod's logs: Use the ```kubectl logs ``` command to retrieve the logs of the failing pod. Inspect the logs for any error messages or exceptions that could indicate the cause of the failure.
 
-\- Verify health check configurations: Examine the readiness and liveness probe configurations in the Deployment's YAML or manifest file. Ensure that the endpoints being probed are correct, the expected response is received, and the success criteria are appropriately defined.
+- Verify health check configurations: Examine the readiness and liveness probe configurations in the Deployment's YAML or manifest file. Ensure that the endpoints being probed are correct, the expected response is received, and the success criteria are appropriately defined.
 
-*   Debug container startup: If the pods are failing to start, check the container's startup commands, entrypoints, or initialization processes. Use the \`kubectl describe pod \` command to get detailed information about the pod, including any container-related errors.
+*   Debug container startup: If the pods are failing to start, check the container's startup commands, entrypoints, or initialization processes. Use the ```kubectl describe pod ``` command to get detailed information about the pod, including any container-related errors.
     
 
 *   Resource constraints: Inspect the resource requests and limits for the pods. It's possible that the pods are exceeding the allocated resources, causing failures. Adjust the resource specifications as necessary.
@@ -3928,7 +3928,7 @@ To identify the root cause and fix failing health checks for pods in a Kubernete
 *   Image issues: Verify that the Docker image being used is correct and accessible. Ensure that the image's version, registry, and repository details are accurate.
     
 
-*   Rollout issues: If the pods were recently deployed or updated, ensure that the rollout process completed successfully. Check the deployment's status using \`kubectl rollout status \` and examine any rollout history with \`kubectl rollout history \`.
+*   Rollout issues: If the pods were recently deployed or updated, ensure that the rollout process completed successfully. Check the deployment's status using ```kubectl rollout status ``` and examine any rollout history with ```kubectl rollout history ```.
     
 
 1.  **Scenario: You need to scale a Kubernetes Deployment manually. How would you accomplish this?**
@@ -3936,20 +3936,20 @@ To identify the root cause and fix failing health checks for pods in a Kubernete
 
 To manually scale a Kubernetes Deployment:
 
-\- Use the \`kubectl scale\` command: Run \`kubectl scale deployment/ --replicas=\` to scale the deployment. Replace \`\` with the name of your deployment, and \`\` with the desired number of replicas.
+- Use the ```kubectl scale``` command: Run ```kubectl scale deployment/ --replicas=``` to scale the deployment. Replace `````` with the name of your deployment, and `````` with the desired number of replicas.
 
-\- Alternatively, update the Deployment YAML: Modify the \`replicas\` field in the Deployment's YAML or manifest file to the desired number of replicas. Then, apply the changes using \`kubectl apply -f \`.
+- Alternatively, update the Deployment YAML: Modify the ```replicas``` field in the Deployment's YAML or manifest file to the desired number of replicas. Then, apply the changes using ```kubectl apply -f ```.
 
 1.  **Scenario: You have a Kubernetes cluster with multiple worker nodes, and some pods are experiencing high CPU usage. How would you investigate and mitigate this issue?**
     
 
 To investigate and mitigate high CPU usage in Kubernetes pods:
 
-\- Identify the affected pods: Use \`kubectl top pods\` to view CPU and memory usage across the cluster and identify the pods with high CPU usage.
+- Identify the affected pods: Use ```kubectl top pods``` to view CPU and memory usage across the cluster and identify the pods with high CPU usage.
 
-\- Check pod resource limits: Verify if the affected pods have appropriate resource limits defined. If the limits are too low, the pods may struggle to handle the workload, resulting in high CPU usage. Adjust the resource limits accordingly.
+- Check pod resource limits: Verify if the affected pods have appropriate resource limits defined. If the limits are too low, the pods may struggle to handle the workload, resulting in high CPU usage. Adjust the resource limits accordingly.
 
-\- Analyze application code: Review the application code running inside
+- Analyze application code: Review the application code running inside
 
 the pods to identify any inefficiencies or resource-intensive operations that could be causing the high CPU usage. Optimize the code where possible.
 
@@ -3964,20 +3964,20 @@ the pods to identify any inefficiencies or resource-intensive operations that co
 
 To enforce communication restrictions between microservices in a Kubernetes cluster:
 
-\- Use network policies: Network policies are Kubernetes objects that control the traffic flow between pods based on defined rules. Create network policies to specify which pods can communicate with each other based on labels, namespaces, or IP ranges. Configure the policies to allow or deny traffic as per your desired communication restrictions.
+- Use network policies: Network policies are Kubernetes objects that control the traffic flow between pods based on defined rules. Create network policies to specify which pods can communicate with each other based on labels, namespaces, or IP ranges. Configure the policies to allow or deny traffic as per your desired communication restrictions.
 
-\- Deny all traffic by default: Set up a default-deny rule in the network policies to block all inter-pod communication by default. Then, explicitly define policies to allow specific communication paths between authorized microservices.
+- Deny all traffic by default: Set up a default-deny rule in the network policies to block all inter-pod communication by default. Then, explicitly define policies to allow specific communication paths between authorized microservices.
 
-\- Label pods and apply policies selectively: Label the microservice pods based on their roles or functions. Then, define network policies that target specific labels, enabling you to enforce communication restrictions at a granular level.
+- Label pods and apply policies selectively: Label the microservice pods based on their roles or functions. Then, define network policies that target specific labels, enabling you to enforce communication restrictions at a granular level.
 
-\- Validate and test policies: Regularly validate and test the network policies to ensure they are functioning as intended. Deploy test pods with different labels and verify if the communication restrictions are being correctly enforced.
+- Validate and test policies: Regularly validate and test the network policies to ensure they are functioning as intended. Deploy test pods with different labels and verify if the communication restrictions are being correctly enforced.
 
 1.  **Scenario: You have a Kubernetes cluster, and you want to schedule certain pods on specific nodes based on node availability and custom requirements. How would you achieve this?**
     
 
 To schedule pods on specific nodes based on availability and custom requirements in Kubernetes:
 
-\- Use node affinity: Node affinity allows you to define rules for pod
+- Use node affinity: Node affinity allows you to define rules for pod
 
 scheduling based on node labels. Assign specific labels to nodes that meet the desired requirements. Then, specify the corresponding node affinity rules in the pod's YAML or manifest file, ensuring that the pod gets scheduled on the desired nodes.
 
@@ -3992,120 +3992,120 @@ scheduling based on node labels. Assign specific labels to nodes that meet the d
 
 **Kubernetes Commands**
 
-1.  **\`kubectl apply -f deployment.yaml\`:**
+1.  **```kubectl apply -f deployment.yaml```:**
     
 
-*   Output: The deployment defined in the \`deployment.yaml\` file is created or updated.
+*   Output: The deployment defined in the ```deployment.yaml``` file is created or updated.
     
 
-*   Explanation: This command applies the configuration defined in the \`deployment.yaml\` file, creating or updating the deployment accordingly.
+*   Explanation: This command applies the configuration defined in the ```deployment.yaml``` file, creating or updating the deployment accordingly.
     
 
-1.  **\`kubectl get pods\`:**
+1.  **```kubectl get pods```:**
     
     *   Output: A list of pods in the default namespace.
         
     *   Explanation: Lists all the pods running in the default namespace.
         
 
-1.  **\`kubectl get pods --namespace=my-namespace\`:**
+1.  **```kubectl get pods --namespace=my-namespace```:**
     
-    *   Output: A list of pods in the \`my-namespace\` namespace.
+    *   Output: A list of pods in the ```my-namespace``` namespace.
         
 
-*   Explanation: Lists all the pods running in the \`my-namespace\` namespace.
+*   Explanation: Lists all the pods running in the ```my-namespace``` namespace.
     
 
-1.  **\`kubectl describe pod my-pod\`:**
+1.  **```kubectl describe pod my-pod```:**
     
-    *   Output: Detailed information about the \`my-pod\` pod.
+    *   Output: Detailed information about the ```my-pod``` pod.
         
 
-*   Explanation: Retrieves detailed information about the \`my-pod\` pod, including its status, events, and containers.
+*   Explanation: Retrieves detailed information about the ```my-pod``` pod, including its status, events, and containers.
     
 
-1.  **\`kubectl logs my-pod\`:**
+1.  **```kubectl logs my-pod```:**
     
-    *   Output: The logs of the \`my-pod\` pod.
+    *   Output: The logs of the ```my-pod``` pod.
         
 
-*   Explanation: Retrieves and displays the logs generated by the \`my-pod\` pod.
+*   Explanation: Retrieves and displays the logs generated by the ```my-pod``` pod.
     
 
-1.  **\`kubectl exec -it my-pod -- /bin/bash\`:**
+1.  **```kubectl exec -it my-pod -- /bin/bash```:**
     
-    *   Output: Opens a shell inside the \`my-pod\` pod.
+    *   Output: Opens a shell inside the ```my-pod``` pod.
         
 
-*   Explanation: Allows interactive shell access to the \`my-pod\` pod, enabling you to execute commands directly inside the container.
+*   Explanation: Allows interactive shell access to the ```my-pod``` pod, enabling you to execute commands directly inside the container.
     
 
-1.  **\`kubectl port-forward my-pod 8080:80\`:**
+1.  **```kubectl port-forward my-pod 8080:80```:**
     
-    *   Output: Forwards local port 8080 to port 80 of the \`my-pod\` pod.
+    *   Output: Forwards local port 8080 to port 80 of the ```my-pod``` pod.
         
 
-*   Explanation: Sets up port forwarding, allowing you to access a specific port of the \`my-pod\` pod locally on port 8080.
+*   Explanation: Sets up port forwarding, allowing you to access a specific port of the ```my-pod``` pod locally on port 8080.
     
 
-1.  **\`kubectl delete pod my-pod\`:**
+1.  **```kubectl delete pod my-pod```:**
     
-    *   Output: The \`my-pod\` pod is deleted.
+    *   Output: The ```my-pod``` pod is deleted.
         
 
-*   Explanation: Deletes the \`my-pod\` pod and terminates its execution.
+*   Explanation: Deletes the ```my-pod``` pod and terminates its execution.
     
 
-1.  **\`kubectl scale deployment my-deployment --replicas=3\`:**
+1.  **```kubectl scale deployment my-deployment --replicas=3```:**
     
 
-*   Output: The \`my-deployment\` deployment is scaled to 3 replicas.
+*   Output: The ```my-deployment``` deployment is scaled to 3 replicas.
     
 
-*   Explanation: Adjusts the number of replicas for the \`my-deployment\` deployment to 3, effectively increasing the number of instances.
+*   Explanation: Adjusts the number of replicas for the ```my-deployment``` deployment to 3, effectively increasing the number of instances.
     
 
-1.  **\`kubectl get services\`:**
+1.  **```kubectl get services```:**
     
     *   Output: A list of services in the default namespace.
         
     *   Explanation: Lists all the services running in the default namespace.
         
 
-1.  **\`kubectl get services --namespace=my-namespace\`:**
+1.  **```kubectl get services --namespace=my-namespace```:**
     
-    *   Output: A list of services in the \`my-namespace\` namespace.
+    *   Output: A list of services in the ```my-namespace``` namespace.
         
 
-*   Explanation: Lists all the services running in the \`my-namespace\` namespace.
+*   Explanation: Lists all the services running in the ```my-namespace``` namespace.
     
 
-1.  **\`kubectl describe service my-service\`:**
+1.  **```kubectl describe service my-service```:**
     
-    *   Output: Detailed information about the \`my-service\` service.
+    *   Output: Detailed information about the ```my-service``` service.
         
 
-*   Explanation: Retrieves detailed information about the \`my-service\` service, including its type, IP, and ports.
+*   Explanation: Retrieves detailed information about the ```my-service``` service, including its type, IP, and ports.
     
 
-1.  **\`kubectl expose deployment my-deployment --port=8080 --target-port=80 --type=LoadBalancer\`:**
+1.  **```kubectl expose deployment my-deployment --port=8080 --target-port=80 --type=LoadBalancer```:**
     
 
-*   Output: The \`my-deployment\` deployment is exposed as a LoadBalancer service on port 8080.
+*   Output: The ```my-deployment``` deployment is exposed as a LoadBalancer service on port 8080.
     
 
-*   Explanation: Creates a service of type LoadBalancer that exposes the \`my-deployment\` deployment on port 8080, forwarding traffic to port 80 of the pods.
+*   Explanation: Creates a service of type LoadBalancer that exposes the ```my-deployment``` deployment on port 8080, forwarding traffic to port 80 of the pods.
     
 
-1.  **\`kubectl create namespace my-namespace\`:**
+1.  **```kubectl create namespace my-namespace```:**
     
-    *   Output: The \`my-namespace\` namespace is created.
+    *   Output: The ```my-namespace``` namespace is created.
         
 
-*   Explanation: Creates a new namespace called \`my-namespace\`.
+*   Explanation: Creates a new namespace called ```my-namespace```.
     
 
-1.  **\`kubectl get namespaces\`:**
+1.  **```kubectl get namespaces```:**
     
     *   Output: A list of namespaces in the cluster.
         
@@ -4115,31 +4115,31 @@ scheduling based on node labels. Assign specific labels to nodes that meet the d
 
 : Lists all the namespaces available in the cluster.
 
-1.  **\`kubectl describe namespace my-namespace\`:**
+1.  **```kubectl describe namespace my-namespace```:**
     
-    *   Output: Detailed information about the \`my-namespace\` namespace.
+    *   Output: Detailed information about the ```my-namespace``` namespace.
         
 
-*   Explanation: Retrieves detailed information about the \`my-namespace\` namespace, including its status and resource limits.
+*   Explanation: Retrieves detailed information about the ```my-namespace``` namespace, including its status and resource limits.
     
 
-1.  **\`kubectl delete namespace my-namespace\`:**
+1.  **```kubectl delete namespace my-namespace```:**
     
-    *   Output: The \`my-namespace\` namespace is deleted.
+    *   Output: The ```my-namespace``` namespace is deleted.
         
 
-*   Explanation: Deletes the \`my-namespace\` namespace and all its associated resources.
+*   Explanation: Deletes the ```my-namespace``` namespace and all its associated resources.
     
 
-1.  **\`kubectl create configmap my-config --from-file=config.ini\`:**
+1.  **```kubectl create configmap my-config --from-file=config.ini```:**
     
-    *   Output: The \`my-config\` ConfigMap is created.
+    *   Output: The ```my-config``` ConfigMap is created.
         
 
-*   Explanation: Creates a ConfigMap called \`my-config\` using the contents of the \`config.ini\` file.
+*   Explanation: Creates a ConfigMap called ```my-config``` using the contents of the ```config.ini``` file.
     
 
-1.  **\`kubectl get configmaps\`:**
+1.  **```kubectl get configmaps```:**
     
     *   Output: A list of ConfigMaps in the default namespace.
         
@@ -4147,60 +4147,60 @@ scheduling based on node labels. Assign specific labels to nodes that meet the d
 *   Explanation: Lists all the ConfigMaps available in the default namespace.
     
 
-1.  **\`kubectl describe configmap my-config\`:**
+1.  **```kubectl describe configmap my-config```:**
     
-    *   Output: Detailed information about the \`my-config\` ConfigMap.
+    *   Output: Detailed information about the ```my-config``` ConfigMap.
         
 
-*   Explanation: Retrieves detailed information about the \`my-config\` ConfigMap, including its data and associated pods.
+*   Explanation: Retrieves detailed information about the ```my-config``` ConfigMap, including its data and associated pods.
     
 
-1.  **\`kubectl delete configmap my-config\`:**
+1.  **```kubectl delete configmap my-config```:**
     
-    *   Output: The \`my-config\` ConfigMap is deleted.
+    *   Output: The ```my-config``` ConfigMap is deleted.
         
-    *   Explanation: Deletes the \`my-config\` ConfigMap.
-        
-
-1.  **\`kubectl create secret generic my-secret --from-literal=password=abc123\`:**
-    
-    *   Output: The \`my-secret\` Secret is created.
+    *   Explanation: Deletes the ```my-config``` ConfigMap.
         
 
-*   Explanation: Creates a Secret called \`my-secret\` with the key \`password\` and the value \`abc123\`.
+1.  **```kubectl create secret generic my-secret --from-literal=password=abc123```:**
+    
+    *   Output: The ```my-secret``` Secret is created.
+        
+
+*   Explanation: Creates a Secret called ```my-secret``` with the key ```password``` and the value ```abc123```.
     
 
-1.  **\`kubectl get secrets\`:**
+1.  **```kubectl get secrets```:**
     
     *   Output: A list of secrets in the default namespace.
         
     *   Explanation: Lists all the secrets available in the default namespace.
         
 
-1.  **\`kubectl describe secret my-secret\`:**
+1.  **```kubectl describe secret my-secret```:**
     
-    *   Output: Detailed information about the \`my-secret\` Secret.
+    *   Output: Detailed information about the ```my-secret``` Secret.
         
 
-*   Explanation: Retrieves detailed information about the \`my-secret\` Secret, including its type and data.
+*   Explanation: Retrieves detailed information about the ```my-secret``` Secret, including its type and data.
     
 
-1.  **\`kubectl delete secret my-secret\`:**
+1.  **```kubectl delete secret my-secret```:**
     
-    *   Output: The \`my-secret\` Secret is deleted.
+    *   Output: The ```my-secret``` Secret is deleted.
         
-    *   Explanation: Deletes the \`my-secret\` Secret.
-        
-
-1.  **\`kubectl create ingress my-ingress --rule=my-domain.com/path=my-service:8080\`:**
-    
-    *   Output: The \`my-ingress\` Ingress is created.
+    *   Explanation: Deletes the ```my-secret``` Secret.
         
 
-*   Explanation: Creates an Ingress called \`my-ingress\` that routes traffic from \`my-domain.com/path\` to the \`my-service\` service on port 8080.
+1.  **```kubectl create ingress my-ingress --rule=my-domain.com/path=my-service:8080```:**
+    
+    *   Output: The ```my-ingress``` Ingress is created.
+        
+
+*   Explanation: Creates an Ingress called ```my-ingress``` that routes traffic from ```my-domain.com/path``` to the ```my-service``` service on port 8080.
     
 
-1.  **\`kubectl get ingresses\`:**
+1.  **```kubectl get ingresses```:**
     
     *   Output: A list of ingresses in the default namespace.
         
@@ -4208,29 +4208,29 @@ scheduling based on node labels. Assign specific labels to nodes that meet the d
 *   Explanation: Lists all the ingresses available in the default namespace.
     
 
-1.  **\`kubectl describe ingress my-ingress\`:**
+1.  **```kubectl describe ingress my-ingress```:**
     
-    *   Output: Detailed information about the \`my-ingress\` Ingress.
+    *   Output: Detailed information about the ```my-ingress``` Ingress.
         
 
-*   Explanation: Retrieves detailed information about the \`my-ingress\` Ingress, including its rules and backend services.
+*   Explanation: Retrieves detailed information about the ```my-ingress``` Ingress, including its rules and backend services.
     
 
-1.  **\`kubectl delete ingress my-ingress\`:**
+1.  **```kubectl delete ingress my-ingress```:**
     
-    *   Output: The \`my-ingress\` Ingress is deleted.
+    *   Output: The ```my-ingress``` Ingress is deleted.
         
-    *   Explanation: Deletes the \`my-ingress\` Ingress.
+    *   Explanation: Deletes the ```my-ingress``` Ingress.
         
 
-1.  **\`kubectl create serviceaccount my-serviceaccount\`:**
+1.  **```kubectl create serviceaccount my-serviceaccount```:**
     
-    *   Output: The \`my-serviceaccount\` ServiceAccount is created.
+    *   Output: The ```my-serviceaccount``` ServiceAccount is created.
         
-    *   Explanation: Creates a ServiceAccount called \`my-serviceaccount\`.
+    *   Explanation: Creates a ServiceAccount called ```my-serviceaccount```.
         
 
-1.  **\`kubectl get serviceaccounts\`:**
+1.  **```kubectl get serviceaccounts```:**
     
     *   Output: A list of service accounts in the default namespace.
         
@@ -4238,33 +4238,33 @@ scheduling based on node labels. Assign specific labels to nodes that meet the d
 *   Explanation: Lists all the service accounts available in the default namespace.
     
 
-1.  **\`kubectl describe serviceaccount my-serviceaccount\`:**
+1.  **```kubectl describe serviceaccount my-serviceaccount```:**
     
 
-*   Output: Detailed information about the \`my-serviceaccount\` ServiceAccount.
+*   Output: Detailed information about the ```my-serviceaccount``` ServiceAccount.
     
 *   Explanation: Retrieves
     
 
-detailed information about the \`my-serviceaccount\` ServiceAccount, including its associated tokens.
+detailed information about the ```my-serviceaccount``` ServiceAccount, including its associated tokens.
 
-1.  **\`kubectl delete serviceaccount my-serviceaccount\`:**
+1.  **```kubectl delete serviceaccount my-serviceaccount```:**
     
-    *   Output: The \`my-serviceaccount\` ServiceAccount is deleted.
+    *   Output: The ```my-serviceaccount``` ServiceAccount is deleted.
         
-    *   Explanation: Deletes the \`my-serviceaccount\` ServiceAccount.
+    *   Explanation: Deletes the ```my-serviceaccount``` ServiceAccount.
         
 
-1.  **\`kubectl create role my-role --verb=get,list -- resource=pods,pods/log\`:**
+1.  **```kubectl create role my-role --verb=get,list -- resource=pods,pods/log```:**
     
 
-*   Output: The \`my-role\` Role is created.
+*   Output: The ```my-role``` Role is created.
     
 
-*   Explanation: Creates a Role called \`my-role\` with permissions to perform the \`get\` and \`list\` operations on pods and pod logs.
+*   Explanation: Creates a Role called ```my-role``` with permissions to perform the ```get``` and ```list``` operations on pods and pod logs.
     
 
-1.  **\`kubectl get roles\`:**
+1.  **```kubectl get roles```:**
     
     *   Output: A list of roles in the default namespace.
         
@@ -4272,32 +4272,32 @@ detailed information about the \`my-serviceaccount\` ServiceAccount, including i
 *   Explanation: Lists all the roles available in the default namespace.
     
 
-1.  **\`kubectl describe role my-role\`:**
+1.  **```kubectl describe role my-role```:**
     
-    *   Output: Detailed information about the \`my-role\` Role.
+    *   Output: Detailed information about the ```my-role``` Role.
         
 
-*   Explanation: Retrieves detailed information about the \`my-role\` Role, including its rules and permissions.
+*   Explanation: Retrieves detailed information about the ```my-role``` Role, including its rules and permissions.
     
 
-1.  **\`kubectl delete role my-role\`:**
+1.  **```kubectl delete role my-role```:**
     
-    *   Output: The \`my-role\` Role is deleted.
+    *   Output: The ```my-role``` Role is deleted.
         
 
-*   Explanation: Deletes the \`my-role\` Role.
+*   Explanation: Deletes the ```my-role``` Role.
     
 
-1.  **\`kubectl create rolebinding my-rolebinding --role=my-role -- serviceaccount=my-namespace:my-serviceaccount\`:**
+1.  **```kubectl create rolebinding my-rolebinding --role=my-role -- serviceaccount=my-namespace:my-serviceaccount```:**
     
 
-*   Output: The \`my-rolebinding\` RoleBinding is created.
+*   Output: The ```my-rolebinding``` RoleBinding is created.
     
 
-*   Explanation: Creates a RoleBinding called \`my-rolebinding\` that binds the \`my-role\` Role to the \`my-serviceaccount\` ServiceAccount in the \`my-namespace\` namespace.
+*   Explanation: Creates a RoleBinding called ```my-rolebinding``` that binds the ```my-role``` Role to the ```my-serviceaccount``` ServiceAccount in the ```my-namespace``` namespace.
     
 
-1.  **\`kubectl get rolebindings\`:**
+1.  **```kubectl get rolebindings```:**
     
     *   Output: A list of role bindings in the default namespace.
         
@@ -4305,97 +4305,97 @@ detailed information about the \`my-serviceaccount\` ServiceAccount, including i
 *   Explanation: Lists all the role bindings available in the default namespace.
     
 
-1.  **\`kubectl describe rolebinding my-rolebinding\`:**
+1.  **```kubectl describe rolebinding my-rolebinding```:**
     
 
-*   Output: Detailed information about the \`my-rolebinding\` RoleBinding.
+*   Output: Detailed information about the ```my-rolebinding``` RoleBinding.
     
 
-*   Explanation: Retrieves detailed information about the \`my-rolebinding\` RoleBinding, including its role and subjects.
+*   Explanation: Retrieves detailed information about the ```my-rolebinding``` RoleBinding, including its role and subjects.
     
 
-1.  **\`kubectl delete rolebinding my-rolebinding\`:**
+1.  **```kubectl delete rolebinding my-rolebinding```:**
     
-    *   Output: The \`my-rolebinding\` RoleBinding is deleted.
+    *   Output: The ```my-rolebinding``` RoleBinding is deleted.
         
-    *   Explanation: Deletes the \`my-rolebinding\` RoleBinding.
-        
-
-1.  **\`kubectl create namespace my-namespace\`:**
-    
-    *   Output: The \`my-namespace\` namespace is created.
-        
-    *   Explanation: Creates a new namespace called \`my-namespace\`.
+    *   Explanation: Deletes the ```my-rolebinding``` RoleBinding.
         
 
-1.  **\`kubectl create deployment my-deployment --image=my-image:v1 --namespace=my-namespace\`:**
+1.  **```kubectl create namespace my-namespace```:**
     
-
-*   Output: The \`my-deployment\` deployment is created in the \`my-namespace\` namespace.
-    
-
-*   Explanation: Creates a deployment called \`my-deployment\` in the \`my-namespace\` namespace using the \`my-image:v1\` container image.
-    
-
-1.  **\`kubectl scale deployment my-deployment --replicas=3 -- namespace=my-namespace\`:**
-    
-
-*   Output: The \`my-deployment\` deployment in the \`my-namespace\` namespace is scaled to 3 replicas.
-    
-
-*   Explanation: Adjusts the number of replicas for the \`my-deployment\` deployment in the \`my-namespace\` namespace to 3.
-    
-
-1.  **\`kubectl get deployments --namespace=my-namespace\`:**
-    
-    *   Output: A list of deployments in the \`my-namespace\` namespace.
+    *   Output: The ```my-namespace``` namespace is created.
+        
+    *   Explanation: Creates a new namespace called ```my-namespace```.
         
 
-*   Explanation: Lists all the deployments available in the \`my-namespace\` namespace.
+1.  **```kubectl create deployment my-deployment --image=my-image:v1 --namespace=my-namespace```:**
     
 
-1.  **\`kubectl get pods --field-selector=status.phase=Running -- namespace=my-namespace\`:**
+*   Output: The ```my-deployment``` deployment is created in the ```my-namespace``` namespace.
     
 
-*   Output: A list of running pods in the \`my-namespace\` namespace.
+*   Explanation: Creates a deployment called ```my-deployment``` in the ```my-namespace``` namespace using the ```my-image:v1``` container image.
     
 
-*   Explanation: Lists all the pods in the \`my-namespace\` namespace that are in the running phase.
+1.  **```kubectl scale deployment my-deployment --replicas=3 -- namespace=my-namespace```:**
     
 
-1.  **\`kubectl rollout status deployment/my-deployment -- namespace=my-namespace\`:**
+*   Output: The ```my-deployment``` deployment in the ```my-namespace``` namespace is scaled to 3 replicas.
     
 
-*   Output: The rollout status of the \`my-deployment\` deployment in the \`my-namespace\` namespace.
+*   Explanation: Adjusts the number of replicas for the ```my-deployment``` deployment in the ```my-namespace``` namespace to 3.
     
 
-*   Explanation: Checks and displays the status of the rollout process for the \`my-deployment\` deployment in the \`my-namespace\` namespace.
+1.  **```kubectl get deployments --namespace=my-namespace```:**
     
-
-1.  **\`kubectl set image deployment/my-deployment my-container=my-image:v2 --namespace=my-namespace\`:**
-    
-
-*   Output: The image for the \`my-container\` container in the \`my-deployment\` deployment is updated to \`my-image:v2\`.
-    
-
-*   Explanation: Updates the image of the \`my-container\` container in the \`my-deployment\` deployment in the \`my-namespace\` namespace to \`my-image:v2\`.
-    
-
-1.  **\`kubectl delete deployment my-deployment --namespace=my-namespace\`:**
-    
-
-*   Output: The \`my-deployment\` deployment in the \`my-namespace\` namespace is deleted.
-    
-
-*   Explanation: Deletes the \`my-deployment\` deployment in the \`my-namespace\` namespace, terminating its execution and removing all associated resources.
-    
-
-1.  **\`kubectl delete namespace my-namespace\`:**
-    
-    *   Output: The \`my-namespace\` namespace is deleted.
+    *   Output: A list of deployments in the ```my-namespace``` namespace.
         
 
-*   Explanation: Deletes the \`my-namespace\` namespace and all its associated resources, including deployments, pods, and services.
+*   Explanation: Lists all the deployments available in the ```my-namespace``` namespace.
+    
+
+1.  **```kubectl get pods --field-selector=status.phase=Running -- namespace=my-namespace```:**
+    
+
+*   Output: A list of running pods in the ```my-namespace``` namespace.
+    
+
+*   Explanation: Lists all the pods in the ```my-namespace``` namespace that are in the running phase.
+    
+
+1.  **```kubectl rollout status deployment/my-deployment -- namespace=my-namespace```:**
+    
+
+*   Output: The rollout status of the ```my-deployment``` deployment in the ```my-namespace``` namespace.
+    
+
+*   Explanation: Checks and displays the status of the rollout process for the ```my-deployment``` deployment in the ```my-namespace``` namespace.
+    
+
+1.  **```kubectl set image deployment/my-deployment my-container=my-image:v2 --namespace=my-namespace```:**
+    
+
+*   Output: The image for the ```my-container``` container in the ```my-deployment``` deployment is updated to ```my-image:v2```.
+    
+
+*   Explanation: Updates the image of the ```my-container``` container in the ```my-deployment``` deployment in the ```my-namespace``` namespace to ```my-image:v2```.
+    
+
+1.  **```kubectl delete deployment my-deployment --namespace=my-namespace```:**
+    
+
+*   Output: The ```my-deployment``` deployment in the ```my-namespace``` namespace is deleted.
+    
+
+*   Explanation: Deletes the ```my-deployment``` deployment in the ```my-namespace``` namespace, terminating its execution and removing all associated resources.
+    
+
+1.  **```kubectl delete namespace my-namespace```:**
+    
+    *   Output: The ```my-namespace``` namespace is deleted.
+        
+
+*   Explanation: Deletes the ```my-namespace``` namespace and all its associated resources, including deployments, pods, and services.
     
 
 Amazon Elastic Kubernetes Service (EKS) **Interview Question & Answers**
@@ -4587,7 +4587,7 @@ swer 1:
 
 To scale the application based on a custom metric, you can follow these steps:
 
-1\. Define a custom metric that reflects the workload or performance of
+1. Define a custom metric that reflects the workload or performance of
 
 your application. For example, it could be the number of requests per minute.
 
@@ -4779,31 +4779,31 @@ ensuring a smooth transition between blue and green environments for future depl
 
 **EKS Commands**
 
-1.  **\`eksctl create cluster --name=my-cluster --region=us-west-2\`:**
+1.  **```eksctl create cluster --name=my-cluster --region=us-west-2```:**
     
 
-*   Output: Creates an EKS cluster named \`my-cluster\` in the \`us-west-2\` region.
+*   Output: Creates an EKS cluster named ```my-cluster``` in the ```us-west-2``` region.
     
 
 *   Explanation: This command creates a new EKS cluster with the specified name and in the specified AWS region.
     
 
-1.  **\`eksctl get cluster\`:**
+1.  **```eksctl get cluster```:**
     
     *   Output: Retrieves a list of EKS clusters in your AWS account.
         
     *   Explanation: Lists all the EKS clusters available in your AWS account.
         
 
-1.  **\`eksctl delete cluster --name=my-cluster\`:**
+1.  **```eksctl delete cluster --name=my-cluster```:**
     
-    *   Output: Deletes the EKS cluster named \`my-cluster\`.
+    *   Output: Deletes the EKS cluster named ```my-cluster```.
         
 
 *   Explanation: Deletes the specified EKS cluster and all associated resources.
     
 
-1.  **\`eksctl scale nodegroup --cluster=my-cluster --name=my-nodegroup --nodes=3\`:**
+1.  **```eksctl scale nodegroup --cluster=my-cluster --name=my-nodegroup --nodes=3```:**
     
 
 *   Output: Scales the specified node group in the cluster to have 3 nodes.
@@ -4812,7 +4812,7 @@ ensuring a smooth transition between blue and green environments for future depl
 *   Explanation: Adjusts the number of nodes in the specified node group of the EKS cluster.
     
 
-1.  **\`eksctl get nodegroup --cluster=my-cluster\`:**
+1.  **```eksctl get nodegroup --cluster=my-cluster```:**
     
     *   Output: Retrieves a list of node groups in the specified EKS cluster.
         
@@ -4820,25 +4820,25 @@ ensuring a smooth transition between blue and green environments for future depl
 *   Explanation: Lists all the node groups associated with the specified EKS cluster.
     
 
-1.  **\`eksctl create nodegroup --cluster=my-cluster --name=my-nodegroup --nodes=2 --instance-type=t3.medium\`:**
+1.  **```eksctl create nodegroup --cluster=my-cluster --name=my-nodegroup --nodes=2 --instance-type=t3.medium```:**
     
 
-*   Output: Creates a new node group named \`my-nodegroup\` in the specified EKS cluster with 2 nodes and \`t3.medium\` instance type.
+*   Output: Creates a new node group named ```my-nodegroup``` in the specified EKS cluster with 2 nodes and ```t3.medium``` instance type.
     
 
 *   Explanation: Adds a new node group to the specified EKS cluster with the desired configuration.
     
 
-1.  **\`eksctl create fargateprofile --cluster=my-cluster --name=my-fargateprofile --namespace=my-namespace --selectors=app=my-app\`:**
+1.  **```eksctl create fargateprofile --cluster=my-cluster --name=my-fargateprofile --namespace=my-namespace --selectors=app=my-app```:**
     
 
-*   Output: Creates a Fargate profile named \`my-fargateprofile\` in the specified EKS cluster for the specified namespace and pod selector.
+*   Output: Creates a Fargate profile named ```my-fargateprofile``` in the specified EKS cluster for the specified namespace and pod selector.
     
 
 *   Explanation: Configures a Fargate profile to run pods in the specified namespace with a specific label selector on the EKS cluster.
     
 
-1.  **\`eksctl get fargateprofile --cluster=my-cluster\`:**
+1.  **```eksctl get fargateprofile --cluster=my-cluster```:**
     
     *   Output: Retrieves a list of Fargate profiles in the specified EKS cluster.
         
@@ -4846,7 +4846,7 @@ ensuring a smooth transition between blue and green environments for future depl
 *   Explanation: Lists all the Fargate profiles associated with the specified EKS cluster.
     
 
-1.  **\`eksctl delete fargateprofile --cluster=my-cluster --name=my-fargateprofile\`:**
+1.  **```eksctl delete fargateprofile --cluster=my-cluster --name=my-fargateprofile```:**
     
 
 *   Output: Deletes the specified Fargate profile from the specified EKS cluster.
@@ -4855,7 +4855,7 @@ ensuring a smooth transition between blue and green environments for future depl
 *   Explanation: Removes the specified Fargate profile and stops running Fargate pods associated with it.
     
 
-1.  **\`eksctl create iamidentitymapping --cluster=my-cluster -- arn=arn:aws:iam::123456789012:role/my-role --group=my-group -- username=my-user\`:**
+1.  **```eksctl create iamidentitymapping --cluster=my-cluster -- arn=arn:aws:iam::123456789012:role/my-role --group=my-group -- username=my-user```:**
     
 
 *   Output: Creates an IAM identity mapping for the specified role, group, and user in the specified EKS cluster.
@@ -4864,7 +4864,7 @@ ensuring a smooth transition between blue and green environments for future depl
 *   Explanation: Maps an IAM role, group, or user to a Kubernetes user in the specified EKS cluster for RBAC authorization.
     
 
-1.  **\`eksctl get iamidentitymapping --cluster=my-cluster\`:**
+1.  **```eksctl get iamidentitymapping --cluster=my-cluster```:**
     
 
 *   Output: Retrieves a list of IAM identity mappings in the specified EKS cluster.
@@ -4873,7 +4873,7 @@ ensuring a smooth transition between blue and green environments for future depl
 *   Explanation: Lists all the IAM identity mappings associated with the specified EKS cluster.
     
 
-1.  **\`eksctl delete iamidentitymapping --cluster=my-cluster -- arn=arn:aws:iam::123456789012:role/my-role\`:**
+1.  **```eksctl delete iamidentitymapping --cluster=my-cluster -- arn=arn:aws:iam::123456789012:role/my-role```:**
     
 
 *   Output: Deletes the specified IAM identity mapping from the specified
@@ -4886,16 +4886,16 @@ KS cluster.
 *   Explanation: Removes the specified IAM identity mapping, disabling RBAC authorization for the associated IAM role, group, or user.
     
 
-1.  **\`eksctl create managednodegroup --cluster=my-cluster -- name=my-managednodegroup --instance-types=t3.medium,t3.large -- desired-capacity=3\`:**
+1.  **```eksctl create managednodegroup --cluster=my-cluster -- name=my-managednodegroup --instance-types=t3.medium,t3.large -- desired-capacity=3```:**
     
 
-*   Output: Creates a new managed node group named \`my-managednodegroup\` in the specified EKS cluster with the specified instance types and desired capacity.
+*   Output: Creates a new managed node group named ```my-managednodegroup``` in the specified EKS cluster with the specified instance types and desired capacity.
     
 
 *   Explanation: Creates a managed node group with the desired configuration in the specified EKS cluster.
     
 
-1.  **\`eksctl get managednodegroup --cluster=my-cluster\`:**
+1.  **```eksctl get managednodegroup --cluster=my-cluster```:**
     
 
 *   Output: Retrieves a list of managed node groups in the specified EKS cluster.
@@ -4904,7 +4904,7 @@ KS cluster.
 *   Explanation: Lists all the managed node groups associated with the specified EKS cluster.
     
 
-1.  **\`eksctl delete managednodegroup --cluster=my-cluster -- name=my-managednodegroup\`:**
+1.  **```eksctl delete managednodegroup --cluster=my-cluster -- name=my-managednodegroup```:**
     
 
 *   Output: Deletes the specified managed node group from the specified EKS cluster.
@@ -4913,16 +4913,16 @@ KS cluster.
 *   Explanation: Removes the specified managed node group and all associated resources.
     
 
-1.  **\`eksctl create addon --cluster=my-cluster --name=my-addon\`:**
+1.  **```eksctl create addon --cluster=my-cluster --name=my-addon```:**
     
 
-*   Output: Creates an addon named \`my-addon\` in the specified EKS cluster.
+*   Output: Creates an addon named ```my-addon``` in the specified EKS cluster.
     
 
 *   Explanation: Deploys the specified addon in the EKS cluster, enabling additional functionality such as VPC CNI or Kubernetes dashboard.
     
 
-1.  **\`eksctl get addon --cluster=my-cluster\`:**
+1.  **```eksctl get addon --cluster=my-cluster```:**
     
     *   Output: Retrieves a list of addons in the specified EKS cluster.
         
@@ -4930,23 +4930,23 @@ KS cluster.
 *   Explanation: Lists all the addons associated with the specified EKS cluster.
     
 
-1.  **\`eksctl delete addon --cluster=my-cluster --name=my-addon\`:**
+1.  **```eksctl delete addon --cluster=my-cluster --name=my-addon```:**
     
     *   Output: Deletes the specified addon from the specified EKS cluster.
         
     *   Explanation: Removes the specified addon from the EKS cluster.
         
 
-1.  **\`eksctl create iamserviceaccount --cluster=my-cluster --name=my-serviceaccount --namespace=my-namespace --attach-policy-arn=arn:aws:iam::123456789012:policy/my-policy\`:**
+1.  **```eksctl create iamserviceaccount --cluster=my-cluster --name=my-serviceaccount --namespace=my-namespace --attach-policy-arn=arn:aws:iam::123456789012:policy/my-policy```:**
     
 
-*   Output: Creates an IAM service account named \`my-serviceaccount\` in the specified EKS cluster, namespace, and attaches the specified IAM policy.
+*   Output: Creates an IAM service account named ```my-serviceaccount``` in the specified EKS cluster, namespace, and attaches the specified IAM policy.
     
 
 *   Explanation: Creates an IAM service account and associates the specified IAM policy to it for controlled access to AWS resources from pods.
     
 
-1.  **\`eksctl get iamserviceaccount --cluster=my-cluster\`:**
+1.  **```eksctl get iamserviceaccount --cluster=my-cluster```:**
     
 
 *   Output: Retrieves a list of IAM service accounts in the specified EKS cluster.
@@ -4955,7 +4955,7 @@ KS cluster.
 *   Explanation: Lists all the IAM service accounts associated with the specified EKS cluster.
     
 
-1.  **\`eksctl delete iamserviceaccount --cluster=my-cluster --name=my-serviceaccount --namespace=my-namespace\`:**
+1.  **```eksctl delete iamserviceaccount --cluster=my-cluster --name=my-serviceaccount --namespace=my-namespace```:**
     
 
 *   Output: Deletes the specified IAM service account from the specified EKS cluster.
@@ -4964,16 +4964,16 @@ KS cluster.
 *   Explanation: Removes the specified IAM service account and its associated resources.
     
 
-1.  **\`eksctl create loggsdefinition --cluster=my-cluster --name=my-loggroup --retention=7\`:**
+1.  **```eksctl create loggsdefinition --cluster=my-cluster --name=my-loggroup --retention=7```:**
     
 
-*   Output: Creates a CloudWatch Logs log group named \`my-loggroup\` in the specified EKS cluster with a retention period of 7 days.
+*   Output: Creates a CloudWatch Logs log group named ```my-loggroup``` in the specified EKS cluster with a retention period of 7 days.
     
 
 *   Explanation: Creates a log group in CloudWatch Logs for storing logs generated by pods in the specified EKS cluster.
     
 
-1.  **\`eksctl get loggsdefinition --cluster=my-cluster\`:**
+1.  **```eksctl get loggsdefinition --cluster=my-cluster```:**
     
 
 *   Output: Retrieves a list of CloudWatch Logs log groups in the specified EKS cluster.
@@ -4982,7 +4982,7 @@ KS cluster.
 *   Explanation: Lists all the CloudWatch Logs log groups associated with the specified EKS cluster.
     
 
-1.  **\`eksctl delete loggsdefinition --cluster=my-cluster --name=my-loggroup\`:**
+1.  **```eksctl delete loggsdefinition --cluster=my-cluster --name=my-loggroup```:**
     
 
 *   Output: Deletes the specified CloudWatch Logs log group from the specified EKS cluster.
@@ -4991,16 +4991,16 @@ KS cluster.
 *   Explanation: Removes the specified CloudWatch Logs log group and all its associated logs.
     
 
-1.  **\`eksctl create secret --cluster=my-cluster --name=my-secret -- namespace=my-namespace --data=my-secret-data.txt\`:**
+1.  **```eksctl create secret --cluster=my-cluster --name=my-secret -- namespace=my-namespace --data=my-secret-data.txt```:**
     
 
-*   Output: Creates a secret named \`my-secret\` in the specified EKS cluster and namespace, using the data from the specified file.
+*   Output: Creates a secret named ```my-secret``` in the specified EKS cluster and namespace, using the data from the specified file.
     
 
 *   Explanation: Creates a Kubernetes secret with the specified data and associates it with the specified EKS cluster and namespace.
     
 
-1.  **\`eksctl get secret --cluster=my-cluster --namespace=my-namespace\`:**
+1.  **```eksctl get secret --cluster=my-cluster --namespace=my-namespace```:**
     
 
 *   Output: Retrieves a list of secrets in the specified EKS cluster and namespace.
@@ -5009,7 +5009,7 @@ KS cluster.
 *   Explanation: Lists all the secrets associated with the specified EKS cluster and namespace.
     
 
-1.  **\`eksctl delete secret --cluster=my-cluster --name=my-secret -- namespace=my-namespace\`:**
+1.  **```eksctl delete secret --cluster=my-cluster --name=my-secret -- namespace=my-namespace```:**
     
 
 *   Output: Deletes the specified secret from the specified EKS cluster and namespace.
@@ -5018,16 +5018,16 @@ KS cluster.
 *   Explanation: Removes the specified secret from the Kubernetes cluster.
     
 
-1.  **\`eksctl create appmesh --cluster=my-cluster --name=my-appmesh\`:**
+1.  **```eksctl create appmesh --cluster=my-cluster --name=my-appmesh```:**
     
 
-*   Output: Creates an AWS App Mesh resource named \`my-appmesh\` in the specified EKS cluster.
+*   Output: Creates an AWS App Mesh resource named ```my-appmesh``` in the specified EKS cluster.
     
 
 *   Explanation: Creates an App Mesh resource for managing and monitoring microservices running in the specified EKS cluster.
     
 
-1.  **\`eksctl get appmesh --cluster=my-cluster\`:**
+1.  **```eksctl get appmesh --cluster=my-cluster```:**
     
 
 *   Output: Retrieves a list of App Mesh resources in the specified EKS cluster.
@@ -5036,7 +5036,7 @@ KS cluster.
 *   Explanation: Lists all the App Mesh resources associated with the specified EKS cluster.
     
 
-1.  **\`eksctl delete appmesh --cluster=my-cluster --name=my-appmesh\`:**
+1.  **```eksctl delete appmesh --cluster=my-cluster --name=my-appmesh```:**
     
 
 *   Output: Deletes the specified App Mesh resource from the specified EKS cluster.
@@ -5045,16 +5045,16 @@ KS cluster.
 *   Explanation: Removes the specified App Mesh resource and all its associated components.
     
 
-1.  **\`eksctl create pipeline --name=my-pipeline --region=us-west-2 -- repo=my-repo --branch=main\`:**
+1.  **```eksctl create pipeline --name=my-pipeline --region=us-west-2 -- repo=my-repo --branch=main```:**
     
 
-*   Output: Creates an AWS CodePipeline pipeline named \`my-pipeline\` in the \`us-west-2\` region, configured with the specified repository and branch.
+*   Output: Creates an AWS CodePipeline pipeline named ```my-pipeline``` in the ```us-west-2``` region, configured with the specified repository and branch.
     
 
 *   Explanation: Sets up a CodePipeline pipeline to automate the continuous integration and delivery (CI/CD) process for deploying applications to the specified EKS cluster.
     
 
-1.  **\`eksctl get pipeline --region=us-west-2\`:**
+1.  **```eksctl get pipeline --region=us-west-2```:**
     
 
 *   Output: Retrieves a list of CodePipeline pipelines in the specified region.
@@ -5063,7 +5063,7 @@ KS cluster.
 *   Explanation: Lists all the CodePipeline pipelines available in the specified AWS region.
     
 
-1.  **\`eksctl delete pipeline --name=my-pipeline --region=us-west-2\`:**
+1.  **```eksctl delete pipeline --name=my-pipeline --region=us-west-2```:**
     
 
 *   Output: Deletes the specified CodePipeline pipeline from the specified region.
@@ -5072,16 +5072,16 @@ KS cluster.
 *   Explanation: Removes the specified CodePipeline pipeline and all its associated resources.
     
 
-1.  **\`eksctl create autoscalinggroup --cluster=my-cluster --name=my-asg --nodes=2:4 --node-type=t3.medium\`:**
+1.  **```eksctl create autoscalinggroup --cluster=my-cluster --name=my-asg --nodes=2:4 --node-type=t3.medium```:**
     
 
-*   Output: Creates an Auto Scaling Group (ASG) named \`my-asg\` in the specified EKS cluster with 2 to 4 nodes of \`t3.medium\` instance type.
+*   Output: Creates an Auto Scaling Group (ASG) named ```my-asg``` in the specified EKS cluster with 2 to 4 nodes of ```t3.medium``` instance type.
     
 
 *   Explanation: Configures an ASG to automatically adjust the number of nodes in the specified EKS cluster based on demand.
     
 
-1.  **\`eksctl get autoscalinggroup --cluster=my-cluster\`:**
+1.  **```eksctl get autoscalinggroup --cluster=my-cluster```:**
     
 
 *   Output: Retrieves a list of Auto Scaling Groups in the specified EKS cluster.
@@ -5090,7 +5090,7 @@ KS cluster.
 *   Explanation: Lists all the Auto Scaling Groups associated with the specified EKS cluster.
     
 
-1.  **\`eksctl delete autoscalinggroup --cluster=my-cluster --name=my-asg\`:**
+1.  **```eksctl delete autoscalinggroup --cluster=my-cluster --name=my-asg```:**
     
 
 *   Output: Deletes the specified Auto Scaling Group from the specified EKS cluster.
@@ -5138,7 +5138,7 @@ Terraform **Interview Question & Answers**
 1.  **Q: How do you initialize a Terraform project?**
     
 
-1.  To initialize a Terraform project, you can use the \`terraform init\` command. This command initializes the working directory, downloads the necessary provider plugins, and sets up the backend configuration.
+1.  To initialize a Terraform project, you can use the ```terraform init``` command. This command initializes the working directory, downloads the necessary provider plugins, and sets up the backend configuration.
     
 
 1.  **Q: What is a Terraform module?**
@@ -5150,7 +5150,7 @@ Terraform **Interview Question & Answers**
 1.  **Q: How do you apply changes to your infrastructure with Terraform?**
     
 
-1.  You can apply changes to your infrastructure using the \`terraform apply\` command. This command reads the configuration files, creates an execution plan, and then prompts for approval before making any changes. Once approved, Terraform applies the changes to your infrastructure.
+1.  You can apply changes to your infrastructure using the ```terraform apply``` command. This command reads the configuration files, creates an execution plan, and then prompts for approval before making any changes. Once approved, Terraform applies the changes to your infrastructure.
     
 
 1.  **Q: How does Terraform handle state management?**
@@ -5159,16 +5159,16 @@ Terraform **Interview Question & Answers**
 1.  Terraform uses a state file to keep track of the current state of your infrastructure. The state file contains information about the resources managed by Terraform, their properties, and any dependencies between them. Terraform uses this state file to determine the changes needed to achieve the desired state and to track the infrastructure over time.
     
 
-1.  **Q: What is the difference between \`terraform plan\` and \`terraform apply\`?**
+1.  **Q: What is the difference between ```terraform plan``` and ```terraform apply```?**
     
 
-1.  \`terraform plan\` generates an execution plan by comparing the desired state in the configuration files with the current state. It shows what changes will be made without actually applying them. \`terraform apply\` executes the plan and applies the changes to the infrastructure, after receiving approval from the user.
+1.  ```terraform plan``` generates an execution plan by comparing the desired state in the configuration files with the current state. It shows what changes will be made without actually applying them. ```terraform apply``` executes the plan and applies the changes to the infrastructure, after receiving approval from the user.
     
 
 1.  **Q: How can you destroy infrastructure created with Terraform?**
     
 
-1.  You can destroy the infrastructure created with Terraform using the \`terraform destroy\` command. This command reads the Terraform configuration, creates a destruction plan, and prompts for approval before executing the plan. Once approved, Terraform destroys the infrastructure and removes all associated resources.
+1.  You can destroy the infrastructure created with Terraform using the ```terraform destroy``` command. This command reads the Terraform configuration, creates a destruction plan, and prompts for approval before executing the plan. Once approved, Terraform destroys the infrastructure and removes all associated resources.
     
 2.  **Q: Can Terraform manage resources in multiple cloud providers?**
     
@@ -5197,13 +5197,13 @@ Terraform **Interview Question & Answers**
 
 data:
 
-\- Input variables: You can prompt users to input sensitive information interactively during the Terraform run.
+- Input variables: You can prompt users to input sensitive information interactively during the Terraform run.
 
-\- Environment variables: You can use environment variables to pass sensitive data to Terraform.
+- Environment variables: You can use environment variables to pass sensitive data to Terraform.
 
-\- External data sources: You can fetch secrets from external sources like key management services or secret stores using data sources.
+- External data sources: You can fetch secrets from external sources like key management services or secret stores using data sources.
 
-\- Vault integration: Terraform integrates with HashiCorp Vault, a secrets management tool, to securely retrieve and manage secrets.
+- Vault integration: Terraform integrates with HashiCorp Vault, a secrets management tool, to securely retrieve and manage secrets.
 
 1.  **Q: What is the purpose of Terraform state locking, and how can you enable it?**
     
@@ -5223,11 +5223,11 @@ data:
 1.  When working with a team, it's important to have a centralized and shared state management approach. Some common practices include:
     
 
-\- Using a remote backend: Store the state file in a remote backend (such as an object storage bucket or a version control system) that can be accessed by all team members.
+- Using a remote backend: Store the state file in a remote backend (such as an object storage bucket or a version control system) that can be accessed by all team members.
 
-\- Implementing a state locking mechanism: Enable state locking to prevent concurrent modifications to the state file by different team members.
+- Implementing a state locking mechanism: Enable state locking to prevent concurrent modifications to the state file by different team members.
 
-\- Setting up a CI/CD pipeline: Integrate Terraform with a CI/CD pipeline to automate the execution of Terraform commands and ensure consistent state management.
+- Setting up a CI/CD pipeline: Integrate Terraform with a CI/CD pipeline to automate the execution of Terraform commands and ensure consistent state management.
 
 1.  **Q: What are Terraform data sources, and how are they used?**
     
@@ -5246,7 +5246,7 @@ data:
 1.  The "plan refresh" process in Terraform involves reading the current state of the infrastructure and comparing
     
 
-it with the configured resources. It determines the changes that need to be made to align the current state with the desired state. The plan refresh process is triggered automatically when running \`terraform plan\` or \`terraform apply\`.
+it with the configured resources. It determines the changes that need to be made to align the current state with the desired state. The plan refresh process is triggered automatically when running ```terraform plan``` or ```terraform apply```.
 
 1.  **Q: Can Terraform manage resources that were not created by Terraform itself?**
     
@@ -5282,13 +5282,13 @@ backend storage, enhance security, and enable centralized control and automation
 1.  Terraform modules are self-contained, reusable components that encapsulate a set of resources and provide input and output variables. To structure modules effectively, you can follow best practices such as:
     
 
-\- Keeping modules focused and single-purpose.
+- Keeping modules focused and single-purpose.
 
-\- Providing clear documentation and examples for module usage. - Designing modules with flexibility and reusability in mind.
+- Providing clear documentation and examples for module usage. - Designing modules with flexibility and reusability in mind.
 
-\- Defining input variables to customize module behavior.
+- Defining input variables to customize module behavior.
 
-\- Providing informative outputs to enable easy consumption of module results.
+- Providing informative outputs to enable easy consumption of module results.
 
 1.  **Q: What is the "Terraform state" and how can you manage it in a team environment?**
     
@@ -5296,11 +5296,11 @@ backend storage, enhance security, and enable centralized control and automation
 1.  The Terraform state represents the current state of the managed infrastructure. It includes information about resources, their properties, and dependencies. To manage the state in a team environment:
     
 
-\- Use a shared remote backend to store the state file, enabling collaboration.
+- Use a shared remote backend to store the state file, enabling collaboration.
 
-\- Implement a state locking mechanism to prevent concurrent modifications.
+- Implement a state locking mechanism to prevent concurrent modifications.
 
-\- Define clear ownership and access controls for the state file. - Consider implementing a state versioning strategy for better
+- Define clear ownership and access controls for the state file. - Consider implementing a state versioning strategy for better
 
 traceability and rollback options.
 
@@ -5310,13 +5310,13 @@ traceability and rollback options.
 1.  Infrastructure testing and validation can be achieved using tools and practices such as:
     
 
-\- Using Terraform's built-in \`terraform validate\` command to check for configuration errors and syntax.
+- Using Terraform's built-in ```terraform validate``` command to check for configuration errors and syntax.
 
-\- Employing automated testing frameworks like Terratest or Kitchen-Terraform to write and execute infrastructure tests.
+- Employing automated testing frameworks like Terratest or Kitchen-Terraform to write and execute infrastructure tests.
 
-\- Incorporating linting tools like TFLint to enforce best practices and coding standards.
+- Incorporating linting tools like TFLint to enforce best practices and coding standards.
 
-\- Leveraging integration and end-to-end testing to validate the behavior of the infrastructure.
+- Leveraging integration and end-to-end testing to validate the behavior of the infrastructure.
 
 1.  **Q: Explain the concept of "Terraform as a service" and its benefits.**
     
@@ -5324,13 +5324,13 @@ traceability and rollback options.
 1.  "Terraform as a service" refers to the practice of providing Terraform functionality as a managed service. Benefits of Terraform as a service include:
     
 
-\- Simplified infrastructure provisioning and management.
+- Simplified infrastructure provisioning and management.
 
-\- Centralized control and visibility across multiple environments.
+- Centralized control and visibility across multiple environments.
 
-\- Reduced operational overhead, as the service provider manages the infrastructure hosting Terraform.
+- Reduced operational overhead, as the service provider manages the infrastructure hosting Terraform.
 
-\- Seamless integration with other DevOps tools and workflows.
+- Seamless integration with other DevOps tools and workflows.
 
 1.  **Q: What are Terraform workspaces, and how can they be leveraged effectively?**
     
@@ -5338,18 +5338,18 @@ traceability and rollback options.
 1.  Terraform workspaces enable the management of multiple instances of the same infrastructure in separate environments. To leverage workspaces effectively:
     
 
-\- Use workspaces to separate development, staging, and production environments.
+- Use workspaces to separate development, staging, and production environments.
 
-\- Define workspace-specific variables to customize behavior for each environment.
+- Define workspace-specific variables to customize behavior for each environment.
 
-\- Utilize workspace-specific state files to isolate state between environments.
+- Utilize workspace-specific state files to isolate state between environments.
 
-\- Automate workspace creation and switching using scripts or CI/CD pipelines.
+- Automate workspace creation and switching using scripts or CI/CD pipelines.
 
 1.  **Q: Explain the concept of "Immutable Infrastructure" and how Terraform supports it.**
     
 
-1.  Immutable Infrastructure refers to the practice of treating infrastructure as disposable and never modifying it once provisioned. Terraform supports Immutable Infrastructure by promoting the recreation of resources instead of in-place updates. By using Terraform's \`destroy\` and \`apply\` commands, resources can be destroyed and recreated with each change, ensuring a consistent and predictable infrastructure state.
+1.  Immutable Infrastructure refers to the practice of treating infrastructure as disposable and never modifying it once provisioned. Terraform supports Immutable Infrastructure by promoting the recreation of resources instead of in-place updates. By using Terraform's ```destroy``` and ```apply``` commands, resources can be destroyed and recreated with each change, ensuring a consistent and predictable infrastructure state.
     
 
 1.  **Q: How can you handle complex dependency management and resource ordering in Terraform?**
@@ -5358,14 +5358,14 @@ traceability and rollback options.
 1.  To handle complex dependency management and resource ordering in Terraform:
     
 
-\- Leverage implicit and explicit dependencies defined in the Terraform
+- Leverage implicit and explicit dependencies defined in the Terraform
 
 configuration.
 
-*   Utilize Terraform's \`depends\_on\` parameter to enforce ordering between resources.
+*   Utilize Terraform's ```depends\_on``` parameter to enforce ordering between resources.
     
 
-*   Use the \`terraform state\` command to modify resource ordering in the Terraform state file, if necessary.
+*   Use the ```terraform state``` command to modify resource ordering in the Terraform state file, if necessary.
     
 
 *   Consider breaking down complex configurations into smaller modules to simplify dependency management.
@@ -5390,7 +5390,7 @@ Answer: To support a multi-cloud environment in Terraform, you can structure you
 
 **SSH key pairs or database passwords, to the instance securely. How would you handle this situation?**
 
-Answer: To handle sensitive information securely in Terraform, you can leverage input variables and environment variables. Define input variables for sensitive information and use the \`sensitive\` argument to mark them as confidential. Prompt the user to enter the sensitive information interactively during the Terraform run. Alternatively, you can use environment variables to pass sensitive data to Terraform, ensuring that they are securely managed and protected.
+Answer: To handle sensitive information securely in Terraform, you can leverage input variables and environment variables. Define input variables for sensitive information and use the ```sensitive``` argument to mark them as confidential. Prompt the user to enter the sensitive information interactively during the Terraform run. Alternatively, you can use environment variables to pass sensitive data to Terraform, ensuring that they are securely managed and protected.
 
 1.  **Scenario: You are working in a team where multiple developers are making changes to the infrastructure concurrently. How would you ensure that Terraform state is managed properly and avoid conflicts?**
     
@@ -5412,12 +5412,12 @@ directory, define the necessary Terraform configuration files specific to that e
 1.  **Scenario: You need to provision infrastructure in AWS, and it requires some custom configuration after resource creation, such as installing software or running scripts. How would you achieve this with Terraform?**
     
 
-Answer: To achieve custom configuration after resource creation in Terraform, you can utilize provisioners. Provisioners are blocks of code that run on the created resources. You can use the \`remote-exec\` provisioner to SSH into an EC2 instance and execute commands or scripts. Alternatively, you can use configuration management tools like Ansible or Chef as provisioners to perform more complex configurations. By leveraging provisioners, you can automate post-provisioning tasks in your infrastructure deployment.
+Answer: To achieve custom configuration after resource creation in Terraform, you can utilize provisioners. Provisioners are blocks of code that run on the created resources. You can use the ```remote-exec``` provisioner to SSH into an EC2 instance and execute commands or scripts. Alternatively, you can use configuration management tools like Ansible or Chef as provisioners to perform more complex configurations. By leveraging provisioners, you can automate post-provisioning tasks in your infrastructure deployment.
 
 1.  **Scenario: You are deploying a Kubernetes cluster on AWS using Terraform. How would you handle the configuration and installation of Kubernetes components?**
     
 
-Answer: To handle the configuration and installation of Kubernetes components in Terraform, you can utilize the Kubernetes provider. The provider allows you to define Kubernetes resources, such as pods, services, or deployments, directly in your Terraform configuration. You can use Terraform variables to parameterize the Kubernetes configuration and enable customization. Additionally, you can use the \`kubernetes-alpha\` provider to perform more advanced Kubernetes tasks like managing custom resources or cluster-level configurations.
+Answer: To handle the configuration and installation of Kubernetes components in Terraform, you can utilize the Kubernetes provider. The provider allows you to define Kubernetes resources, such as pods, services, or deployments, directly in your Terraform configuration. You can use Terraform variables to parameterize the Kubernetes configuration and enable customization. Additionally, you can use the ```kubernetes-alpha``` provider to perform more advanced Kubernetes tasks like managing custom resources or cluster-level configurations.
 
 1.  **Scenario: You are managing infrastructure in Azure using Terraform, and you need to integrate with Azure Key Vault to store and retrieve secrets securely. How would you achieve this?**
     
@@ -5429,13 +5429,13 @@ provisioning. Ensure proper access control and permissions are set on the Key Va
 1.  **Scenario: You are deploying infrastructure using Terraform, and you want to validate the correctness of your configuration before applying changes. How would you perform this validation?**
     
 
-Answer: To validate the correctness of your Terraform configuration before applying changes, you can use the \`terraform validate\` command. Running this command checks for syntax errors, invalid resource configurations, and missing required arguments in your Terraform configuration files. Additionally, you can utilize linting tools like TFLint, which provides additional checks for best practices, security issues, and coding standards specific to Terraform.
+Answer: To validate the correctness of your Terraform configuration before applying changes, you can use the ```terraform validate``` command. Running this command checks for syntax errors, invalid resource configurations, and missing required arguments in your Terraform configuration files. Additionally, you can utilize linting tools like TFLint, which provides additional checks for best practices, security issues, and coding standards specific to Terraform.
 
 Remember to familiarize yourself with various scenarios that align with your target infrastructure and cloud providers. These scenario-based questions help assess your ability to design, implement, and manage infrastructure using Terraform in practical situations. Additionally, demonstrating an understanding of best practices, resource dependencies, and integration with other tools or services will showcase your expertise in Terraform.
 
 **Terraform Commands**
 
-1.  **\`terraform init\`: Initializes a new or existing Terraform working directory.**
+1.  **```terraform init```: Initializes a new or existing Terraform working directory.**
     
 
 *   Output: Initializes the working directory and downloads any required provider plugins.
@@ -5444,7 +5444,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 *   Explanation: This command sets up the working directory for Terraform and prepares it for further operations.
     
 
-1.  **\`terraform plan\`: Creates an execution plan by comparing the desired state with the current state.**
+1.  **```terraform plan```: Creates an execution plan by comparing the desired state with the current state.**
     
 
 *   Output: Shows the changes that Terraform will make to achieve the desired state.
@@ -5453,7 +5453,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 *   Explanation: This command helps you preview the infrastructure changes Terraform will make before actually applying them.
     
 
-1.  **\`terraform apply\`: Applies the changes to reach the desired state of the configuration.**
+1.  **```terraform apply```: Applies the changes to reach the desired state of the configuration.**
     
 
 *   Output: Deploys or modifies the infrastructure as defined in the Terraform configuration files.
@@ -5462,7 +5462,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 *   Explanation: This command executes the changes defined in your Terraform configuration and brings your infrastructure to the desired state.
     
 
-1.  **\`terraform destroy\`: Destroys the infrastructure created by Terraform.**
+1.  **```terraform destroy```: Destroys the infrastructure created by Terraform.**
     
 
 *   Output: Removes all the resources created by Terraform, effectively destroying the infrastructure.
@@ -5471,7 +5471,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 *   Explanation: This command helps you tear down the infrastructure provisioned using Terraform.
     
 
-1.  **\`terraform validate\`: Validates the configuration files for correct syntax and formatting.**
+1.  **```terraform validate```: Validates the configuration files for correct syntax and formatting.**
     
 
 *   Output: Verifies that the Terraform configuration files are valid.
@@ -5480,7 +5480,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 *   Explanation: This command checks the syntax and structure of your Terraform configuration files for any errors or warnings.
     
 
-1.  **\`terraform get\`: Downloads and installs the providers required for the configuration.**
+1.  **```terraform get```: Downloads and installs the providers required for the configuration.**
     
 
 *   Output: Retrieves the necessary provider plugins specified in the configuration.
@@ -5489,7 +5489,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 *   Explanation: This command downloads and installs the provider plugins required by your Terraform configuration.
     
 
-1.  **\`terraform refresh\`: Updates the state file with the current real-world infrastructure.**
+1.  **```terraform refresh```: Updates the state file with the current real-world infrastructure.**
     
 
 *   Output: Updates the Terraform state file with the current state of the deployed infrastructure.
@@ -5498,7 +5498,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 *   Explanation: This command retrieves the real-world state of the infrastructure and updates the Terraform state file accordingly.
     
 
-1.  **\`terraform output\`: Shows the output values defined in the configuration.**
+1.  **```terraform output```: Shows the output values defined in the configuration.**
     
 
 *   Output: Displays the values of the outputs defined in the Terraform configuration.
@@ -5507,7 +5507,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 *   Explanation: This command helps you view the output values defined in your Terraform configuration.
     
 
-1.  **\`terraform state list\`: Lists all the resources in the Terraform state.**
+1.  **```terraform state list```: Lists all the resources in the Terraform state.**
     
     *   Output: Lists all the resources managed by Terraform.
         
@@ -5515,7 +5515,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 *   Explanation: This command displays a list of all resources managed by Terraform, including their addresses.
     
 
-1.  **\`terraform state show\`: Shows the attributes of a specific resource in the Terraform state.**
+1.  **```terraform state show```: Shows the attributes of a specific resource in the Terraform state.**
     
     *   Output: Displays the attributes and details of a specific resource.
         
@@ -5523,7 +5523,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 *   Explanation: This command provides a detailed view of a specific resource in the Terraform state, including its attributes and metadata.
     
 
-1.  **\`terraform state mv\`: Moves a resource within the Terraform state.**
+1.  **```terraform state mv```: Moves a resource within the Terraform state.**
     
 
 *   Output: Updates the resource's address within the Terraform state.
@@ -5532,7 +5532,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 *   Explanation: This command allows you to change the address or path of a resource within the Terraform state.
     
 
-1.  **\`terraform state rm\`: Removes a resource from the Terraform state.**
+1.  **```terraform state rm```: Removes a resource from the Terraform state.**
     
     *   Output: Removes the specified resource from the Terraform state.
         
@@ -5540,7 +5540,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 *   Explanation: This command deletes a resource from the Terraform state, but it does not destroy the actual infrastructure.
     
 
-1.  **\`terraform import\`: Imports existing infrastructure into the Terraform state.**
+1.  **```terraform import```: Imports existing infrastructure into the Terraform state.**
     
 
 *   Output: Adds an existing resource to the Terraform state.
@@ -5549,7 +5549,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 *   Explanation: This command enables you to import an existing resource into the Terraform state to manage it with Terraform.
     
 
-1.  **\`terraform graph\`: Creates a visual representation of the Terraform dependency graph.**
+1.  **```terraform graph```: Creates a visual representation of the Terraform dependency graph.**
     
 
 *   Output: Generates a DOT file that represents the infrastructure's dependency graph.
@@ -5560,7 +5560,7 @@ Remember to familiarize yourself with various scenarios that align with your tar
 
 command visualizes the dependency graph of your Terraform configuration, helping you understand the relationships between resources.
 
-1.  **\`terraform fmt\`: Rewrites configuration files to a consistent format.**
+1.  **```terraform fmt```: Rewrites configuration files to a consistent format.**
     
 
 *   Output: Formats the Terraform configuration files in a consistent style.
@@ -5570,7 +5570,7 @@ command visualizes the dependency graph of your Terraform configuration, helping
 
 configuration files, ensuring consistent indentation, spacing, and other formatting rules.
 
-1.  **\`terraform workspace list\`: Lists all available workspaces.**
+1.  **```terraform workspace list```: Lists all available workspaces.**
     
     *   Output: Displays a list of all available Terraform workspaces.
         
@@ -5578,7 +5578,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command shows all the workspaces you have created in Terraform, which allow you to manage multiple sets of infrastructure configurations.
     
 
-1.  **\`terraform workspace new\`: Creates a new workspace.**
+1.  **```terraform workspace new```: Creates a new workspace.**
     
     *   Output: Creates a new Terraform workspace.
         
@@ -5586,7 +5586,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command creates a new workspace in Terraform, allowing you to manage different sets of infrastructure configurations separately.
     
 
-1.  **\`terraform workspace select\`: Switches to a different workspace.**
+1.  **```terraform workspace select```: Switches to a different workspace.**
     
     *   Output: Switches the current workspace to the selected workspace.
         
@@ -5594,7 +5594,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command allows you to switch between different Terraform workspaces, making it easier to manage and deploy different environments or configurations.
     
 
-1.  **\`terraform workspace delete\`: Deletes a workspace.**
+1.  **```terraform workspace delete```: Deletes a workspace.**
     
     *   Output: Deletes the specified Terraform workspace.
         
@@ -5602,7 +5602,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command deletes a specific Terraform workspace, removing all associated state and configuration files.
     
 
-1.  **\`terraform output -json\`: Shows the output values in JSON format.**
+1.  **```terraform output -json```: Shows the output values in JSON format.**
     
     *   Output: Displays the output values in JSON format.
         
@@ -5610,7 +5610,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command presents the output values defined in your Terraform configuration in a JSON format, which can be useful for scripting and automation.
     
 
-1.  **\`terraform state pull\`: Retrieves the current state and saves it to a local file.**
+1.  **```terraform state pull```: Retrieves the current state and saves it to a local file.**
     
 
 *   Output: Saves the Terraform state to a local file.
@@ -5619,7 +5619,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command allows you to pull the current Terraform state and save it to a local file for analysis or backup purposes.
     
 
-1.  **\`terraform state push\`: Updates the remote state with the contents of a local state file.**
+1.  **```terraform state push```: Updates the remote state with the contents of a local state file.**
     
 
 *   Output: Pushes the local state file to update the remote Terraform state.
@@ -5628,7 +5628,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command pushes the contents of a local state file to update the remote state stored in a backend.
     
 
-1.  **\`terraform import aws\_instance.example i-abcd1234\`: Imports an EC2 instance with the specified ID into the Terraform state.**
+1.  **```terraform import aws\_instance.example i-abcd1234```: Imports an EC2 instance with the specified ID into the Terraform state.**
     
     *   Output: Adds the specified EC2 instance to the Terraform state.
         
@@ -5636,7 +5636,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command imports an existing EC2 instance with the given ID into the Terraform state, allowing you to manage it with Terraform.
     
 
-1.  **\`terraform import aws\_s3\_bucket.example my-bucket\`: Imports an S3 bucket with the specified name into the Terraform state.**
+1.  **```terraform import aws\_s3\_bucket.example my-bucket```: Imports an S3 bucket with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified S3 bucket to the Terraform state.
@@ -5645,7 +5645,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command imports an existing S3 bucket with the given name into the Terraform state, enabling you to manage it using Terraform.
     
 
-1.  **\`terraform import aws\_security\_group.example sg-abcd1234\`: Imports a security group with the specified ID into the Terraform state.**
+1.  **```terraform import aws\_security\_group.example sg-abcd1234```: Imports a security group with the specified ID into the Terraform state.**
     
 
 *   Output: Adds the specified security group to the Terraform state.
@@ -5654,7 +5654,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command imports an existing security group with the given ID into the Terraform state for management.
     
 
-1.  **\`terraform import aws\_vpc.example vpc-abcd1234\`: Imports a VPC with the specified ID into the Terraform state.**
+1.  **```terraform import aws\_vpc.example vpc-abcd1234```: Imports a VPC with the specified ID into the Terraform state.**
     
 
 *   Output: Adds the specified VPC to the Terraform state.
@@ -5663,7 +5663,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command imports an existing VPC with the given ID into the Terraform state, allowing you to manage it with Terraform.
     
 
-1.  **\`terraform import aws\_route53\_zone.example example.com\`:** Imports a Route53 zone with the specified name into the Terraform state.
+1.  **```terraform import aws\_route53\_zone.example example.com```:** Imports a Route53 zone with the specified name into the Terraform state.
     
     *   Output: Adds the specified Route53 zone to the Terraform state.
         
@@ -5671,7 +5671,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command imports an existing Route53 zone with the given name into the Terraform state for management.
     
 
-1.  **\`terraform import azurerm\_resource\_group.example /subscriptions/abcd1234/resourceGroups/my-rg\`: Imports an Azure resource group with the specified ID into the Terraform state.**
+1.  **```terraform import azurerm\_resource\_group.example /subscriptions/abcd1234/resourceGroups/my-rg```: Imports an Azure resource group with the specified ID into the Terraform state.**
     
 
 *   Output: Adds the specified Azure resource group to the Terraform state.
@@ -5680,7 +5680,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command imports an existing Azure resource group with the given ID into the Terraform state, allowing you to manage it with Terraform.
     
 
-1.  **\`terraform import azurerm\_virtual\_network.example /subscriptions/abcd1234/resourceGroups/my-rg/providers/Microsoft.Network/virtualNetworks/my-vnet\`: Imports an Azure virtual network with the specified ID into the Terraform state.**
+1.  **```terraform import azurerm\_virtual\_network.example /subscriptions/abcd1234/resourceGroups/my-rg/providers/Microsoft.Network/virtualNetworks/my-vnet```: Imports an Azure virtual network with the specified ID into the Terraform state.**
     
 
 *   Output: Adds the specified Azure virtual network to the Terraform state.
@@ -5689,7 +5689,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command imports an existing Azure virtual network with the given ID into the Terraform state for management.
     
 
-1.  **\`terraform import azurerm\_storage\_account.example /subscriptions/abcd1234/resourceGroups/my-rg/providers/Microsoft.Storage/storageAccounts/my-storage-account\`: Imports an Azure storage account with the specified ID into the Terraform state.**
+1.  **```terraform import azurerm\_storage\_account.example /subscriptions/abcd1234/resourceGroups/my-rg/providers/Microsoft.Storage/storageAccounts/my-storage-account```: Imports an Azure storage account with the specified ID into the Terraform state.**
     
 
 *   Output: Adds the specified Azure storage account to the Terraform state.
@@ -5698,7 +5698,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command imports an existing Azure storage account with the given ID into the Terraform state, enabling you to manage it using Terraform.
     
 
-1.  **\`terraform import azurerm\_virtual\_machine.example /subscriptions/abcd1234/resourceGroups/my-rg/providers/Microsoft.Compute/virtualMachines/my-vm\`: Imports an Azure virtual machine with the specified ID into the Terraform state.**
+1.  **```terraform import azurerm\_virtual\_machine.example /subscriptions/abcd1234/resourceGroups/my-rg/providers/Microsoft.Compute/virtualMachines/my-vm```: Imports an Azure virtual machine with the specified ID into the Terraform state.**
     
 
 *   Output: Adds the specified Azure virtual machine to the Terraform state.
@@ -5707,7 +5707,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command imports an existing Azure virtual machine with the given ID into the Terraform state, allowing you to manage it with Terraform.
     
 
-1.  **\`terraform import google\_compute\_instance.example projects/my-project/zones/us-central1-a/instances/my-instance\`: Imports a Google Compute Engine instance with the specified ID into the Terraform state.**
+1.  **```terraform import google\_compute\_instance.example projects/my-project/zones/us-central1-a/instances/my-instance```: Imports a Google Compute Engine instance with the specified ID into the Terraform state.**
     
 
 *   Output: Adds the specified Google Compute Engine instance to the Terraform state.
@@ -5716,7 +5716,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 *   Explanation: This command imports an existing Google Compute Engine instance with the given ID into the Terraform state for management.
     
 
-1.  **\`terraform import google\_compute\_network.example projects/my-project/global/networks/my-network\`: Imports a Google Compute Engine network with the specified ID into the Terraform state.**
+1.  **```terraform import google\_compute\_network.example projects/my-project/global/networks/my-network```: Imports a Google Compute Engine network with the specified ID into the Terraform state.**
     
 
 *   Output: Adds the specified Google Compute Engine network to the Terraform state.
@@ -5727,7 +5727,7 @@ configuration files, ensuring consistent indentation, spacing, and other formatt
 
 given ID into the Terraform state, allowing you to manage it with Terraform.
 
-1.  **\`terraform import google\_storage\_bucket.example my-bucket\`: Imports a Google Cloud Storage bucket with the specified name into the Terraform state.**
+1.  **```terraform import google\_storage\_bucket.example my-bucket```: Imports a Google Cloud Storage bucket with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified Google Cloud Storage bucket to the Terraform state.
@@ -5736,7 +5736,7 @@ given ID into the Terraform state, allowing you to manage it with Terraform.
 *   Explanation: This command imports an existing Google Cloud Storage bucket with the given name into the Terraform state for management.
     
 
-1.  **\`terraform import google\_dns\_managed\_zone.example example-com\`: Imports a Google Cloud DNS managed zone with the specified name into the Terraform state.**
+1.  **```terraform import google\_dns\_managed\_zone.example example-com```: Imports a Google Cloud DNS managed zone with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified Google Cloud DNS managed zone to the Terraform state.
@@ -5745,7 +5745,7 @@ given ID into the Terraform state, allowing you to manage it with Terraform.
 *   Explanation: This command imports an existing Google Cloud DNS managed zone with the given name into the Terraform state, enabling you to manage it using Terraform.
     
 
-1.  **\`terraform import null\_resource.example my-resource\`: Imports a null resource with the specified name into the Terraform state.**
+1.  **```terraform import null\_resource.example my-resource```: Imports a null resource with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified null
@@ -5756,7 +5756,7 @@ resource to the Terraform state.
 *   Explanation: This command imports an existing null resource with the given name into the Terraform state, allowing you to manage it with Terraform.
     
 
-1.  **\`terraform import random\_pet.example my-pet\`: Imports a random\_pet resource with the specified name into the Terraform state.**
+1.  **```terraform import random\_pet.example my-pet```: Imports a random\_pet resource with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified random\_pet resource to the Terraform state.
@@ -5765,7 +5765,7 @@ resource to the Terraform state.
 *   Explanation: This command imports an existing random\_pet resource with the given name into the Terraform state for management.
     
 
-1.  **\`terraform import template\_file.example my-template\`: Imports a template\_file resource with the specified name into the Terraform state.**
+1.  **```terraform import template\_file.example my-template```: Imports a template\_file resource with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified template\_file resource to the Terraform state.
@@ -5774,7 +5774,7 @@ resource to the Terraform state.
 *   Explanation: This command imports an existing template\_file resource with the given name into the Terraform state, allowing you to manage it with Terraform.
     
 
-1.  **\`terraform import local\_file.example my-file\`: Imports a local\_file resource with the specified name into the Terraform state.**
+1.  **```terraform import local\_file.example my-file```: Imports a local\_file resource with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified local\_file resource to the Terraform state.
@@ -5783,7 +5783,7 @@ resource to the Terraform state.
 *   Explanation: This command imports an existing local\_file resource with the given name into the Terraform state for management.
     
 
-1.  **\`terraform import aws\_lambda\_function.example my-function\`: Imports an AWS Lambda function with the specified name into the Terraform state.**
+1.  **```terraform import aws\_lambda\_function.example my-function```: Imports an AWS Lambda function with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified AWS Lambda function to the Terraform state.
@@ -5792,7 +5792,7 @@ resource to the Terraform state.
 *   Explanation: This command imports an existing AWS Lambda function with the given name into the Terraform state, allowing you to manage it with Terraform.
     
 
-1.  **\`terraform import aws\_dynamodb\_table.example my-table\`: Imports an Amazon DynamoDB table with the specified name into the Terraform state.**
+1.  **```terraform import aws\_dynamodb\_table.example my-table```: Imports an Amazon DynamoDB table with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified Amazon DynamoDB table to the Terraform state.
@@ -5801,7 +5801,7 @@ resource to the Terraform state.
 *   Explanation: This command imports an existing Amazon DynamoDB table with the given name into the Terraform state for management.
     
 
-1.  **\`terraform import aws\_cloudfront\_distribution.example my-distribution\`: Imports an Amazon CloudFront distribution with the specified ID into the Terraform state.**
+1.  **```terraform import aws\_cloudfront\_distribution.example my-distribution```: Imports an Amazon CloudFront distribution with the specified ID into the Terraform state.**
     
 
 *   Output: Adds the specified Amazon CloudFront distribution to the Terraform state.
@@ -5810,7 +5810,7 @@ resource to the Terraform state.
 *   Explanation: This command imports an existing Amazon CloudFront distribution with the given ID into the Terraform state, enabling you to manage it using Terraform.
     
 
-1.  **\`terraform import aws\_elasticsearch\_domain.example my-domain\`: Imports an Amazon Elasticsearch domain with the specified name into the Terraform state.**
+1.  **```terraform import aws\_elasticsearch\_domain.example my-domain```: Imports an Amazon Elasticsearch domain with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified Amazon Elasticsearch domain to the Terraform state.
@@ -5819,7 +5819,7 @@ resource to the Terraform state.
 *   Explanation: This command imports an existing Amazon Elasticsearch domain with the given name into the Terraform state, allowing you to manage it with Terraform.
     
 
-1.  **\`terraform import aws\_sqs\_queue.example my-queue\`: Imports an Amazon Simple Queue Service (SQS) queue with the specified name into the Terraform state.**
+1.  **```terraform import aws\_sqs\_queue.example my-queue```: Imports an Amazon Simple Queue Service (SQS) queue with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified Amazon SQS queue to the Terraform state.
@@ -5828,7 +5828,7 @@ resource to the Terraform state.
 *   Explanation: This command imports an existing Amazon SQS queue with the given name into the Terraform state for management.
     
 
-1.  **\`terraform import aws\_sns\_topic.example my-topic\`: Imports an Amazon Simple Notification Service (SNS) topic with the specified name into the Terraform state.**
+1.  **```terraform import aws\_sns\_topic.example my-topic```: Imports an Amazon Simple Notification Service (SNS) topic with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified Amazon SNS topic to the Terraform state.
@@ -5837,7 +5837,7 @@ resource to the Terraform state.
 *   Explanation: This command imports an existing Amazon SNS topic with the given name into the Terraform state, enabling you to manage it using Terraform.
     
 
-1.  **\`terraform import aws\_ecr\_repository.example my-repo\`: Imports an Amazon Elastic Container Registry (ECR) repository with the specified name into the Terraform state.**
+1.  **```terraform import aws\_ecr\_repository.example my-repo```: Imports an Amazon Elastic Container Registry (ECR) repository with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified Amazon ECR repository to the Terraform state.
@@ -5848,7 +5848,7 @@ resource to the Terraform state.
 
 the given name into the Terraform state for management.
 
-1.  **\`terraform import aws\_iam\_role.example my-role\`: Imports an AWS Identity and Access Management (IAM) role with the specified name into the Terraform state.**
+1.  **```terraform import aws\_iam\_role.example my-role```: Imports an AWS Identity and Access Management (IAM) role with the specified name into the Terraform state.**
     
     *   Output: Adds the specified IAM role to the Terraform state.
         
@@ -5856,7 +5856,7 @@ the given name into the Terraform state for management.
 *   Explanation: This command imports an existing IAM role with the given name into the Terraform state, allowing you to manage it with Terraform.
     
 
-1.  **\`terraform import aws\_kinesis\_stream.example my-stream\`:**
+1.  **```terraform import aws\_kinesis\_stream.example my-stream```:**
     
 
 **Imports an Amazon Kinesis stream with the specified name into the Terraform state.**
@@ -5867,7 +5867,7 @@ the given name into the Terraform state for management.
 *   Explanation: This command imports an existing Amazon Kinesis stream with the given name into the Terraform state for management.
     
 
-1.  **\`terraform import aws\_cloudwatch\_dashboard.example my-dashboard\`: Imports an Amazon CloudWatch dashboard with the specified name into the Terraform state.**
+1.  **```terraform import aws\_cloudwatch\_dashboard.example my-dashboard```: Imports an Amazon CloudWatch dashboard with the specified name into the Terraform state.**
     
 
 *   Output: Adds the specified Amazon CloudWatch dashboard to the Terraform state.
@@ -5876,7 +5876,7 @@ the given name into the Terraform state for management.
 *   Explanation: This command imports an existing Amazon CloudWatch dashboard with the given name into the Terraform state, enabling you to manage it using Terraform.
     
 
-1.  **\`terraform import aws\_api\_gateway\_rest\_api.example my-api\`: Imports an Amazon API Gateway REST API with the specified ID into the Terraform state.**
+1.  **```terraform import aws\_api\_gateway\_rest\_api.example my-api```: Imports an Amazon API Gateway REST API with the specified ID into the Terraform state.**
     
 
 *   Output: Adds the specified Amazon API Gateway REST API to the Terraform state.
@@ -5906,7 +5906,7 @@ The key components of Ansible are:
 *   Modules: These are small pieces of code that Ansible executes on remote hosts to perform specific tasks.
     
 
-*   Ad-hoc commands: These are commands that you can run on the command line using the \`ansible\` command, without the need for a playbook.
+*   Ad-hoc commands: These are commands that you can run on the command line using the ```ansible``` command, without the need for a playbook.
     
 
 **Q3: What is an Ansible playbook?**
@@ -5917,13 +5917,13 @@ An Ansible playbook is a YAML file that defines a set of tasks and configuration
 
 In Ansible, you can define variables in multiple ways:
 
-*   In the playbook: You can define variables directly in the playbook using the \`vars\` keyword.
+*   In the playbook: You can define variables directly in the playbook using the ```vars``` keyword.
     
 
 *   In inventory: You can define variables for specific hosts or groups in the inventory file.
     
 
-*   In separate variable files: You can create separate YAML files to store variables and include them in the playbook using the \`vars\_files\` directive.
+*   In separate variable files: You can create separate YAML files to store variables and include them in the playbook using the ```vars\_files``` directive.
     
 
 *   Using command-line arguments: You can pass variables as command-line arguments when running the Ansible command.
@@ -5935,11 +5935,11 @@ On the other hand, a role is a predefined directory structure that encapsulates 
 
 **Q6: How do you run an Ansible playbook?**
 
-To run an Ansible playbook, you can use the \`ansible-playbook\` command followed by the playbook filename. For example: \`\`\`
+To run an Ansible playbook, you can use the ```ansible-playbook``` command followed by the playbook filename. For example: `````````
 
 ansible-playbook myplaybook.yml
 
-\`\`\`
+`````````
 
 This command will execute the tasks defined in the playbook against the hosts specified in the inventory.
 
@@ -5949,7 +5949,7 @@ Ansible Galaxy is a hub for sharing and discovering Ansible content. It provides
 
 **Q8: How can you handle conditional tasks in Ansible?**
 
-Ansible provides a \`when\` statement that allows you to define conditions
+Ansible provides a ```when``` statement that allows you to define conditions
 
 for task execution. You can use this statement to run tasks conditionally
 
@@ -5957,9 +5957,9 @@ based on the values of variables or other facts about the target system. For
 
 example:
 
-\`\`\`yaml
+`````````yaml
 
-\- name: Install package
+- name: Install package
 
 yum:
 
@@ -5969,7 +5969,7 @@ state: present
 
 when: ansible\_distribution == 'CentOS'
 
-\`\`\`
+`````````
 
 **Q9: What is the difference between Ansible and other configuration management tools like Puppet or Chef?**
 
@@ -5983,11 +5983,11 @@ together for better organization and reusability. To define a role, you
 
 create a specific directory structure containing tasks, templates, files, and
 
-other resources. Roles can then be included in playbooks using the \`roles\`
+other resources. Roles can then be included in playbooks using the ```roles```
 
 directive. For example:
 
-\`\`\`yaml
+`````````yaml
 
 *   name: Example playbook
     
@@ -5997,15 +5997,15 @@ hosts: myhosts roles:
 *   myrole
     
 
-\`\`\`
+`````````
 
-This example includes the \`myrole\` role in the playbook.
+This example includes the ```myrole``` role in the playbook.
 
 **Q11: How can you manage secrets and sensitive data in Ansible?** Ansible provides a feature called Ansible Vault, which allows you to encrypt and decrypt sensitive data files. You can encrypt variables, files, or even entire playbooks using a password or a vault key file. This helps in securely storing and managing secrets, such as passwords or API keys, within your Ansible projects.
 
 **Q12: What are handlers in Ansible?**
 
-Handlers in Ansible are tasks that are only executed when notified. They are typically used to trigger actions that need to be performed at the end of a playbook run, such as restarting services or reloading configurations. Handlers are defined separately from tasks and can be notified using the \`notify\` directive.
+Handlers in Ansible are tasks that are only executed when notified. They are typically used to trigger actions that need to be performed at the end of a playbook run, such as restarting services or reloading configurations. Handlers are defined separately from tasks and can be notified using the ```notify``` directive.
 
 **Q13: How can you test Ansible configurations without making changes on the managed hosts?**
 
@@ -6013,17 +6013,17 @@ Ansible provides a "check mode" option that allows you to perform a dry run of a
 
 **Q14: What is the Ansible ad-hoc command?**
 
-The Ansible ad-hoc command is a command-line tool that allows you to execute one-off tasks quickly without the need for a playbook. Ad-hoc commands are useful for performing simple tasks like running shell commands, managing packages, or copying files. For example: \`\`\`
+The Ansible ad-hoc command is a command-line tool that allows you to execute one-off tasks quickly without the need for a playbook. Ad-hoc commands are useful for performing simple tasks like running shell commands, managing packages, or copying files. For example: `````````
 
 ansible myhosts -m shell -a "uptime"
 
-\`\`\`
+`````````
 
-This ad-hoc command runs the \`uptime\` command on the hosts specified by \`myhosts\`.
+This ad-hoc command runs the ```uptime``` command on the hosts specified by ```myhosts```.
 
 **Q15: How can you loop over a list of items in Ansible?**
 
-Ansible provides various looping mechanisms. One common way is to use the \`with\_items\` directive with a list of items in a task. For example: \`\`\`yaml
+Ansible provides various looping mechanisms. One common way is to use the ```with\_items``` directive with a list of items in a task. For example: `````````yaml
 
 *   name: Install packages yum:
     
@@ -6040,15 +6040,15 @@ state: present with\_items:
 *   package3
     
 
-\`\`\`
+`````````
 
 This task will loop over the list of packages and install each one.
 
 **Q16: How can you debug Ansible playbooks and tasks?**
 
-Ansible offers several methods for debugging, such as using the \`debug\` module to print variable values or using the \`ansible-playbook\` command with the \`-vvv\` option for verbose output. Additionally, you can leverage
+Ansible offers several methods for debugging, such as using the ```debug``` module to print variable values or using the ```ansible-playbook``` command with the ```-vvv``` option for verbose output. Additionally, you can leverage
 
-the \`--start-at-task\` option to start the playbook execution from a specific task for troubleshooting purposes.
+the ```--start-at-task``` option to start the playbook execution from a specific task for troubleshooting purposes.
 
 **Ansible interview question and answers for INTERMEDIATE LEVEL**
 
@@ -6060,7 +6060,7 @@ Ansible Tower is a web-based user interface and management tool for Ansible. It 
 
 Ansible facts are variables that contain information about the target hosts. They are automatically gathered by Ansible and can be used in playbooks and templates. Facts include details like the operating system, IP addresses, installed packages, and more. You can also create custom facts using scripts or plugins to gather specific information.
 
-**Q3: How can you handle error handling and retries in Ansible?** Ansible provides error handling mechanisms to handle task failures and retries. You can use the \`failed\_when\` attribute in tasks to specify conditions under which a task should be considered failed. Additionally, you can use the \`retries\` and \`until\` attributes to specify the number of retries and conditions for retrying a task.
+**Q3: How can you handle error handling and retries in Ansible?** Ansible provides error handling mechanisms to handle task failures and retries. You can use the ```failed\_when``` attribute in tasks to specify conditions under which a task should be considered failed. Additionally, you can use the ```retries``` and ```until``` attributes to specify the number of retries and conditions for retrying a task.
 
 **Q4: Explain how Ansible manages idempotence.**
 
@@ -6068,11 +6068,11 @@ Ansible is designed to be idempotent, meaning that running the same playbook mul
 
 **Q5: What are Ansible tags, and how can you use them?**
 
-Ansible tags allow you to selectively run specific tasks or groups of tasks in a playbook. You can assign tags to tasks and then use the \`--tags\` or \`-- skip-tags\` options with the \`ansible-playbook\` command to specify which tasks to include or exclude during playbook execution. Tags are useful for running only specific parts of a playbook or skipping certain tasks.
+Ansible tags allow you to selectively run specific tasks or groups of tasks in a playbook. You can assign tags to tasks and then use the ```--tags``` or ```-- skip-tags``` options with the ```ansible-playbook``` command to specify which tasks to include or exclude during playbook execution. Tags are useful for running only specific parts of a playbook or skipping certain tasks.
 
-**Q6: How can you handle sensitive data like passwords in Ansible?** To handle sensitive data like passwords, Ansible provides the \`ansible-vault\` command-line tool. It allows you to encrypt files containing sensitive information and decrypt them during playbook execution. Encrypted files can be stored in source control systems, and Ansible Vault prompts for the password when executing the playbook.
+**Q6: How can you handle sensitive data like passwords in Ansible?** To handle sensitive data like passwords, Ansible provides the ```ansible-vault``` command-line tool. It allows you to encrypt files containing sensitive information and decrypt them during playbook execution. Encrypted files can be stored in source control systems, and Ansible Vault prompts for the password when executing the playbook.
 
-**Q7: Explain Ansible's delegation and delegation strategies.** Delegation in Ansible allows a task to be executed on one host while targeting a different host. It is useful when you need to run a task on a different machine than the one running the playbook. Ansible provides delegation strategies like \`delegate\_to\` to specify a different host for the task, \`delegate\_facts\` to gather facts from a different host, and \`run\_once\` to ensure a task runs only once in a play.
+**Q7: Explain Ansible's delegation and delegation strategies.** Delegation in Ansible allows a task to be executed on one host while targeting a different host. It is useful when you need to run a task on a different machine than the one running the playbook. Ansible provides delegation strategies like ```delegate\_to``` to specify a different host for the task, ```delegate\_facts``` to gather facts from a different host, and ```run\_once``` to ensure a task runs only once in a play.
 
 **Q8: How can you create custom Ansible modules?**
 
@@ -6109,7 +6109,7 @@ A1: Some advanced features of Ansible include:
 
 **Q2: How can you conditionally skip a task in Ansible?**
 
-A2: You can conditionally skip a task in Ansible by using the \`when\` keyword. The \`when\` keyword allows you to specify a condition that determines whether a task should be executed or skipped. For example: \`\`\`yaml
+A2: You can conditionally skip a task in Ansible by using the ```when``` keyword. The ```when``` keyword allows you to specify a condition that determines whether a task should be executed or skipped. For example: `````````yaml
 
 *   name: Execute task only if variable is true
     
@@ -6118,15 +6118,15 @@ shell: echo "Task executed"
 
 when: my\_variable == true
 
-\`\`\`
+`````````
 
 **Q3: How can you run a task on a specific subset of hosts in an Ansible playbook?**
 
 A3: You can use Ansible's inventory patterns to run tasks on a specific subset of hosts. Inventory patterns allow you to target specific hosts based on criteria such as groups, hostnames, IP addresses, or other factors. Here are a few examples:
 
-\- Run a task on a specific group of hosts:
+- Run a task on a specific group of hosts:
 
-\`\`\`yaml
+`````````yaml
 
 *   hosts: web\_servers tasks:
     
@@ -6136,12 +6136,12 @@ A3: You can use Ansible's inventory patterns to run tasks on a specific subset o
 
 shell: echo "Task executed"
 
-\`\`\`
+`````````
 
 *   Run a task on hosts matching a specific pattern:
     
 
-\`\`\`yaml
+`````````yaml
 
 *   hosts: "\*.example.com" tasks:
     
@@ -6151,40 +6151,40 @@ shell: echo "Task executed"
 
 shell: echo "Task executed"
 
-\`\`\`
+`````````
 
 **Q4: How can you dynamically generate variables in Ansible?**
 
 A4: Ansible provides several ways to dynamically generate variables.
 
-Some common approaches include using the \`set\_fact\` module, registering
+Some common approaches include using the ```set\_fact``` module, registering
 
 the output of a task as a variable, or using lookup plugins. Here's an
 
-example using the \`set\_fact\` module:
+example using the ```set\_fact``` module:
 
-\`\`\`yaml
+`````````yaml
 
 *   name: Dynamically generate a variable set\_fact:
     
 
 dynamic\_var: "generated value"
 
-\`\`\`
+`````````
 
 **Q5: How can you handle errors or failures in Ansible playbooks?**
 
 A5: Ansible provides error handling mechanisms to handle failures in
 
-playbooks. You can use the \`ignore\_errors\` parameter to continue
+playbooks. You can use the ```ignore\_errors``` parameter to continue
 
-executing tasks even if one fails, or you can use the \`failed\_when\`
+executing tasks even if one fails, or you can use the ```failed\_when```
 
 parameter to define conditions under which a task should be considered
 
 failed. Here's an example:
 
-\`\`\`yaml
+`````````yaml
 
 *   name: Handle failures
     
@@ -6195,11 +6195,11 @@ ignore\_errors: yes
 
 failed\_when: "'FAILED' in command\_result.stdout"
 
-\`\`\`
+`````````
 
 **Q6: What are Ansible Galaxy and how can you use it?**
 
-A6: Ansible Galaxy is a hub for finding, reusing, and sharing Ansible roles. It is a community-driven platform that allows you to browse and download roles contributed by other users. You can use Ansible Galaxy to enhance your playbooks by leveraging existing roles instead of reinventing the wheel. To use Ansible Galaxy, you can use the \`ansible-galaxy\` command-line tool to search for, install, and manage roles from the Galaxy repository.
+A6: Ansible Galaxy is a hub for finding, reusing, and sharing Ansible roles. It is a community-driven platform that allows you to browse and download roles contributed by other users. You can use Ansible Galaxy to enhance your playbooks by leveraging existing roles instead of reinventing the wheel. To use Ansible Galaxy, you can use the ```ansible-galaxy``` command-line tool to search for, install, and manage roles from the Galaxy repository.
 
 **Q7: How can you dynamically generate inventory in Ansible?**
 
@@ -6209,11 +6209,11 @@ inventory dynamically based on external systems or cloud providers. You can writ
 
 **Q8: What are Ansible facts and how can you gather them?**
 
-A8: Ansible facts are system variables that provide information about remote hosts, such as network interfaces, operating system details, hardware information, and more. Facts are gathered by Ansible automatically when a playbook runs. You can access and use these facts within your playbooks by referencing them with the \`ansible\_facts\` variable.
+A8: Ansible facts are system variables that provide information about remote hosts, such as network interfaces, operating system details, hardware information, and more. Facts are gathered by Ansible automatically when a playbook runs. You can access and use these facts within your playbooks by referencing them with the ```ansible\_facts``` variable.
 
 **Q9: How can you perform rolling updates or rolling deployments using Ansible?**
 
-A9: Rolling updates or deployments involve updating a subset of hosts at a time, reducing the impact on the overall system. Ansible provides strategies like \`serial\` and \`max\_fail\_percentage\` to achieve rolling updates. By specifying a specific number or percentage of hosts to update concurrently, you can control the rolling process. Here's an example: \`\`\`yaml
+A9: Rolling updates or deployments involve updating a subset of hosts at a time, reducing the impact on the overall system. Ansible provides strategies like ```serial``` and ```max\_fail\_percentage``` to achieve rolling updates. By specifying a specific number or percentage of hosts to update concurrently, you can control the rolling process. Here's an example: `````````yaml
 
 *   name: Perform rolling updates
     
@@ -6224,17 +6224,17 @@ serial: 2
 
 max\_fail\_percentage: 25 tasks:
 
-\- name: Update task
+- name: Update task
 
 shell: "update\_command"
 
-\`\`\`
+`````````
 
 This example will update two hosts at a time and allow up to 25% of hosts to fail before considering the task failed.
 
 **Q10: How can you implement idempotence in Ansible playbooks?**
 
-A10: Ansible promotes idempotent playbooks, where running a playbook multiple times produces the same result as running it once. To ensure idempotence, you can use modules that are designed to be idempotent, like \`yum\` or \`apt\`, which handle package installation. You can also use conditional statements with \`when\` to check if a task needs to be executed or skipped based on a specific condition.
+A10: Ansible promotes idempotent playbooks, where running a playbook multiple times produces the same result as running it once. To ensure idempotence, you can use modules that are designed to be idempotent, like ```yum``` or ```apt```, which handle package installation. You can also use conditional statements with ```when``` to check if a task needs to be executed or skipped based on a specific condition.
 
 **Q11: How can you handle sensitive data in Ansible playbooks?**
 
@@ -6242,7 +6242,7 @@ A11: Ansible provides Ansible Vault for encrypting sensitive data within playboo
 
 **Q12: How can you extend Ansible functionality using custom modules?**
 
-A12: Ansible allows you to extend its functionality by creating custom modules. Custom modules are standalone scripts or programs written in any language that adhere to a specific interface. These modules can perform tasks not covered by built-in Ansible modules. Once created, you can place custom modules in a directory specified by the \`library\` parameter in your Ansible configuration file to make them accessible.
+A12: Ansible allows you to extend its functionality by creating custom modules. Custom modules are standalone scripts or programs written in any language that adhere to a specific interface. These modules can perform tasks not covered by built-in Ansible modules. Once created, you can place custom modules in a directory specified by the ```library``` parameter in your Ansible configuration file to make them accessible.
 
 **Ansible interview question and answers SCENARIO BASED**
 
@@ -6254,7 +6254,7 @@ A1: In this scenario, you can use Ansible to create playbooks that define the de
 
 _**Example playbook snippet:**_
 
-\`\`\`yaml
+`````````yaml
 
 *   name: Configure web servers
     
@@ -6295,7 +6295,7 @@ src: /path/to/template.conf.j2
 
 dest: /etc/myapp/conf.conf
 
-\`\`\`
+`````````
 
 **Scenario 2: Application Deployment**
 
@@ -6305,7 +6305,7 @@ A2: In this scenario, you can utilize Ansible to create playbooks that handle th
 
 _**Example playbook snippet:**_
 
-\`\`\`yaml
+`````````yaml
 
 *   name: Deploy web application
     
@@ -6359,11 +6359,11 @@ name: apache2
 
 state: restarted
 
-\`\`\`
+`````````
 
 **Ansible Commands**
 
-1.  **\`ansible all -m ping\`: Checks connectivity to all hosts in the inventory.**
+1.  **```ansible all -m ping```: Checks connectivity to all hosts in the inventory.**
     
 
 *   Output: Displays the ping response from each host.
@@ -6372,7 +6372,7 @@ state: restarted
 *   Explanation: This command verifies if Ansible can reach and communicate with all hosts in the inventory.
     
 
-1.  **\`ansible-playbook playbook.yml\`: Executes a playbook.**
+1.  **```ansible-playbook playbook.yml```: Executes a playbook.**
     
     *   Output: Executes the tasks defined in the playbook.
         
@@ -6380,16 +6380,16 @@ state: restarted
 *   Explanation: This command runs a playbook, which is a collection of tasks and configurations, on the target hosts.
     
 
-1.  **\`ansible all -a "ls -l /tmp"\`: Executes a command on all hosts in the inventory.**
+1.  **```ansible all -a "ls -l /tmp"```: Executes a command on all hosts in the inventory.**
     
 
-*   Output: Lists the files and directories in the \`/tmp\` directory on each host.
+*   Output: Lists the files and directories in the ```/tmp``` directory on each host.
     
 
-*   Explanation: This command runs the \`ls -l /tmp\` command on all hosts, allowing you to perform ad-hoc tasks.
+*   Explanation: This command runs the ```ls -l /tmp``` command on all hosts, allowing you to perform ad-hoc tasks.
     
 
-1.  **\`ansible-doc module\_name\`: Displays documentation for a specific Ansible module.**
+1.  **```ansible-doc module\_name```: Displays documentation for a specific Ansible module.**
     
 
 *   Output: Displays the module's documentation.
@@ -6398,7 +6398,7 @@ state: restarted
 *   Explanation: This command provides detailed information about a specific Ansible module, including its parameters and usage examples.
     
 
-1.  **\`ansible-galaxy init role\_name\`: Initializes a new Ansible role.**
+1.  **```ansible-galaxy init role\_name```: Initializes a new Ansible role.**
     
     *   Output: Creates the directory structure and files for the new role.
         
@@ -6406,72 +6406,72 @@ state: restarted
 *   Explanation: This command sets up the basic structure and files needed for creating a reusable Ansible role.
     
 
-1.  **\`ansible-vault create secrets.yml\`: Creates a new encrypted Ansible Vault file.**
+1.  **```ansible-vault create secrets.yml```: Creates a new encrypted Ansible Vault file.**
     
 
-*   Output: Creates an encrypted \`secrets.yml\` file.
+*   Output: Creates an encrypted ```secrets.yml``` file.
     
 
 *   Explanation: This command creates a new Ansible Vault file for storing sensitive data, encrypting it with a password.
     
 
-1.  **\`ansible-vault edit secrets.yml\`: Opens an existing Ansible Vault file for editing.**
+1.  **```ansible-vault edit secrets.yml```: Opens an existing Ansible Vault file for editing.**
     
 
-*   Output: Opens the \`secrets.yml\` file in an editor.
+*   Output: Opens the ```secrets.yml``` file in an editor.
     
 
 *   Explanation: This command allows you to edit an existing Ansible Vault file and update the encrypted contents.
     
 
-1.  **\`ansible-vault encrypt secrets.yml\`: Encrypts an existing file using Ansible Vault.**
+1.  **```ansible-vault encrypt secrets.yml```: Encrypts an existing file using Ansible Vault.**
     
 
-*   Output: Encrypts the contents of \`secrets.yml\`.
+*   Output: Encrypts the contents of ```secrets.yml```.
     
 
 *   Explanation: This command encrypts the contents of a file using Ansible Vault, protecting sensitive data.
     
 
-1.  **\`ansible-vault decrypt secrets.yml\`: Decrypts an Ansible Vault-encrypted file.**
+1.  **```ansible-vault decrypt secrets.yml```: Decrypts an Ansible Vault-encrypted file.**
     
-    *   Output: Decrypts the contents of \`secrets.yml\`.
+    *   Output: Decrypts the contents of ```secrets.yml```.
         
 
 *   Explanation: This command decrypts an Ansible Vault-encrypted file, making its contents readable again.
     
 
-1.  **\`ansible-vault rekey secrets.yml\`: Changes the password for an Ansible Vault file.**
+1.  **```ansible-vault rekey secrets.yml```: Changes the password for an Ansible Vault file.**
     
 
-*   Output: Updates the password for \`secrets.yml\`.
+*   Output: Updates the password for ```secrets.yml```.
     
 
 *   Explanation: This command allows you to change the password used to encrypt an Ansible Vault file.
     
 
-1.  **\`ansible-playbook --limit host1 playbook.yml\`: Runs a playbook only on a specific host.**
+1.  **```ansible-playbook --limit host1 playbook.yml```: Runs a playbook only on a specific host.**
     
 
-*   Output: Executes the tasks defined in the playbook on \`host1\` only.
+*   Output: Executes the tasks defined in the playbook on ```host1``` only.
     
 
-*   Explanation: By specifying the \`--limit\` option, this command limits the execution of a playbook to a specific host.
+*   Explanation: By specifying the ```--limit``` option, this command limits the execution of a playbook to a specific host.
     
 
-1.  **\`ansible-playbook --tags deploy playbook.yml\`: Runs specific tagged tasks in a playbook.**
+1.  **```ansible-playbook --tags deploy playbook.yml```: Runs specific tagged tasks in a playbook.**
     
 
-*   Output: Executes only the tasks in the playbook with the \`deploy\` tag.
+*   Output: Executes only the tasks in the playbook with the ```deploy``` tag.
     
 
 *   Explanation: This command selectively runs tasks in a playbook that are tagged with the specified tag(s), allowing for targeted execution.
     
 
-1.  **\`ansible-playbook --skip-tags deploy playbook.yml\`: Skips specific tagged tasks in a playbook.**
+1.  **```ansible-playbook --skip-tags deploy playbook.yml```: Skips specific tagged tasks in a playbook.**
     
 
-*   **Output: Skips the tasks in the playbook with the \`deploy\` tag.**
+*   **Output: Skips the tasks in the playbook with the ```deploy``` tag.**
     
 
 *   Explanation: This command skips the execution of tasks in a playbook that are
@@ -6479,7 +6479,7 @@ state: restarted
 
 tagged with the specified tag(s).
 
-1.  **\`ansible-playbook --check playbook.yml\`: Performs a dry run of a playbook.**
+1.  **```ansible-playbook --check playbook.yml```: Performs a dry run of a playbook.**
     
 
 *   Output: Displays the changes that would be made without actually applying them.
@@ -6488,7 +6488,7 @@ tagged with the specified tag(s).
 *   Explanation: This command runs a playbook in a "check" mode, simulating the execution and providing a preview of the changes that would occur.
     
 
-1.  **\`ansible-playbook --diff playbook.yml\`: Shows the differences in file contents before and after a task.**
+1.  **```ansible-playbook --diff playbook.yml```: Shows the differences in file contents before and after a task.**
     
 
 *   Output: Displays the differences between file versions.
@@ -6497,7 +6497,7 @@ tagged with the specified tag(s).
 *   Explanation: This command enables the display of differences in file contents before and after the execution of tasks in a playbook.
     
 
-1.  **\`ansible-galaxy install author.role\_name\`: Installs an Ansible role from Galaxy.**
+1.  **```ansible-galaxy install author.role\_name```: Installs an Ansible role from Galaxy.**
     
 
 *   Output: Downloads and installs the specified role.
@@ -6506,7 +6506,7 @@ tagged with the specified tag(s).
 *   Explanation: This command installs an Ansible role from the Ansible Galaxy, a community-driven repository of reusable roles.
     
 
-1.  **\`ansible-galaxy remove author.role\_name\`: Removes an installed Ansible role.**
+1.  **```ansible-galaxy remove author.role\_name```: Removes an installed Ansible role.**
     
 
 *   Output: Removes the specified role from the system.
@@ -6515,7 +6515,7 @@ tagged with the specified tag(s).
 *   Explanation: This command uninstalls and removes an installed Ansible role from the system.
     
 
-1.  **\`ansible-vault encrypt\_string 'sensitive\_data' --name 'secret\_var'\`: Encrypts a string using Ansible Vault.**
+1.  **```ansible-vault encrypt\_string 'sensitive\_data' --name 'secret\_var'```: Encrypts a string using Ansible Vault.**
     
     *   Output: Outputs the encrypted string.
         
@@ -6523,7 +6523,7 @@ tagged with the specified tag(s).
 *   Explanation: This command encrypts a sensitive string using Ansible Vault and outputs the encrypted value, which can be stored as an encrypted variable.
     
 
-1.  **\`ansible all -m setup\`: Gathers facts from all hosts in the inventory.**
+1.  **```ansible all -m setup```: Gathers facts from all hosts in the inventory.**
     
 
 *   Output: Retrieves system information and facts from each host.
@@ -6532,33 +6532,33 @@ tagged with the specified tag(s).
 *   Explanation: This command collects system-related information, such as hardware, operating system, and network details, from all hosts.
     
 
-1.  **\`ansible all -m command -a 'reboot' --become\`: Reboots all hosts in the inventory.**
+1.  **```ansible all -m command -a 'reboot' --become```: Reboots all hosts in the inventory.**
     
     *   Output: Reboots each host.
         
 
-*   Explanation: This command executes the \`reboot\` command on all hosts with elevated privileges, restarting the machines.
+*   Explanation: This command executes the ```reboot``` command on all hosts with elevated privileges, restarting the machines.
     
 
-1.  **\`ansible all -m copy -a 'src=file.txt dest=/tmp/file.txt'\`: Copies a file to all hosts in the inventory.**
+1.  **```ansible all -m copy -a 'src=file.txt dest=/tmp/file.txt'```: Copies a file to all hosts in the inventory.**
     
 
-*   Output: Copies \`file.txt\` to the \`/tmp\` directory on each host.
+*   Output: Copies ```file.txt``` to the ```/tmp``` directory on each host.
     
 
-*   Explanation: This command copies a file from the local machine to the \`/tmp\` directory on all hosts.
+*   Explanation: This command copies a file from the local machine to the ```/tmp``` directory on all hosts.
     
 
-1.  **\`ansible all -m file -a 'path=/tmp/file.txt state=absent'\`: Deletes a file from all hosts in the inventory.**
+1.  **```ansible all -m file -a 'path=/tmp/file.txt state=absent'```: Deletes a file from all hosts in the inventory.**
     
 
-*   Output: Deletes \`/tmp/file.txt\` on each host.
+*   Output: Deletes ```/tmp/file.txt``` on each host.
     
 
-*   Explanation: This command removes the specified file from the \`/tmp\` directory on all hosts.
+*   Explanation: This command removes the specified file from the ```/tmp``` directory on all hosts.
     
 
-1.  **\`ansible all -m service -a 'name=httpd state=started' --become\`: Starts the Apache HTTPD service on all hosts.**
+1.  **```ansible all -m service -a 'name=httpd state=started' --become```: Starts the Apache HTTPD service on all hosts.**
     
 
 *   Output: Starts the Apache HTTPD service on each host.
@@ -6567,7 +6567,7 @@ tagged with the specified tag(s).
 *   Explanation: This command ensures that the Apache HTTPD service is running on all hosts, starting it if necessary.
     
 
-1.  **\`ansible all -m apt -a 'name=nginx state=present' --become\`: Installs the Nginx package on all hosts using APT package manager.**
+1.  **```ansible all -m apt -a 'name=nginx state=present' --become```: Installs the Nginx package on all hosts using APT package manager.**
     
 
 *   Output: Installs the Nginx package on each host.
@@ -6576,16 +6576,16 @@ tagged with the specified tag(s).
 *   Explanation: This command installs the Nginx web server package on all hosts using the APT package manager.
     
 
-1.  **\`ansible all -m yum -a 'name=nginx state=present' --become\`: Installs the Nginx package on all hosts using YUM package manager.**
+1.  **```ansible all -m yum -a 'name=nginx state=present' --become```: Installs the Nginx package on all hosts using YUM package manager.**
     
     *   Output: Installs the Nginx package on each host.
         
 
-\-
+-
 
 Explanation: This command installs the Nginx web server package on all hosts using the YUM package manager.
 
-1.  **\`ansible all -m service -a 'name=nginx state=stopped' --become\`: Stops the Nginx service on all hosts.**
+1.  **```ansible all -m service -a 'name=nginx state=stopped' --become```: Stops the Nginx service on all hosts.**
     
 
 *   Output: Stops the Nginx service on each host.
@@ -6594,54 +6594,54 @@ Explanation: This command installs the Nginx web server package on all hosts usi
 *   Explanation: This command ensures that the Nginx service is stopped on all hosts.
     
 
-1.  **\`ansible all -m lineinfile -a 'dest=/etc/hosts line="127.0.0.1 example.com"' --become\`: Adds a line to the \`/etc/hosts\` file on all hosts.**
+1.  **```ansible all -m lineinfile -a 'dest=/etc/hosts line="127.0.0.1 example.com"' --become```: Adds a line to the ```/etc/hosts``` file on all hosts.**
     
 
-*   Output: Adds the specified line to the \`/etc/hosts\` file on each host.
+*   Output: Adds the specified line to the ```/etc/hosts``` file on each host.
     
 
-*   Explanation: This command appends a line to the \`/etc/hosts\` file on all hosts, mapping the IP address \`127.0.0.1\` to the domain \`example.com\`.
+*   Explanation: This command appends a line to the ```/etc/hosts``` file on all hosts, mapping the IP address ```127.0.0.1``` to the domain ```example.com```.
     
 
-1.  **\`ansible all -m user -a 'name=jdoe state=present' --become\`: Creates a user account named \`jdoe\` on all hosts.**
+1.  **```ansible all -m user -a 'name=jdoe state=present' --become```: Creates a user account named ```jdoe``` on all hosts.**
     
 
-*   Output: Creates the user account \`jdoe\` on each host.
+*   Output: Creates the user account ```jdoe``` on each host.
     
 
-*   Explanation: This command creates a new user account named \`jdoe\` on all hosts.
+*   Explanation: This command creates a new user account named ```jdoe``` on all hosts.
     
 
-1.  **\`ansible all -m group -a 'name=developers state=present' -- become\`: Creates a group named \`developers\` on all hosts.**
+1.  **```ansible all -m group -a 'name=developers state=present' -- become```: Creates a group named ```developers``` on all hosts.**
     
 
-*   Output: Creates the group \`developers\` on each host.
+*   Output: Creates the group ```developers``` on each host.
     
 
-*   Explanation: This command creates a new group named \`developers\` on all hosts.
+*   Explanation: This command creates a new group named ```developers``` on all hosts.
     
 
-1.  **\`ansible all -m authorized\_key -a 'user=jdoe key="{{ lookup("file", "/path/to/public\_key.pub") }}"' --become\`: Adds an SSH public key for the user \`jdoe\` on all hosts.**
+1.  **```ansible all -m authorized\_key -a 'user=jdoe key="{{ lookup("file", "/path/to/public\_key.pub") }}"' --become```: Adds an SSH public key for the user ```jdoe``` on all hosts.**
     
 
-*   Output: Adds the specified public key for the user \`jdoe\` on each host.
+*   Output: Adds the specified public key for the user ```jdoe``` on each host.
     
 
-*   Explanation: This command adds an SSH public key for the user \`jdoe\` on all hosts, allowing SSH access with the corresponding private key.
+*   Explanation: This command adds an SSH public key for the user ```jdoe``` on all hosts, allowing SSH access with the corresponding private key.
     
 
-1.  **\`ansible all -m git -a**
+1.  **```ansible all -m git -a**
     
 
-**'repo=****https://github.com/example/repo.git** **dest=/opt/repo version=master'\`: Clones a Git repository on all hosts.**
+**'repo=****https://github.com/example/repo.git** **dest=/opt/repo version=master'```: Clones a Git repository on all hosts.**
 
-*   Output: Clones the specified Git repository to the \`/opt/repo\` directory on each host.
+*   Output: Clones the specified Git repository to the ```/opt/repo``` directory on each host.
     
 
-*   Explanation: This command clones a Git repository from the specified URL to the \`/opt/repo\` directory on all hosts.
+*   Explanation: This command clones a Git repository from the specified URL to the ```/opt/repo``` directory on all hosts.
     
 
-1.  **\`ansible all -m docker\_image -a 'name=nginx:latest state=present'\`: Pulls the latest Nginx Docker image on all hosts.**
+1.  **```ansible all -m docker\_image -a 'name=nginx:latest state=present'```: Pulls the latest Nginx Docker image on all hosts.**
     
     *   Output: Pulls the latest Nginx Docker image on each host.
         
@@ -6649,16 +6649,16 @@ Explanation: This command installs the Nginx web server package on all hosts usi
 *   Explanation: This command pulls the latest version of the Nginx Docker image from the Docker registry on all hosts.
     
 
-1.  **\`ansible all -m docker\_container -a 'name=mynginx image=nginx:latest state=started'\`: Runs a Docker container named \`mynginx\` from the Nginx image on all hosts.**
+1.  **```ansible all -m docker\_container -a 'name=mynginx image=nginx:latest state=started'```: Runs a Docker container named ```mynginx``` from the Nginx image on all hosts.**
     
 
-*   Output: Runs the Nginx Docker container named \`mynginx\` on each host.
+*   Output: Runs the Nginx Docker container named ```mynginx``` on each host.
     
 
-*   Explanation: This command starts a Docker container named \`mynginx\` using the Nginx image on all hosts.
+*   Explanation: This command starts a Docker container named ```mynginx``` using the Nginx image on all hosts.
     
 
-1.  **\`ansible all -m systemd -a 'name=nginx state=restarted' --become\`: Restarts the Nginx service using systemd on all hosts.**
+1.  **```ansible all -m systemd -a 'name=nginx state=restarted' --become```: Restarts the Nginx service using systemd on all hosts.**
     
 
 *   Output: Restarts the Nginx service on each host.
@@ -6667,17 +6667,17 @@ Explanation: This command installs the Nginx web server package on all hosts usi
 *   Explanation: This command restarts the Nginx service using systemd on all hosts.
     
 
-1.  **\`ansible**
+1.  **```ansible**
     
 
-**all -m shell -a 'command'\`: Executes a shell command on all hosts.**
+**all -m shell -a 'command'```: Executes a shell command on all hosts.**
 
-\- Output: Executes the specified shell command on each host.
+- Output: Executes the specified shell command on each host.
 
 *   Explanation: This command runs a shell command on all hosts, allowing for arbitrary commands to be executed.
     
 
-1.  **\`ansible all -m raw -a 'command'\`: Executes a raw command on all hosts.**
+1.  **```ansible all -m raw -a 'command'```: Executes a raw command on all hosts.**
     
     *   **Output: Executes the specified raw command on each host.**
         
@@ -6685,7 +6685,7 @@ Explanation: This command installs the Nginx web server package on all hosts usi
 *   Explanation: This command executes a raw command without going through the Ansible module system, providing more flexibility for complex tasks.
     
 
-1.  **\`ansible all -m apt -a 'update\_cache=yes' --become\`: Updates the APT package cache on all hosts.**
+1.  **```ansible all -m apt -a 'update\_cache=yes' --become```: Updates the APT package cache on all hosts.**
     
 
 *   Output: Updates the APT package cache on each host.
@@ -6694,7 +6694,7 @@ Explanation: This command installs the Nginx web server package on all hosts usi
 *   Explanation: This command updates the package cache for APT on all hosts, ensuring that the latest package information is available.
     
 
-1.  **\`ansible all -m yum -a 'update\_cache=yes' --become\`: Updates the YUM package cache on all hosts.**
+1.  **```ansible all -m yum -a 'update\_cache=yes' --become```: Updates the YUM package cache on all hosts.**
     
 
 *   Output: Updates the YUM package cache on each host.
@@ -6703,7 +6703,7 @@ Explanation: This command installs the Nginx web server package on all hosts usi
 *   Explanation: This command updates the package cache for YUM on all hosts, ensuring that the latest package information is available.
     
 
-1.  **\`ansible all -m apt -a 'name=nginx state=absent' --become\`: Removes the Nginx package using APT on all hosts.**
+1.  **```ansible all -m apt -a 'name=nginx state=absent' --become```: Removes the Nginx package using APT on all hosts.**
     
     *   Output: Removes the Nginx package on each host.
         
@@ -6711,7 +6711,7 @@ Explanation: This command installs the Nginx web server package on all hosts usi
 *   Explanation: This command removes the Nginx package from all hosts using the APT package manager.
     
 
-1.  **\`ansible all -m yum -a 'name=nginx state=absent' --become\`: Removes the Nginx package using YUM on all hosts.**
+1.  **```ansible all -m yum -a 'name=nginx state=absent' --become```: Removes the Nginx package using YUM on all hosts.**
     
 
 *   Output: Removes the Nginx package on each host.
@@ -6720,42 +6720,42 @@ Explanation: This command installs the Nginx web server package on all hosts usi
 *   Explanation: This command removes the Nginx package from all hosts using the YUM package manager.
     
 
-1.  **\`ansible all -m command -a 'uptime'\`: Retrieves the uptime information of all hosts.**
+1.  **```ansible all -m command -a 'uptime'```: Retrieves the uptime information of all hosts.**
     
     *   **Output: Displays the uptime information of each host.**
         
 
-*   Explanation: This command retrieves the uptime information of all hosts by executing the \`uptime\` command.
+*   Explanation: This command retrieves the uptime information of all hosts by executing the ```uptime``` command.
     
 
-1.  **\`ansible all -m copy -a 'content="Hello, World!" dest=/tmp/greeting.txt'\`: Creates a file with content on all hosts.**
+1.  **```ansible all -m copy -a 'content="Hello, World!" dest=/tmp/greeting.txt'```: Creates a file with content on all hosts.**
     
 
-*   Output: Creates the file \`/tmp/greeting.txt\` with the specified content on each host.
+*   Output: Creates the file ```/tmp/greeting.txt``` with the specified content on each host.
     
 
 *   Explanation: This command creates a file with the specified content on all hosts at the specified destination.
     
 
-1.  **\`ansible all -m lineinfile -a 'path=/etc/hosts line="192.168.0.1 host1.example.com" state=present' --become\`: Ensures a line is present in the \`/etc/hosts\` file on all hosts.**
+1.  **```ansible all -m lineinfile -a 'path=/etc/hosts line="192.168.0.1 host1.example.com" state=present' --become```: Ensures a line is present in the ```/etc/hosts``` file on all hosts.**
     
 
-*   Output: Adds the specified line to the \`/etc/hosts\` file on each host if it doesn't exist.
+*   Output: Adds the specified line to the ```/etc/hosts``` file on each host if it doesn't exist.
     
 
-*   Explanation: This command ensures that the specified line is present in the \`/etc/hosts\` file on all hosts. If the line doesn't exist, it will be added.
+*   Explanation: This command ensures that the specified line is present in the ```/etc/hosts``` file on all hosts. If the line doesn't exist, it will be added.
     
 
-1.  **\`ansible all -m template -a 'src=template.j2 dest=/etc/config.conf'\`: Renders a Jinja2 template and deploys it to all hosts.**
+1.  **```ansible all -m template -a 'src=template.j2 dest=/etc/config.conf'```: Renders a Jinja2 template and deploys it to all hosts.**
     
 
-*   Output: Deploys the rendered template to \`/etc/config.conf\` on each host.
+*   Output: Deploys the rendered template to ```/etc/config.conf``` on each host.
     
 
 *   Explanation: This command renders a Jinja2 template and deploys the resulting file to the specified destination on all hosts.
     
 
-1.  **\`ansible all -m systemd -a 'name=nginx enabled=yes' --become\`: Enables the Nginx service to start on boot using systemd on all hosts.**
+1.  **```ansible all -m systemd -a 'name=nginx enabled=yes' --become```: Enables the Nginx service to start on boot using systemd on all hosts.**
     
     *   Output
         
@@ -6766,7 +6766,7 @@ Explanation: This command installs the Nginx web server package on all hosts usi
 *   Explanation: This command configures the Nginx service to start automatically on boot using systemd on all hosts.
     
 
-1.  **\`ansible all -m command -a 'echo {{ inventory\_hostname }}'\`: Prints the hostname of all hosts.**
+1.  **```ansible all -m command -a 'echo {{ inventory\_hostname }}'```: Prints the hostname of all hosts.**
     
 
 *   **Output: Prints the hostname of each host.**
@@ -6775,16 +6775,16 @@ Explanation: This command installs the Nginx web server package on all hosts usi
 *   Explanation: This command retrieves and prints the hostname of all hosts.
     
 
-1.  **\`ansible all -m debug -a 'msg="{{ ansible\_distribution }}"'\`: Displays the distribution name of all hosts.**
+1.  **```ansible all -m debug -a 'msg="{{ ansible\_distribution }}"'```: Displays the distribution name of all hosts.**
     
 
 *   Output: Displays the distribution name of each host.
     
 
-*   Explanation: This command retrieves and displays the distribution name of all hosts using the \`ansible\_distribution\` variable.
+*   Explanation: This command retrieves and displays the distribution name of all hosts using the ```ansible\_distribution``` variable.
     
 
-1.  **\`ansible all -m setup -a 'filter=ansible\_mounts'\`: Retrieves information about mounted filesystems on all hosts.**
+1.  **```ansible all -m setup -a 'filter=ansible\_mounts'```: Retrieves information about mounted filesystems on all hosts.**
     
 
 *   Output: Displays information about mounted filesystems on each host.
@@ -6793,19 +6793,19 @@ Explanation: This command installs the Nginx web server package on all hosts usi
 *   Explanation: This command retrieves and displays information about mounted filesystems on all hosts.
     
 
-1.  **\`ansible all -m file -a 'path=/tmp/test.txt mode=0644'\`: Changes the permissions of a file on all hosts.**
+1.  **```ansible all -m file -a 'path=/tmp/test.txt mode=0644'```: Changes the permissions of a file on all hosts.**
     
 
-*   Output: Changes the permissions of \`/tmp/test.txt\` to \`0644\` on each host.
+*   Output: Changes the permissions of ```/tmp/test.txt``` to ```0644``` on each host.
     
 
 *   Explanation: This command modifies the permissions of a file to the specified mode on all hosts.
     
 
-1.  **\`ansible all -m shell -a 'ls -l /tmp'\`: Executes a shell command on all hosts and displays the output.**
+1.  **```ansible all -m shell -a 'ls -l /tmp'```: Executes a shell command on all hosts and displays the output.**
     
 
-*   Output: Executes the \`ls -l /tmp\` command on each host and displays the output.
+*   Output: Executes the ```ls -l /tmp``` command on each host and displays the output.
     
 
 *   Explanation: This command runs the specified shell command on all hosts and shows the resulting output.
@@ -7192,9 +7192,9 @@ exposes a RESTful API that enables programmatic interaction with Grafana. You ca
 1.  To create a dashboard in Grafana, you can follow these steps: - Log in to Grafana and navigate to the dashboard section.
     
 
-\- Click on the "New Dashboard" button.
+- Click on the "New Dashboard" button.
 
-\- Choose a visualization panel type (e.g., graph, singlestat, table) and
+- Choose a visualization panel type (e.g., graph, singlestat, table) and
 
 configure its settings.
 
@@ -7232,9 +7232,9 @@ the data you want to visualize. To add a data source in Grafana:
 1.  To create alerts in Grafana, you can follow these steps: - Open the dashboard you want to set up alerts for.
     
 
-\- Select the panel you want to set an alert on.
+- Select the panel you want to set an alert on.
 
-\- Click on the panel title, choose "Edit," and then click on the "Alert"
+- Click on the panel title, choose "Edit," and then click on the "Alert"
 
 tab.
 
@@ -7253,15 +7253,15 @@ tab.
 1.  Grafana supports various authentication methods. To configure user authentication:
     
 
-\- Go to the configuration page and click on "Server" in the sidebar.
+- Go to the configuration page and click on "Server" in the sidebar.
 
-\- Under the "Auth" section, choose the authentication method you want to use (e.g., built-in, LDAP, OAuth).
+- Under the "Auth" section, choose the authentication method you want to use (e.g., built-in, LDAP, OAuth).
 
-\- Configure the necessary settings for the selected authentication method, such as LDAP server details or OAuth provider credentials.
+- Configure the necessary settings for the selected authentication method, such as LDAP server details or OAuth provider credentials.
 
-\- Test the authentication setup to ensure it's working correctly.
+- Test the authentication setup to ensure it's working correctly.
 
-\- Save the configuration, and users will now be required to authenticate using the chosen method.
+- Save the configuration, and users will now be required to authenticate using the chosen method.
 
 1.  **Q: How can you extend Grafana's functionality using plugins?**
     
@@ -7269,13 +7269,13 @@ tab.
 1.  Grafana allows you to extend its functionality through plugins. To add a plugin:
     
 
-\- Go to the Grafana plugin marketplace or the official Grafana plugins GitHub repository.
+- Go to the Grafana plugin marketplace or the official Grafana plugins GitHub repository.
 
-\- Find the plugin you want to use and download its source code or install it directly from the marketplace.
+- Find the plugin you want to use and download its source code or install it directly from the marketplace.
 
-\- Copy the plugin folder to the Grafana plugin directory. - Restart the Grafana server.
+- Copy the plugin folder to the Grafana plugin directory. - Restart the Grafana server.
 
-\- Once the plugin is installed, you can configure and use it by accessing its settings within the Grafana interface.
+- Once the plugin is installed, you can configure and use it by accessing its settings within the Grafana interface.
 
 **Grafana interview question and answers for ADVANCED LEVEL**
 
@@ -7291,13 +7291,13 @@ tab.
 1.  Grafana supports external authentication providers through its built-in plugins. To integrate Grafana with OAuth or LDAP:
     
 
-\- Install the corresponding authentication plugin from the Grafana plugin marketplace.
+- Install the corresponding authentication plugin from the Grafana plugin marketplace.
 
-\- Configure the plugin settings, such as OAuth provider details or LDAP server connection parameters.
+- Configure the plugin settings, such as OAuth provider details or LDAP server connection parameters.
 
-\- Restart the Grafana server to apply the changes.
+- Restart the Grafana server to apply the changes.
 
-\- Users will now be able to authenticate using the chosen external authentication method.
+- Users will now be able to authenticate using the chosen external authentication method.
 
 1.  **Q: What are data sources in Grafana and how can you create a custom data source plugin?**
     
@@ -7305,13 +7305,13 @@ tab.
 1.  In Grafana, data sources are plugins that provide access to different databases or systems to retrieve and visualize data. To create a custom data source plugin:
     
 
-\- Define the plugin's data retrieval logic and communication with the target database or system.
+- Define the plugin's data retrieval logic and communication with the target database or system.
 
-\- Implement the necessary API endpoints and methods to handle data queries and transformations.
+- Implement the necessary API endpoints and methods to handle data queries and transformations.
 
-\- Package the plugin as a Grafana plugin and follow the plugin development guidelines provided by Grafana.
+- Package the plugin as a Grafana plugin and follow the plugin development guidelines provided by Grafana.
 
-\- Install and enable the custom data source plugin in Grafana, and configure its settings to connect to the desired data source.
+- Install and enable the custom data source plugin in Grafana, and configure its settings to connect to the desired data source.
 
 1.  **Q: Explain how Grafana provisioning works and how it can be used for configuration management.**
     
@@ -7329,13 +7329,13 @@ dashboards, data sources, users, and other Grafana configurations as code. By us
 
 To extend Grafana's alerting system with custom notifiers:
 
-\- Create a custom notifier plugin by following the Grafana plugin development guidelines.
+- Create a custom notifier plugin by following the Grafana plugin development guidelines.
 
-\- Implement the necessary logic to handle notifications using the desired communication method or API.
+- Implement the necessary logic to handle notifications using the desired communication method or API.
 
-\- Install and enable the custom notifier plugin in Grafana.
+- Install and enable the custom notifier plugin in Grafana.
 
-\- Configure the notifier settings in Grafana's alert rule definitions to utilize the custom notifier for specific alerts.
+- Configure the notifier settings in Grafana's alert rule definitions to utilize the custom notifier for specific alerts.
 
 1.  **Q: How can you optimize the performance of Grafana dashboards with large datasets?**
     
@@ -7343,19 +7343,19 @@ To extend Grafana's alerting system with custom notifiers:
 1.  To optimize the performance of Grafana dashboards with large datasets:
     
 
-\- Use data source-specific techniques like query optimizations, data aggregation, or precomputation of metrics.
+- Use data source-specific techniques like query optimizations, data aggregation, or precomputation of metrics.
 
-\- Employ caching mechanisms, such as using a caching proxy in front of the data source.
+- Employ caching mechanisms, such as using a caching proxy in front of the data source.
 
-\- Leverage Grafana's built-in features like query variables, time range controls, and query result caching.
+- Leverage Grafana's built-in features like query variables, time range controls, and query result caching.
 
-\- Avoid unnecessary or expensive queries by optimizing panel configurations and queries.
+- Avoid unnecessary or expensive queries by optimizing panel configurations and queries.
 
-\- Consider using techniques like data downsampling or data summarization to reduce the amount of data fetched and rendered.
+- Consider using techniques like data downsampling or data summarization to reduce the amount of data fetched and rendered.
 
 **Grafana interview question and answers SCENARIO BASED**
 
-_**1\. Scenario:**_
+_**1. Scenario:**_
 
 **You have been given the task to monitor a distributed application consisting of multiple microservices. Each microservice exposes**
 
@@ -7472,7 +7472,7 @@ Answer: To customize the appearance of a Grafana dashboard:
 
 **Answer: Before deploying applications on EC2 instances, you should ensure the following prerequisites:**
 
-1.  **Update and Upgrade**: Run \`sudo yum update\` (for Amazon Linux) or \`sudo apt-get update && sudo apt-get upgrade\` (for Ubuntu) to update the instance's packages and operating system.
+1.  **Update and Upgrade**: Run ```sudo yum update``` (for Amazon Linux) or ```sudo apt-get update && sudo apt-get upgrade``` (for Ubuntu) to update the instance's packages and operating system.
     
 
 1.  **Install Required Software**: Install necessary software packages and dependencies for your application. For example, install web servers, databases, runtime environments, etc.

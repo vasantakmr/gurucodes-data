@@ -1,7 +1,9 @@
 ---
-title: "ansible:A to Z of automations"
+title: "Ansible:A to Z of Automations"
 ---
-# Install Ansible on EC2 instance - 
+
+
+### Install Ansible on EC2 instance - 
 **yum install ansible -y**
 
 ### Automation1 - Play to install apache apache_install.yml 
