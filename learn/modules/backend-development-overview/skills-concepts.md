@@ -34,4 +34,4 @@ Here’s a quick look at what lies ahead in your backend development journey:
 
 Backend development is an exciting and rewarding field that is critical to the functionality of web and mobile applications. As you progress through this roadmap, you’ll gain the skills to create powerful, secure, and scalable backend systems that can handle real-world challenges. Stick with it, and by the end of this journey, you’ll be equipped to take on professional backend developer roles!
 
-![Backend Development Overview](images/backend_development_overview.png)
+![Backend Development Overview](https://gurucodes-data.pages.dev/img/learn/backend/overview.png)
