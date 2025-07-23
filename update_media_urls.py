@@ -15,11 +15,11 @@ def extract_trailing_number(filename):
     match = re.search(r'(\d+)(?=\.[^.]+$)', filename)
     return int(match.group(1)) if match else float('inf')
 
-# Step 1: Build a mapping from leaf folder name (lowercase) to list of image file relative paths
+# Step 1: Build a mapping from leaf folder name (lowercase, stripped) to list of image file relative paths
 folder_to_images = {}
 for dirpath, dirnames, filenames in os.walk(ROOT_DIR):
     if not dirnames:
-        leaf_folder = os.path.basename(dirpath)
+        leaf_folder = os.path.basename(dirpath).strip()
         images = [f for f in filenames if os.path.splitext(f)[1].lower() in IMAGE_EXTS]
         if images:
             # Sort images by trailing number, then alphabetically
@@ -38,6 +38,7 @@ with open(INPUT_CSV, newline='', encoding='utf-8') as infile, open(OUTPUT_CSV, '
     writer.writeheader()
     for row in reader:
         variant = row.get('Product Variant Name', '').strip().lower()
+        variant = variant.strip()  # Extra strip in case of double spaces
         urls = []
         if variant:
             if 'applecare' in variant:
